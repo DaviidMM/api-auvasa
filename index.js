@@ -10,14 +10,34 @@ app.set("json spaces", 2);
 
 app.get("/", (req, res) => {
   res.send(
-    "Añade un número de parada y línea a la URL para continuar. Sintaxis: URL/<Nº parada>/<Línea>"
+    `Añade un número de parada y línea a la URL para continuar. Sintaxis: http://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: http://${req.hostname}/811/3`
   );
 });
 
-app.get("/:parada", (req, res) => {
-  res.status(400).json({
-    error: "No se ha indicado línea",
-  });
+app.get("/:parada", async (req, res) => {
+  const { parada } = req.params;
+  console.log("[🔎] Buscando: ");
+  console.log({ parada });
+  const page = await phin({
+    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
+    parse: "string",
+  }).then((res) => res.body);
+  const $ = cheerio.load(page);
+  if (!$(".table tbody tr").length)
+    return res
+      .status(404)
+      .json({ error: "No se ha encontrado la parada indicada" });
+
+  const buses = $(".table tbody tr")
+    .toArray()
+    .reduce((acc, bus) => {
+      const celdas = $(bus).find("td");
+      const destino = celdas.eq(3).text();
+      const linea = celdas.eq(0).text();
+      const tiempoRestante = celdas.eq(4).text();
+      return [{ destino, linea, tiempoRestante }, ...acc];
+    }, []);
+  res.json(buses);
 });
 
 app.get("/:parada/:linea", async (req, res) => {
