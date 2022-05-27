@@ -44,3 +44,6 @@ app.get("/:parada/:linea", async (req, res) => {
 app.listen(app.get("port"), () => {
   console.log(`Server listening on port ${app.get("port")}`);
 });
+
+// Export the Express API
+module.exports = app;
