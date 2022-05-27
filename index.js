@@ -8,6 +8,12 @@ const app = express();
 app.set("port", process.env.PORT || 3000);
 app.set("json spaces", 2);
 
+app.get("/", (req, res) => {
+  res.send(
+    "Añade un número de parada y línea a la URL para continuar. Sintaxis: URL/<Nº parada>/<Línea>"
+  );
+});
+
 app.get("/:parada", (req, res) => {
   res.status(400).json({
     error: "No se ha indicado línea",
