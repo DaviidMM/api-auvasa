@@ -8,7 +8,7 @@ Se puede consultar la API a través de la URL [https://api-auvasa.vercel.app/](h
 
 ## Uso de la API
 
-Para recuperar información se hará a través de una petición `GET` al servidor. Por ejemplo, para solicitar información de la línea 3 en la parada número 811, la petición debe ir contra la URL `<servidor>/811/3`.
+Para recuperar información se hará a través de una petición `GET` al servidor. Por ejemplo, para solicitar información de la línea 3 en la parada número 811, la petición debe ir contra la URL [https://api-auvasa.vercel.app/811/3](https://api-auvasa.vercel.app/811/3).
 
 ### Funciones
 
@@ -27,6 +27,8 @@ curl -X GET https://api-auvasa.vercel.app/811/3
 ```
 
 ## Despliegue
+
+> Actualmente la API está desplegada bajo la URL https://api-auvasa.vercel.app/
 
 `npm install` sobre la raíz del proyecto para instalar dependencias.
 
