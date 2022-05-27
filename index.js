@@ -17,8 +17,9 @@ app.get("/", (req, res) => {
 app.get("/:parada", async (req, res) => {
   const { parada } = req.params;
   const page = await phin({
-    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
+    url: `https://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
+    core: { rejectUnauthorized: false },
   }).then((res) => res.body);
   const $ = cheerio.load(page);
   if (!$(".table tbody tr").length)
@@ -43,6 +44,7 @@ app.get("/:parada/:linea", async (req, res) => {
   const pageContent = await phin({
     url: `https://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
+    core: { rejectUnauthorized: false },
   }).then((res) => res.body);
   const $ = cheerio.load(pageContent);
   const buses = $(".table tbody tr")
