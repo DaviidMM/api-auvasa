@@ -21,7 +21,7 @@ curl -x GET https://api-auvasa.vercel.app/811
 
 #### Información de una línea en una parada
 
-```curl
+```bash
 curl -X GET https://api-auvasa.vercel.app/<Nº parada>/<Línea>
 curl -X GET https://api-auvasa.vercel.app/811/3
 ```
