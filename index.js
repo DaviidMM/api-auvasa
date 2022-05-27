@@ -41,7 +41,7 @@ app.get("/:parada", async (req, res) => {
 app.get("/:parada/:linea", async (req, res) => {
   const { parada, linea } = req.params;
   const pageContent = await phin({
-    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
+    url: `https://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
   }).then((res) => res.body);
   const $ = cheerio.load(pageContent);
