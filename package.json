@@ -1,0 +1,25 @@
+{
+  "name": "api-auvasa",
+  "version": "1.0.0",
+  "description": "Api para recuperar información de los autobuses de Valladolid",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
+    "phin": "^3.6.1",
+    "prettier": "^2.6.2"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "livereload": "^0.9.3",
+    "nodemon": "^2.0.16"
+  },
+  "type": "module"
+}
