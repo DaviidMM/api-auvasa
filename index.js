@@ -16,8 +16,6 @@ app.get("/", (req, res) => {
 
 app.get("/:parada", async (req, res) => {
   const { parada } = req.params;
-  console.log("[🔎] Buscando: ");
-  console.log({ parada });
   const page = await phin({
     url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
@@ -42,8 +40,6 @@ app.get("/:parada", async (req, res) => {
 
 app.get("/:parada/:linea", async (req, res) => {
   const { parada, linea } = req.params;
-  console.log("[🔎] Buscando: ");
-  console.log({ parada, linea });
   const pageContent = await phin({
     url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
