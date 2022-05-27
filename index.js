@@ -1,6 +1,6 @@
-import express from "express";
-import phin from "phin";
-import * as cheerio from "cheerio";
+const express = require("express");
+const phin = require("phin");
+const cheerio = require("cheerio");
 
 const app = express();
 
