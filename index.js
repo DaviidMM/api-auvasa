@@ -1,12 +1,19 @@
 const express = require("express");
 const phin = require("phin");
 const cheerio = require("cheerio");
+const cors = require("cors");
 
 const app = express();
 
 //Configuraciones
 app.set("port", process.env.PORT || 3000);
 app.set("json spaces", 2);
+
+app.use(
+  cors({
+    origin: "*",
+  })
+);
 
 app.get("/", (req, res) => {
   res.send(
@@ -36,7 +43,6 @@ app.get("/:parada", async (req, res) => {
       const tiempoRestante = celdas.eq(4).text();
       return [{ destino, linea, tiempoRestante }, ...acc];
     }, []);
-  res.setHeader("Access-Control-Allow-Origin", "*");
   res.json(buses);
 });
 
@@ -62,7 +68,6 @@ app.get("/:parada/:linea", async (req, res) => {
     return res.status(404).json({
       error: `No se ha encontrado la línea ${linea} en la parada nº ${parada}`,
     });
-  res.setHeader("Access-Control-Allow-Origin", "*");
   res.json(bus);
 });
 
