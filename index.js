@@ -60,10 +60,16 @@ app.get("/:parada/:linea", async (req, res) => {
       const celdas = $(bus).find("td");
       const destino = celdas.eq(3).text();
       const linea = celdas.eq(0).text();
-      const tiempoRestante = celdas.eq(4).text();
+      const tiempoRestante = parseInt(celdas.eq(4).text());
       return [{ destino, linea, tiempoRestante }, ...acc];
     }, []);
-  const bus = buses.filter((bus) => bus.linea === linea)[0];
+  const bus = buses
+    .filter((bus) => bus.linea === linea)
+    .sort((a, b) => {
+      if (a.tiempoRestante < b.tiempoRestante) return -1;
+      if (a.tiempoRestante > b.tiempoRestante) return 1;
+      return 0;
+    })[0];
   if (!bus)
     return res.status(404).json({
       error: `No se ha encontrado la línea ${linea} en la parada nº ${parada}`,
