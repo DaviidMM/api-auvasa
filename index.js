@@ -70,7 +70,7 @@ app.get("/:parada/:linea", async (req, res) => {
       if (a.tiempoRestante > b.tiempoRestante) return 1;
       return 0;
     });
-  if (!bus)
+  if (!bus.length)
     return res.status(404).json({
       error: `No se ha encontrado la línea ${linea} en la parada nº ${parada}`,
     });
