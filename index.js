@@ -24,7 +24,7 @@ app.get("/", (req, res) => {
 app.get("/:parada", async (req, res) => {
   const { parada } = req.params;
   const page = await phin({
-    url: `https://www.auvasa.es/parada.asp?codigo=${parada}`,
+    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
     core: { rejectUnauthorized: false },
   }).then((res) => res.body);
@@ -49,7 +49,7 @@ app.get("/:parada", async (req, res) => {
 app.get("/:parada/:linea", async (req, res) => {
   const { parada, linea } = req.params;
   const pageContent = await phin({
-    url: `https://www.auvasa.es/parada.asp?codigo=${parada}`,
+    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
     parse: "string",
     core: { rejectUnauthorized: false },
   }).then((res) => res.body);
@@ -74,7 +74,7 @@ app.get("/:parada/:linea", async (req, res) => {
     return res.status(404).json({
       error: `No se ha encontrado la línea ${linea} en la parada nº ${parada}`,
     });
-  res.json(bus);
+  return res.json(bus);
 });
 
 //Iniciando el servidor, escuchando...
