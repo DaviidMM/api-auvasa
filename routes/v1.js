@@ -23,7 +23,7 @@ routes.get('/:numParada', async (req, res) => {
   if (!buses) {
     return res
       .status(404)
-      .json({ error: 'No se ha encontrado buses en la parada indicada' });
+      .json({ error: 'No se han encontrado buses en la parada indicada' });
   }
 
   return res.json({
@@ -42,6 +42,7 @@ routes.get('/:numParada/:linea', async (req, res) => {
       message: `No se han encontrado buses en la parada nº ${numParada}.`,
     });
   }
+
   const buses = allBuses.filter((bus) => bus.linea === linea);
   if (!buses.length) {
     return res.status(404).json({
