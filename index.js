@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const { getBuses, getBusCercano, getInfoParada } = require('./utils');
+const { getBuses, getInfoParada } = require('./utils');
 
 const app = express();
 
@@ -39,6 +39,11 @@ app.get('/:numParada/:linea', async (req, res) => {
 
   const parada = await getInfoParada(numParada);
   const allBuses = await getBuses(numParada);
+  if (!allBuses) {
+    return res.status(404).json({
+      message: `No se han encontrado buses en la parada nº ${numParada}.`,
+    });
+  }
   const buses = allBuses.filter((bus) => bus.linea === linea);
   if (!buses.length) {
     return res.status(404).json({
