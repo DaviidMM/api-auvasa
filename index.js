@@ -1,11 +1,10 @@
 const express = require('express');
-const cheerio = require('cheerio');
 const cors = require('cors');
-const { getParada } = require('./utils');
+const { getBuses, getClosestBus } = require('./utils');
 
 const app = express();
 
-//Configuraciones
+// Configuraciones
 app.set('port', process.env.PORT || 3000);
 app.set('json spaces', 2);
 
@@ -19,53 +18,34 @@ app.get('/', (req, res) => {
 
 app.get('/:parada', async (req, res) => {
   const { parada } = req.params;
-  const page = await getParada(parada);
-  const $ = cheerio.load(page);
-  if (!$('.table tbody tr').length)
+
+  const buses = await getBuses(parada);
+
+  if (!buses) {
     return res
       .status(404)
       .json({ error: 'No se ha encontrado la parada indicada' });
+  }
 
-  const buses = $('.table tbody tr')
-    .toArray()
-    .reduce((acc, bus) => {
-      const celdas = $(bus).find('td');
-      const destino = celdas.eq(3).text();
-      const linea = celdas.eq(0).text();
-      const tiempoRestante = parseInt(celdas.eq(4).text());
-      return [{ destino, linea, tiempoRestante }, ...acc];
-    }, []);
   return res.json(buses);
 });
 
 app.get('/:parada/:linea', async (req, res) => {
   const { parada, linea } = req.params;
-  const pageContent = await getParada(parada);
-  const $ = cheerio.load(pageContent);
-  const buses = $('.table tbody tr')
-    .toArray()
-    .reduce((acc, bus) => {
-      const celdas = $(bus).find('td');
-      const destino = celdas.eq(3).text();
-      const linea = celdas.eq(0).text();
-      const tiempoRestante = parseInt(celdas.eq(4).text());
-      return [{ destino, linea, tiempoRestante }, ...acc];
-    }, []);
-  const bus = buses
-    .filter((bus) => bus.linea === linea)
-    .sort((a, b) => {
-      if (a.tiempoRestante < b.tiempoRestante) return -1;
-      if (a.tiempoRestante > b.tiempoRestante) return 1;
-      return 0;
-    });
-  if (!bus.length)
+
+  const buses = await getBuses(parada);
+  const bus = await getClosestBus(buses, linea);
+
+  if (!bus.length) {
     return res.status(404).json({
       error: `No se ha encontrado la línea ${linea} en la parada nº ${parada}`,
     });
+  }
+
   return res.json(bus);
 });
 
-//Iniciando el servidor, escuchando...
+// Iniciando el servidor, escuchando...
 app.listen(app.get('port'), () => {
   console.log(`Server listening on port ${app.get('port')}`);
 });
