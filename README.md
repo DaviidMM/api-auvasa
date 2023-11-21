@@ -10,10 +10,11 @@ Se puede consultar la API a través de la URL [https://api-auvasa.vercel.app/](h
 
 Para recuperar información se hará a través de una petición `GET` al servidor con los siguientes parámetros:
 
-|   Nombre    | Obligatorio |         Descripción          |
-| :---------: | :---------: | :--------------------------: |
-| `numParada` |    `Sí`     | Número de la parada a buscar |
-|   `linea`   |    `No`     |  Número de línea a filtrar   |
+|   Nombre    | Obligatorio |                      Descripción                      |
+| :---------: | :---------: | :---------------------------------------------------: |
+|   versión   |    `No`     | Versión de la API a consultar. Por defecto es la `v1` |
+| `numParada` |    `Sí`     |             Número de la parada a buscar              |
+|   `linea`   |    `No`     |               Número de línea a filtrar               |
 
 Si se envía el parámetro `linea`, se devolverán los datos filtrados para mostrar solo la línea indicada.
 
