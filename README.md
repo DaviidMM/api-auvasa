@@ -10,20 +10,18 @@ Se puede consultar la API a través de la URL [https://api-auvasa.vercel.app/](h
 
 Para recuperar información se hará a través de una petición `GET` al servidor con los siguientes parámetros:
 
-|   Nombre    | Obligatorio |                      Descripción                      |
-| :---------: | :---------: | :---------------------------------------------------: |
-|   versión   |    `No`     | Versión de la API a consultar. Por defecto es la `v1` |
-| `numParada` |    `Sí`     |             Número de la parada a buscar              |
-|   `linea`   |    `No`     |               Número de línea a filtrar               |
-
-Si se envía el parámetro `linea`, se devolverán los datos filtrados para mostrar solo la línea indicada.
+|   Nombre    | Obligatorio |                                          Descripción                                          |
+| :---------: | :---------: | :-------------------------------------------------------------------------------------------: |
+|   versión   |    `No`     |            Versión de la API a consultar. Si no se indica, por defecto es la `v1`.            |
+| `numParada` |    `Sí`     |                                 Número de la parada a buscar                                  |
+|   `linea`   |    `No`     | Número de línea a filtrar. Si se envía, solo se devolverán los tiempos para la línea indicada |
 
 ### Petición de parada
 
 Información de las líneas que van a pasar por una parada.
 
 ```bash
-curl -x GET https://api-auvasa.vercel.app/811
+curl -x GET https://api-auvasa.vercel.app/v1/811
 ```
 
 Resultado:
