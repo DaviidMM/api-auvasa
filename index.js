@@ -20,12 +20,18 @@ app.get('/:numParada', async (req, res) => {
   const { numParada } = req.params;
 
   const parada = await getInfoParada(numParada);
+  if (!parada.nombre) {
+    return res.status(404).json({
+      message: `No se ha encontrado la parada nº ${numParada}.`,
+    });
+  }
+
   const buses = await getBuses(numParada);
 
   if (!buses) {
     return res
       .status(404)
-      .json({ error: 'No se ha encontrado la parada indicada' });
+      .json({ error: 'No se ha encontrado buses en la parada indicada' });
   }
 
   return res.json({
