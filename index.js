@@ -1,43 +1,44 @@
-const express = require("express");
-const phin = require("phin");
-const cheerio = require("cheerio");
-const cors = require("cors");
+const express = require('express');
+const phin = require('phin');
+const cheerio = require('cheerio');
+const cors = require('cors');
+const { GET } = require('./utils');
 
 const app = express();
 
 //Configuraciones
-app.set("port", process.env.PORT || 3000);
-app.set("json spaces", 2);
+app.set('port', process.env.PORT || 3000);
+app.set('json spaces', 2);
 
 app.use(
   cors({
-    origin: "*",
-  })
+    origin: '*',
+  }),
 );
 
-app.get("/", (req, res) => {
+app.get('/', (req, res) => {
   res.send(
-    `Añade un número de parada y línea a la URL para continuar. Sintaxis: http://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: http://${req.hostname}/811/3`
+    `Añade un número de parada y línea a la URL para continuar. Sintaxis: http://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: http://${req.hostname}/811/3`,
   );
 });
 
-app.get("/:parada", async (req, res) => {
+app.get('/:parada', async (req, res) => {
   const { parada } = req.params;
   const page = await phin({
     url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
-    parse: "string",
+    parse: 'string',
     core: { rejectUnauthorized: false },
   }).then((res) => res.body);
   const $ = cheerio.load(page);
-  if (!$(".table tbody tr").length)
+  if (!$('.table tbody tr').length)
     return res
       .status(404)
-      .json({ error: "No se ha encontrado la parada indicada" });
+      .json({ error: 'No se ha encontrado la parada indicada' });
 
-  const buses = $(".table tbody tr")
+  const buses = $('.table tbody tr')
     .toArray()
     .reduce((acc, bus) => {
-      const celdas = $(bus).find("td");
+      const celdas = $(bus).find('td');
       const destino = celdas.eq(3).text();
       const linea = celdas.eq(0).text();
       const tiempoRestante = celdas.eq(4).text();
@@ -46,18 +47,18 @@ app.get("/:parada", async (req, res) => {
   res.json(buses);
 });
 
-app.get("/:parada/:linea", async (req, res) => {
+app.get('/:parada/:linea', async (req, res) => {
   const { parada, linea } = req.params;
   const pageContent = await phin({
     url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
-    parse: "string",
+    parse: 'string',
     core: { rejectUnauthorized: false },
   }).then((res) => res.body);
   const $ = cheerio.load(pageContent);
-  const buses = $(".table tbody tr")
+  const buses = $('.table tbody tr')
     .toArray()
     .reduce((acc, bus) => {
-      const celdas = $(bus).find("td");
+      const celdas = $(bus).find('td');
       const destino = celdas.eq(3).text();
       const linea = celdas.eq(0).text();
       const tiempoRestante = parseInt(celdas.eq(4).text());
@@ -78,8 +79,8 @@ app.get("/:parada/:linea", async (req, res) => {
 });
 
 //Iniciando el servidor, escuchando...
-app.listen(app.get("port"), () => {
-  console.log(`Server listening on port ${app.get("port")}`);
+app.listen(app.get('port'), () => {
+  console.log(`Server listening on port ${app.get('port')}`);
 });
 
 // Export the Express API
