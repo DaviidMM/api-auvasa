@@ -1,8 +1,7 @@
 const express = require('express');
-const phin = require('phin');
 const cheerio = require('cheerio');
 const cors = require('cors');
-const { GET } = require('./utils');
+const { getParada } = require('./utils');
 
 const app = express();
 
@@ -10,11 +9,7 @@ const app = express();
 app.set('port', process.env.PORT || 3000);
 app.set('json spaces', 2);
 
-app.use(
-  cors({
-    origin: '*',
-  }),
-);
+app.use(cors({ origin: '*' }));
 
 app.get('/', (req, res) => {
   res.send(
@@ -24,11 +19,7 @@ app.get('/', (req, res) => {
 
 app.get('/:parada', async (req, res) => {
   const { parada } = req.params;
-  const page = await phin({
-    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
-    parse: 'string',
-    core: { rejectUnauthorized: false },
-  }).then((res) => res.body);
+  const page = await getParada(parada);
   const $ = cheerio.load(page);
   if (!$('.table tbody tr').length)
     return res
@@ -44,16 +35,12 @@ app.get('/:parada', async (req, res) => {
       const tiempoRestante = celdas.eq(4).text();
       return [{ destino, linea, tiempoRestante }, ...acc];
     }, []);
-  res.json(buses);
+  return res.json(buses);
 });
 
 app.get('/:parada/:linea', async (req, res) => {
   const { parada, linea } = req.params;
-  const pageContent = await phin({
-    url: `http://www.auvasa.es/parada.asp?codigo=${parada}`,
-    parse: 'string',
-    core: { rejectUnauthorized: false },
-  }).then((res) => res.body);
+  const pageContent = await getParada(parada);
   const $ = cheerio.load(pageContent);
   const buses = $('.table tbody tr')
     .toArray()
