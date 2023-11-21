@@ -22,7 +22,7 @@ app.get('/:numParada', async (req, res) => {
   const parada = await getInfoParada(numParada);
   if (!parada.nombre) {
     return res.status(404).json({
-      message: `No se ha encontrado la parada nº ${numParada}.`,
+      message: `No se han encontrado la parada nº ${numParada}.`,
     });
   }
 
