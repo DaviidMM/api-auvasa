@@ -32,7 +32,7 @@ app.get('/:parada', async (req, res) => {
       const celdas = $(bus).find('td');
       const destino = celdas.eq(3).text();
       const linea = celdas.eq(0).text();
-      const tiempoRestante = celdas.eq(4).text();
+      const tiempoRestante = parseInt(celdas.eq(4).text());
       return [{ destino, linea, tiempoRestante }, ...acc];
     }, []);
   return res.json(buses);
