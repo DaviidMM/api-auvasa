@@ -38,14 +38,24 @@ const getBuses = async (parada) => {
     }, []);
 };
 
-const getClosestBus = (buses, linea) => {
+const getBusCercano = (buses, linea) => {
   return buses
     .filter((bus) => bus.linea === linea)
     .sort((a, b) => {
       if (a.tiempoRestante < b.tiempoRestante) return -1;
       if (a.tiempoRestante > b.tiempoRestante) return 1;
       return 0;
-    });
+    })[0];
 };
 
-module.exports = { GET, getBuses, getClosestBus, getParada };
+const getInfoParada = async (stop) => {
+  const page = await getParada(stop);
+  const $ = cheerio.load(page);
+  const nombre = $('.col_three_fifth.col_last h5').text().split('(')[0].trim();
+  return {
+    nombre,
+    numero: stop,
+  };
+};
+
+module.exports = { GET, getBuses, getBusCercano, getParada, getInfoParada };

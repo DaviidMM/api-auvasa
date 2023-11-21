@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const { getBuses, getClosestBus } = require('./utils');
+const { getBuses, getBusCercano, getInfoParada } = require('./utils');
 
 const app = express();
 
@@ -12,14 +12,15 @@ app.use(cors({ origin: '*' }));
 
 app.get('/', (req, res) => {
   res.send(
-    `Añade un número de parada y línea a la URL para continuar. Sintaxis: http://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: http://${req.hostname}/811/3`,
+    `Añade un número de parada y línea a la URL para continuar. Sintaxis: https://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: https://${req.hostname}/811/3`,
   );
 });
 
-app.get('/:parada', async (req, res) => {
-  const { parada } = req.params;
+app.get('/:numParada', async (req, res) => {
+  const { numParada } = req.params;
 
-  const buses = await getBuses(parada);
+  const parada = await getInfoParada(numParada);
+  const buses = await getBuses(numParada);
 
   if (!buses) {
     return res
@@ -27,22 +28,29 @@ app.get('/:parada', async (req, res) => {
       .json({ error: 'No se ha encontrado la parada indicada' });
   }
 
-  return res.json(buses);
+  return res.json({
+    parada,
+    buses,
+  });
 });
 
-app.get('/:parada/:linea', async (req, res) => {
-  const { parada, linea } = req.params;
+app.get('/:numParada/:linea', async (req, res) => {
+  const { numParada, linea } = req.params;
 
-  const buses = await getBuses(parada);
-  const bus = await getClosestBus(buses, linea);
+  const parada = await getInfoParada(numParada);
+  const buses = await getBuses(numParada);
+  const bus = getBusCercano(buses, linea);
 
-  if (!bus.length) {
+  if (!bus) {
     return res.status(404).json({
-      error: `No se ha encontrado la línea ${linea} en la parada nº ${parada}`,
+      message: `No se ha encontrado la línea ${linea} en la parada nº ${numParada}`,
     });
   }
 
-  return res.json(bus);
+  return res.json({
+    parada,
+    bus,
+  });
 });
 
 // Iniciando el servidor, escuchando...
