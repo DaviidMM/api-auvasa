@@ -38,10 +38,9 @@ app.get('/:numParada/:linea', async (req, res) => {
   const { numParada, linea } = req.params;
 
   const parada = await getInfoParada(numParada);
-  const buses = await getBuses(numParada);
-  const bus = getBusCercano(buses, linea);
-
-  if (!bus) {
+  const allBuses = await getBuses(numParada);
+  const buses = allBuses.filter((bus) => bus.linea === linea);
+  if (!buses.length) {
     return res.status(404).json({
       message: `No se ha encontrado la línea ${linea} en la parada nº ${numParada}`,
     });
@@ -49,7 +48,7 @@ app.get('/:numParada/:linea', async (req, res) => {
 
   return res.json({
     parada,
-    bus,
+    buses,
   });
 });
 
