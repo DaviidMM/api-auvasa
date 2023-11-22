@@ -1,5 +1,5 @@
 const express = require('express');
-const { getBuses, getParada } = require('../lib');
+const { getBuses, getParada, getParadas } = require('../lib');
 const routes = express.Router();
 
 const apicache = require('apicache');
@@ -13,8 +13,8 @@ routes.get('/', (req, res) => {
   );
 });
 
-routes.get('/paradas', (req, res) => {
-  const paradas = require('../data/paradas.json');
+routes.get('/paradas', async (req, res) => {
+  const paradas = await getParadas();
   return res.status(200).send(paradas);
 });
 
