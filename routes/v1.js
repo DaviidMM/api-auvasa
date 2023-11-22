@@ -1,6 +1,11 @@
 const express = require('express');
-const { getInfoParada, getBuses } = require('../utils');
+const { getBuses, getParada } = require('../utils');
 const routes = express.Router();
+
+const apicache = require('apicache');
+const cache = apicache.middleware;
+
+routes.use(cache('15 seconds'));
 
 routes.get('/', (req, res) => {
   res.send(
@@ -10,15 +15,16 @@ routes.get('/', (req, res) => {
 
 routes.get('/:numParada', async (req, res) => {
   const { numParada } = req.params;
+  req.apicacheGroup = numParada;
 
-  const parada = await getInfoParada(numParada);
+  const { parada, html } = await getParada(numParada);
   if (!parada.nombre) {
     return res.status(404).json({
       message: `No se han encontrado la parada nº ${numParada}.`,
     });
   }
 
-  const buses = await getBuses(numParada);
+  const buses = await getBuses(html);
 
   if (!buses) {
     return res
@@ -34,9 +40,10 @@ routes.get('/:numParada', async (req, res) => {
 
 routes.get('/:numParada/:linea', async (req, res) => {
   const { numParada, linea } = req.params;
+  req.apicacheGroup = numParada;
 
-  const parada = await getInfoParada(numParada);
-  const allBuses = await getBuses(numParada);
+  const { parada, html } = await getParada(numParada);
+  const allBuses = await getBuses(html);
   if (!allBuses) {
     return res.status(404).json({
       message: `No se han encontrado buses en la parada nº ${numParada}.`,

@@ -1,22 +1,19 @@
 const cheerio = require('cheerio');
 
 const GET = async (url) => {
+  console.log(`Fetching ${url}...`);
   return fetch(url)
     .then((response) => response.arrayBuffer())
     .then((buffer) => {
       const decoder = new TextDecoder('windows-1252');
       const text = decoder.decode(buffer);
+      console.log(`Fetched ${url}`);
       return text;
     });
 };
 
-const getParada = (parada) => {
-  return GET(`http://www.auvasa.es/parada.asp?codigo=${parada}`);
-};
-
-const getBuses = async (parada) => {
-  const page = await getParada(parada);
-  const $ = cheerio.load(page);
+const getBuses = async (html) => {
+  const $ = cheerio.load(html);
   if (!$('.table tbody tr').length) return false;
 
   return $('.table tbody tr')
@@ -48,14 +45,21 @@ const getBusCercano = (buses, linea) => {
     })[0];
 };
 
-const getInfoParada = async (stop) => {
-  const page = await getParada(stop);
+const getParada = async (stopNumber) => {
+  const page = await GET(
+    `http://www.auvasa.es/parada.asp?codigo=${stopNumber}`,
+  );
   const $ = cheerio.load(page);
   const nombre = $('.col_three_fifth.col_last h5').text().split('(')[0].trim();
   return {
-    nombre,
-    numero: stop,
+    parada: { nombre, numero: stopNumber },
+    html: $.html(),
   };
 };
 
-module.exports = { GET, getBuses, getBusCercano, getParada, getInfoParada };
+module.exports = {
+  GET,
+  getBuses,
+  getBusCercano,
+  getParada,
+};
