@@ -5,20 +5,19 @@ const routes = express.Router();
 const apicache = require('apicache');
 const cache = apicache.middleware;
 
-routes.use(cache('15 seconds'));
-
 routes.get('/', (req, res) => {
   return res.send(
     `Añade un número de parada y línea a la URL para continuar. Sintaxis: https://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: https://${req.hostname}/811/3`,
   );
 });
 
-routes.get('/paradas', async (req, res) => {
+routes.get('/paradas', cache('1 day'), async (req, res) => {
+  console.log('GET /paradas');
   const paradas = await getParadas();
   return res.status(200).send(paradas);
 });
 
-routes.get('/:numParada', async (req, res) => {
+routes.get('/:numParada', cache('15 seconds'), async (req, res) => {
   const { numParada } = req.params;
   req.apicacheGroup = numParada;
 
@@ -43,7 +42,7 @@ routes.get('/:numParada', async (req, res) => {
   });
 });
 
-routes.get('/:numParada/:linea', async (req, res) => {
+routes.get('/:numParada/:linea', cache('15 seconds'), async (req, res) => {
   const { numParada, linea } = req.params;
   req.apicacheGroup = numParada;
 
