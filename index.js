@@ -12,6 +12,11 @@ app.set('json spaces', 2);
 app.use(cors({ origin: '*' }));
 
 // Rutas
+app.use('/updateParadas', async (req, res) => {
+  const { updateParadas } = require('./lib');
+  await updateParadas();
+  return res.send({ message: 'Base de datos de paradas actualizada' });
+});
 app.use('/v1', v1Routes);
 app.use('/', defaultRoutes);
 
