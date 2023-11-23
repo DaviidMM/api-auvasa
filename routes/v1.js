@@ -12,7 +12,6 @@ routes.get('/', (req, res) => {
 });
 
 routes.get('/paradas', cache('1 day'), async (req, res) => {
-  console.log('GET /paradas');
   const paradas = await getParadas();
   return res.status(200).send(paradas);
 });
