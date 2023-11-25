@@ -1,5 +1,5 @@
 const express = require('express');
-const { getBuses, getParada, getParadas } = require('../lib');
+const { getBuses, getLineas, getParada, getParadas } = require('../lib');
 const routes = express.Router();
 
 const apicache = require('apicache');
@@ -10,6 +10,11 @@ routes.get('/', (req, res) => {
   return res.send(
     `Añade un número de parada y línea a la URL para continuar. Sintaxis: https://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: https://${req.hostname}/811/3`,
   );
+});
+
+routes.get('/lineas', cache('1 day'), async (req, res) => {
+  const lineas = await getLineas();
+  return res.status(200).send(lineas);
 });
 
 routes.get('/paradas', cache('1 day'), async (req, res) => {
