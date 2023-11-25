@@ -22,6 +22,11 @@ routes.get('/alertas', cache('15 minutes'), async (req, res) => {
   return res.status(200).send(alerts);
 });
 
+routes.get('/test', async (req, res) => {
+  const json = require('../test.json');
+  return res.status(200).send(json);
+});
+
 routes.get('/:numParada', cache('15 seconds'), async (req, res) => {
   const { numParada } = req.params;
   req.apicacheGroup = numParada;
