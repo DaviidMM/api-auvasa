@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
-        echo "{\"id\": \"2\", \"name\": \"McLovin\"}" > test.json
+        echo "cambio" > test.json
         git config user.name DaviidMM
         git config user.email dmuleromerino@gmail.com
         git add test.json
