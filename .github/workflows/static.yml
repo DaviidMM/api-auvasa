@@ -13,9 +13,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
-        echo "{\"id\": \"2\", \"name\": \"McLovin\"}" > test.json
+        npm run getGtfs
         git config user.name DaviidMM
         git config user.email dmuleromerino@gmail.com
-        git add test.json
+        git add gtfs-files
         git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update test.json"
         git push origin main
