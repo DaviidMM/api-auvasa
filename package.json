@@ -6,15 +6,21 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getGtfs": "node getGtfs.js"
   },
+  "type": "commonjs",
   "author": "",
   "license": "ISC",
   "dependencies": {
     "apicache": "^1.6.3",
     "cheerio": "^1.0.0-rc.11",
     "cors": "^2.8.5",
-    "express": "^4.18.1"
+    "csv-parser": "^3.0.0",
+    "decompress": "^4.2.1",
+    "express": "^4.18.1",
+    "gtfs": "^4.5.1",
+    "gtfs-realtime-bindings": "^1.1.1"
   },
   "devDependencies": {
     "connect-livereload": "^0.6.1",
@@ -24,5 +30,11 @@
     "livereload": "^0.9.3",
     "nodemon": "^2.0.16",
     "prettier": "^3.1.0"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "gtfs-files/",
+      "tmp/"
+    ]
   }
 }

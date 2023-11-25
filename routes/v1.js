@@ -3,6 +3,7 @@ const { getBuses, getParada, getParadas } = require('../lib');
 const routes = express.Router();
 
 const apicache = require('apicache');
+const { getAlertsFromGtfs } = require('../lib/gtfs');
 const cache = apicache.middleware;
 
 routes.get('/', (req, res) => {
@@ -14,6 +15,11 @@ routes.get('/', (req, res) => {
 routes.get('/paradas', cache('1 day'), async (req, res) => {
   const paradas = await getParadas();
   return res.status(200).send(paradas);
+});
+
+routes.get('/alertas', cache('15 minutes'), async (req, res) => {
+  const alerts = await getAlertsFromGtfs();
+  return res.status(200).send(alerts);
 });
 
 routes.get('/:numParada', cache('15 seconds'), async (req, res) => {
