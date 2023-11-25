@@ -23,7 +23,7 @@ routes.get('/alertas', cache('15 minutes'), async (req, res) => {
 });
 
 routes.get('/test', async (req, res) => {
-  const json = require('../test.json');
+  const json = require('../gtfs-files/agency.json');
   return res.status(200).send(json);
 });
 
