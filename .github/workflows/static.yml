@@ -2,6 +2,7 @@
 name: Update GTFS static files
 
 on:
+  workflow_dispatch:
   schedule:
   - cron: '0 7 * * *'
 
