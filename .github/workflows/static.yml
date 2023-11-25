@@ -1,0 +1,20 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Update GTFS static files
+
+on:
+  schedule:
+  - cron: '0 7 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        echo '{"id": "2", "name": "McLovin"}' > test.json
+        git config user.name DaviidMM
+        git config user.email dmuleromerino@gmail.com
+        git add test.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update test.json"
+        git push origin master
