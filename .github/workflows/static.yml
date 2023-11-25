@@ -13,9 +13,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
-        echo "cambio" > test.json
+        echo "{\"id\": \"2\", \"name\": \"McLovin\"}" > test.json
         git config user.name DaviidMM
         git config user.email dmuleromerino@gmail.com
         git add test.json
         git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update test.json"
-        git push origin master
+        git push origin main
