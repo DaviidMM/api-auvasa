@@ -13,6 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
+        npm install
         npm run getGtfs
         git config user.name DaviidMM
         git config user.email dmuleromerino@gmail.com
