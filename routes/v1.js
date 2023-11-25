@@ -8,7 +8,7 @@ const cache = apicache.middleware;
 
 routes.get('/', (req, res) => {
   return res.send(
-    `Añade un número de parada y línea a la URL para continuar. Sintaxis: https://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: https://${req.hostname}/811/3`,
+    `Añade un número de parada y línea a la URL para continuar. Sintaxis: https://${req.hostname}/Nº parada/Línea.<br/><br/>Por ejemplo: https://${req.hostname}/811/3<br/><br/><br/>Fuente: AUVASA`,
   );
 });
 
