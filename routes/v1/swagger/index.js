@@ -13,10 +13,17 @@ const options = {
 // Docs in JSON format
 const swaggerSpec = swaggerJSDoc(options);
 
+const CSS_URL =
+  'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.1.0/swagger-ui.min.css';
+
 // Function to setup our docs
 const swaggerDocs = (route) => {
   // Route-Handler to visit our docs
-  route.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+  route.use(
+    '/docs',
+    swaggerUi.serve,
+    swaggerUi.setup(swaggerSpec, { customCssUrl: CSS_URL }),
+  );
   // Make our docs in JSON format available
   route.get('/docs.json', (req, res) => {
     res.setHeader('Content-Type', 'application/json');
