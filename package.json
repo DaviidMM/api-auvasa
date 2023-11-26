@@ -20,7 +20,9 @@
     "decompress": "^4.2.1",
     "express": "^4.18.1",
     "gtfs": "^4.5.1",
-    "gtfs-realtime-bindings": "^1.1.1"
+    "gtfs-realtime-bindings": "^1.1.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
   },
   "devDependencies": {
     "connect-livereload": "^0.6.1",
