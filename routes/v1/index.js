@@ -15,7 +15,7 @@ routes.get('/', (req, res) => {
 });
 
 // Setup v1 API docs
-// v1SwaggerDocs(routes, 3000);
+v1SwaggerDocs(routes, 3000);
 
 /**
  * @swagger
