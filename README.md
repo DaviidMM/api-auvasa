@@ -6,17 +6,13 @@ API RESTful para devolver la información de paradas y líneas mostrada en la [w
 
 Se puede consultar la API a través de la URL [https://api-auvasa.vercel.app/](https://api-auvasa.vercel.app/).
 
-## Uso de la API
+## Documentación de la API
 
-Para recuperar información se hará a través de una petición `GET` al servidor con los siguientes parámetros:
+La documentación de la API se puede encontrar en la URL [https://api-auvasa.vercel.app/docs](https://api-auvasa.vercel.app/docs).
 
-|   Nombre    | Obligatorio |                                          Descripción                                          |
-| :---------: | :---------: | :-------------------------------------------------------------------------------------------: |
-|   versión   |    `No`     |            Versión de la API a consultar. Si no se indica, por defecto es la `v1`.            |
-| `numParada` |    `Sí`     |                                 Número de la parada a buscar                                  |
-|   `linea`   |    `No`     | Número de línea a filtrar. Si se envía, solo se devolverán los tiempos para la línea indicada |
+### Ejemplos de uso
 
-### Petición de parada
+#### Consulta de información de una parada
 
 Información de las líneas que van a pasar por una parada.
 
@@ -49,12 +45,12 @@ Resultado:
 }
 ```
 
-### Petición de una línea en una parada
+#### Consulta de una línea en una parada
 
 Información de una línea en una parada.
 
 ```bash
-curl -X GET https://api-auvasa.vercel.app/811/3
+curl -X GET https://api-auvasa.vercel.app/v1/811/3
 ```
 
 Resultado:
