@@ -5,16 +5,20 @@ const swaggerUi = require('swagger-ui-express');
 const options = {
   definition: {
     openapi: '3.0.0',
-    info: { title: 'API AUVASA', version: '1.0.0' },
+    info: {
+      title: 'API AUVASA',
+      version: '1.0.0',
+      description: 'API para obtener información de la web de AUVASA',
+    },
   },
-  apis: ['routes/v1/index.js', 'routes/v1/swagger/*.js'],
+  apis: ['routes/**/*.js'],
 };
 
 // Docs in JSON format
 const swaggerSpec = swaggerJSDoc(options);
 
 const CSS_URL =
-  'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.3.0/swagger-ui.min.css';
+  'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.6.2/swagger-ui.min.css';
 
 // Function to setup our docs
 const swaggerDocs = (route) => {
