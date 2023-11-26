@@ -2,7 +2,7 @@ const express = require('express');
 const { getBuses, getLineas, getParada, getParadas } = require('../../lib');
 const routes = express.Router();
 const { swaggerDocs: v1SwaggerDocs } = require('./swagger');
-// require('./swagger/schemas');
+require('./swagger/schemas');
 
 const apicache = require('apicache');
 const { getAlertsFromGtfs } = require('../../lib/gtfs');

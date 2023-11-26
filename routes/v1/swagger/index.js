@@ -11,7 +11,7 @@ const options = {
       description: 'API para obtener información de la web de AUVASA',
     },
   },
-  apis: ['routes/v1/**/*.js', 'routes/v1/swagger/schemas.js'],
+  apis: ['routes/v1/**/*.js'],
 };
 
 // Docs in JSON format
