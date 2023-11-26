@@ -22,7 +22,7 @@
     "gtfs": "^4.5.1",
     "gtfs-realtime-bindings": "^1.1.1",
     "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.0"
+    "swagger-ui-express": "4.6.3"
   },
   "devDependencies": {
     "connect-livereload": "^0.6.1",
