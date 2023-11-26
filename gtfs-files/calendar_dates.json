@@ -401,11 +401,6 @@
   },
   {
     "service_id": "L16_1B_L16A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L16_1B_L16A1",
     "date": "20231202",
     "exception_type": "1"
   },
@@ -1201,36 +1196,6 @@
   },
   {
     "service_id": "L18-19S_L18A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L18-19S_L18A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L18-19S_L18A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L18-19S_L18A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L18-19S_L18A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L18-19S_L18A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L18-19S_L18A1",
     "date": "20231202",
     "exception_type": "1"
   },
@@ -3086,46 +3051,6 @@
   },
   {
     "service_id": "L1A8_L1A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A7",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A8",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L1A8_L1A1",
     "date": "20231202",
     "exception_type": "1"
   },
@@ -3322,31 +3247,6 @@
   {
     "service_id": "L1A8_L1A8",
     "date": "20231230",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L23A1_L23_0740",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L23A1_L23_0905",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L23A1_L23_1305",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L23A1_L23_1605",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L23A1_L23_2120",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -4022,11 +3922,6 @@
   {
     "service_id": "L23A1_L23_2120",
     "date": "20231230",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L24DA1_L24A1",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -6176,46 +6071,6 @@
   },
   {
     "service_id": "L2A8_L2A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A7",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A8",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L2A8_L2A1",
     "date": "20231202",
     "exception_type": "1"
   },
@@ -6416,31 +6271,6 @@
   },
   {
     "service_id": "L3A5_L3A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L3A5_L3A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L3A5_L3A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L3A5_L3A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L3A5_L3A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L3A5_L3A1",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -7561,16 +7391,6 @@
   },
   {
     "service_id": "L4D2A_L4A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L4D2A_L4A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L4D2A_L4A1",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -8017,41 +7837,6 @@
   {
     "service_id": "L5A2_L5A2",
     "date": "20231231",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_L5A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_L5A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_L5A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_L5A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_RR1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_RR7_20",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L5A5N_RR8_10",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -9271,41 +9056,6 @@
   },
   {
     "service_id": "L6A7_L6A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A7",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L6A7_L6A1",
     "date": "20231202",
     "exception_type": "1"
   },
@@ -10471,36 +10221,6 @@
   },
   {
     "service_id": "L7A6_L7A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L7A6_L7A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L7A6_L7A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L7A6_L7A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L7A6_L7A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L7A6_L7A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L7A6_L7A1",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -11907,36 +11627,6 @@
   {
     "service_id": "L7A9_L7A9",
     "date": "20231229",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L8A6_L8A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L8A6_L8A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L8A6_L8A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L8A6_L8A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L8A6_L8A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L8A6_L8A6",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -14301,26 +13991,6 @@
   },
   {
     "service_id": "L9SA4_L9A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L9SA4_L9A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L9SA4_L9A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L9SA4_L9A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "L9SA4_L9A1",
     "date": "20231202",
     "exception_type": "1"
   },
@@ -14421,16 +14091,6 @@
   },
   {
     "service_id": "LB1_LB1A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB1_LB1A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB1_LB1A1",
     "date": "20231201",
     "exception_type": "1"
   },
@@ -14557,16 +14217,6 @@
   {
     "service_id": "LB1_LB1A2",
     "date": "20231230",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB2_LB2A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB2_LB2A2",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -14701,16 +14351,6 @@
   },
   {
     "service_id": "LB3_LB3A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB3_LB3A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB3_LB3A1",
     "date": "20231201",
     "exception_type": "1"
   },
@@ -14837,16 +14477,6 @@
   {
     "service_id": "LB3_LB3A2",
     "date": "20231230",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB4_LB4A1C1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB4_LB4A1C2",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -14981,11 +14611,6 @@
   },
   {
     "service_id": "LB5_LB5A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LB5_LB5A1",
     "date": "20231201",
     "exception_type": "1"
   },
@@ -15046,41 +14671,6 @@
   },
   {
     "service_id": "LC1A7D_LC1A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A7",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC1A7D_LC1A1",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -17936,41 +17526,6 @@
   },
   {
     "service_id": "LC2S7A_LC2A1",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A3",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A6",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A7",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LC2S7A_LC2A1",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -19231,11 +18786,6 @@
   },
   {
     "service_id": "LPE5_LPE5",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPE5_LPE5",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -19302,11 +18852,6 @@
   {
     "service_id": "LPE5_LPE5",
     "date": "20231231",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPE6_LPE6",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -19381,11 +18926,6 @@
   },
   {
     "service_id": "LPE7_LPE7",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPE7_LPE7",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -19452,11 +18992,6 @@
   {
     "service_id": "LPE7_LPE7",
     "date": "20231231",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPS1_LPS1",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -19641,11 +19176,6 @@
   },
   {
     "service_id": "LPS2_LPS2",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPS2_LPS2",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -19822,11 +19352,6 @@
   {
     "service_id": "LPS2_LPS2",
     "date": "20231231",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPS3_LPS3",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
@@ -20011,11 +19536,6 @@
   },
   {
     "service_id": "LPS4_LPS4",
-    "date": "20231125",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPS4_LPS4",
     "date": "20231126",
     "exception_type": "1"
   },
@@ -20192,11 +19712,6 @@
   {
     "service_id": "LPS4_LPS4",
     "date": "20231231",
-    "exception_type": "1"
-  },
-  {
-    "service_id": "LPS5_LPS5",
-    "date": "20231125",
     "exception_type": "1"
   },
   {
