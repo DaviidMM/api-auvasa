@@ -14,7 +14,7 @@ const options = {
 const swaggerSpec = swaggerJSDoc(options);
 
 const CSS_URL =
-  'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.1.0/swagger-ui.min.css';
+  'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.3.0/swagger-ui.min.css';
 
 // Function to setup our docs
 const swaggerDocs = (route) => {
