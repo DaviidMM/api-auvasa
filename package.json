@@ -13,25 +13,25 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apicache": "^1.6.3",
-    "cheerio": "^1.0.0-rc.11",
-    "cors": "^2.8.5",
-    "csv-parser": "^3.0.0",
-    "decompress": "^4.2.1",
-    "express": "^4.18.1",
-    "gtfs": "^4.5.1",
-    "gtfs-realtime-bindings": "^1.1.1",
-    "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "4.6.3"
+    "apicache": "1.6.3",
+    "cheerio": "1.0.0-rc.11",
+    "cors": "2.8.5",
+    "csv-parser": "3.0.0",
+    "decompress": "4.2.1",
+    "express": "4.18.1",
+    "gtfs": "4.5.1",
+    "gtfs-realtime-bindings": "1.1.1",
+    "swagger-jsdoc": "6.2.8",
+    "swagger-ui-express": "5.0.0"
   },
   "devDependencies": {
-    "connect-livereload": "^0.6.1",
-    "eslint": "^8.54.0",
-    "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-prettier": "^5.0.1",
-    "livereload": "^0.9.3",
-    "nodemon": "^2.0.16",
-    "prettier": "^3.1.0"
+    "connect-livereload": "0.6.1",
+    "eslint": "8.54.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-prettier": "5.0.1",
+    "livereload": "0.9.3",
+    "nodemon": "2.0.16",
+    "prettier": "3.1.0"
   },
   "nodemonConfig": {
     "ignore": [
