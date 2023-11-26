@@ -11,8 +11,7 @@ app.set('json spaces', 2);
 // Permitir todas las peticiones CORS
 app.use(cors({ origin: '*' }));
 
-// Rutas
-
+// Swagger doc
 const swaggerJSDoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
 
@@ -46,6 +45,7 @@ app.get('/docs.json', (req, res) => {
   res.send(swaggerSpec);
 });
 
+// Rutas
 app.use('/v1', v1Routes);
 app.use('/', defaultRoutes);
 
