@@ -18,5 +18,5 @@ jobs:
         git config user.name DaviidMM
         git config user.email dmuleromerino@gmail.com
         git add gtfs-files
-        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update test.json"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update GTFS static files"
         git push origin main
