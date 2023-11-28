@@ -71,3 +71,13 @@ Resultado:
   ]
 }
 ```
+
+## Docker compose
+
+Se ha añadido la posibilidad de ejecutar esta api en un contenedor docker con las dependencias necesarias. Para ejecutar la api en un contenedor docker se debe ejecutar el siguiente comando:
+
+```bash
+docker-compose up -d
+```
+
+Por defecto, la api se ejecuta en el puerto 5000 de `localhost`. Si es necesario hacer alguna modificación, habrá que editar el archivo `docker-compose.yml`.
