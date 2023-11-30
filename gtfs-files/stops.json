@@ -2873,19 +2873,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "2923",
-    "stop_code": "1411",
-    "stop_name": "Madre de Dios 6",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6580863355115",
-    "stop_lon": "-4.71734880738889",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2923",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "2924",
     "stop_code": "1412",
     "stop_name": "Ctra. Arcas Reales fte. La Salle",
@@ -3531,19 +3518,6 @@
     "stop_lon": "-4.73208799966472",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/parada.asp?codigo=49",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
-    "stop_id": "50",
-    "stop_code": "622",
-    "stop_name": "Paseo Isabel La Católica Instituto Núñez de Arce",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6545830414661",
-    "stop_lon": "-4.73180799877533",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=50",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
