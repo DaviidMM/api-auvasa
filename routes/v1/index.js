@@ -1,11 +1,11 @@
 const express = require('express');
-const { getBuses, getLineas, getParada, getParadas } = require('../../lib');
+const { getBuses, getLineas, getParada, getParadas } = require('../../lib/v1');
 const routes = express.Router();
 const { swaggerDocs: v1SwaggerDocs } = require('./swagger');
 require('./swagger/schemas');
 
 const apicache = require('apicache');
-const { getAlertsFromGtfs } = require('../../lib/gtfs');
+const { getAlertsFromGtfs } = require('../../lib/v1/gtfs');
 const cache = apicache.middleware;
 
 routes.get('/', (req, res) => {
