@@ -1,6 +1,6 @@
 version: '3.9'
 services:
-  scrapper:
+  apiauvasa:
     build: .
     container_name: apiauvasa
     image: apiauvasa:latest

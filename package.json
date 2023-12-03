@@ -1,13 +1,14 @@
 {
   "name": "api-auvasa",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Api para recuperar información de los autobuses de Valladolid",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "getGtfs": "node getGtfs.js"
+    "getGtfs": "node getGtfs.js",
+    "gtfsImport": "node lib/gtfs/helpers/import.js"
   },
   "type": "commonjs",
   "author": "",
@@ -18,9 +19,13 @@
     "cors": "2.8.5",
     "csv-parser": "3.0.0",
     "decompress": "4.2.1",
+    "dotenv": "^16.3.1",
     "express": "4.18.1",
     "gtfs": "4.5.1",
     "gtfs-realtime-bindings": "1.1.1",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "node-cache": "^5.1.2",
     "swagger-jsdoc": "6.2.8",
     "swagger-ui-express": "4.6.2"
   },
@@ -36,7 +41,11 @@
   "nodemonConfig": {
     "ignore": [
       "gtfs-files/",
-      "tmp/"
+      "tmp/",
+      "lib/gtfs/database.sqlite",
+      "lib/gtfs/database.sqlite-journal",
+      "lib/gtfs/static",
+      "lib/gtfs/tmp"
     ]
   }
 }
