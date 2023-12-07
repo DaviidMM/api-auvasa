@@ -3,7 +3,7 @@ const decompress = require('decompress');
 const {
   downloadGtfsStatic,
   convertAllTxtToJSON,
-  moveJSONFiles,
+  moveFiles,
 } = require('./lib/gtfs/helpers');
 
 (async () => {
@@ -13,13 +13,13 @@ const {
     // Create gtfs-files dir
     if (!fs.existsSync('gtfs-files')) fs.mkdirSync('gtfs-files');
     // Descargar el archivo zip
-    await downloadGtfsStatic();
+    await downloadGtfsStatic('tmp/gtfs.zip');
     // Descomprimir el archivo zip
     await decompress('tmp/gtfs.zip', 'tmp/gtfs');
     // Convertir el archivos .txt a .json
     await convertAllTxtToJSON('tmp/gtfs');
     // Move json files to gtfs-files dir
-    moveJSONFiles('gtfs-files');
+    moveFiles('tmp/gtfs', 'gtfs-files');
     // Remove tmp dir
     fs.rm('tmp', { recursive: true }, (err) => {
       if (err) throw err;
