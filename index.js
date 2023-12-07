@@ -1,8 +1,8 @@
 const express = require('express');
 const cors = require('cors');
 const v1Routes = require('./routes/v1');
-const v2Routes = require('./routes/v2');
-const { initializeGtfs } = require('./lib/gtfs');
+// const v2Routes = require('./routes/v2');
+// const { initializeGtfs } = require('./lib/gtfs');
 const defaultRoutes = v1Routes;
 const app = express();
 
@@ -14,10 +14,10 @@ app.set('json spaces', 2);
 app.use(cors({ origin: '*' }));
 
 (async () => {
-  await initializeGtfs();
+  // await initializeGtfs();
   // Rutas
   app.use('/v1', v1Routes);
-  app.use('/v2', v2Routes);
+  // app.use('/v2', v2Routes);
   app.use('/', defaultRoutes);
 
   // Iniciando el servidor, escuchando...
