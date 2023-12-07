@@ -1,3 +1,4 @@
 node_modules
 .env
 lib/gtfs/static/**.txt
+lib/gtfs/database.sqlite
