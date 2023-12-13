@@ -50,5 +50,3 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 407,101,M7,La Cistérniga - Fuente Dorada,,3,http://www.auvasa.es/auv_linea.asp?lin=M7,532FA2,FFFFFF
 951,101,U1,Covaresa - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/auv_linea.asp?lin=U1,FF3067,000000
 952,101,U8,Parquesol - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/auv_linea.asp?lin=U8,FF3067,000000
-954,101,LC,Fuente Dorada-Cementerio Carmen,,3,http://www.auvasa.es/auv_linea.asp?lin=LC,000000,FFFFFF
-962,101,CC,Poniente - Cementerio Contiendas,,3,http://www.auvasa.es/auv_linea.asp?lin=CC,000000,FFFFFF
