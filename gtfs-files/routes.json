@@ -559,27 +559,5 @@
     "route_url": "http://www.auvasa.es/auv_linea.asp?lin=U8",
     "route_color": "FF3067",
     "route_text_color": "000000"
-  },
-  {
-    "route_id": "954",
-    "agency_id": "101",
-    "route_short_name": "LC",
-    "route_long_name": "Fuente Dorada-Cementerio Carmen",
-    "route_desc": "",
-    "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=LC",
-    "route_color": "000000",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "962",
-    "agency_id": "101",
-    "route_short_name": "CC",
-    "route_long_name": "Poniente - Cementerio Contiendas",
-    "route_desc": "",
-    "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=CC",
-    "route_color": "000000",
-    "route_text_color": "FFFFFF"
   }
 ]
