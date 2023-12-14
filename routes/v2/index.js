@@ -1,6 +1,6 @@
 const express = require('express');
 const routes = express.Router();
-const { getParada, getParadas, getBusPosition, getShapesForTrip } = require('../../lib/v2');
+const { getParada, getParadas, getBusPosition, getShapesForTrip, getStopsForTrip } = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
 routes.get('/', (req, res) => {
@@ -34,6 +34,12 @@ routes.get('/busPosition/:tripId', async (req, res) => {
   const { tripId } = req.params;
   const response = await getBusPosition(tripId);
   return res.json(response);
+});
+
+routes.get('/geojson/paradas/:tripId', async (req, res) => {
+  const { tripId } = req.params;
+  const response = await getStopsForTrip(tripId);
+  return res.send(response);
 });
 
 routes.get('/geojson/:tripId', async (req, res) => {
