@@ -325,6 +325,204 @@
   },
   {
     "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_2",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_4",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_6",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_7",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_8",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_9",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_10",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_11",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_12",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_13",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_14",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_15",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_16",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_17",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_18",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_19",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_20",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_21",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_22",
+    "trip_headsign": "VILLA PRADO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_15"
+  },
+  {
+    "route_id": "10",
+    "service_id": "L10A1_L10A1",
+    "trip_id": "L10A1_L10A1_23",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_16"
+  },
+  {
+    "route_id": "10",
     "service_id": "L10DA1_L10A1",
     "trip_id": "L10DA1_L10A1_2",
     "trip_headsign": "VILLA PRADO",
@@ -520,6 +718,276 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_16"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_3",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_4",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_5",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_6",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_7",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_8",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_9",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_10",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_11",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_12",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_13",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_14",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_15",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_16",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_17",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_18",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_19",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_20",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_21",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_22",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_23",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_24",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_25",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_26",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_27",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_28",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_29",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_30",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_12"
+  },
+  {
+    "route_id": "14",
+    "service_id": "L14A1_L14A1",
+    "trip_id": "L14A1_L14A1_31",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_11"
   },
   {
     "route_id": "14",
@@ -943,6 +1411,321 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_3",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_4",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_5",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_6",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_7",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_8",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_9",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_10",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_11",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_12",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_13",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_14",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_15",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_16",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_17",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_18",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_19",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_20",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_21",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_22",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_23",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_24",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_25",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_26",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_27",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_28",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_29",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_30",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_31",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_32",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_33",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_34",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_35",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_36",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_157"
+  },
+  {
+    "route_id": "16",
+    "service_id": "L16A1_L16A1",
+    "trip_id": "L16A1_L16A1_37",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
   },
   {
     "route_id": "16",
@@ -2680,6 +3463,582 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_90"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_2",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_4",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_6",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_8",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_10",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_11",
+    "trip_headsign": "PGNO. LA MORA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_105"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A1",
+    "trip_id": "L18A6_L18A1_12",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_117"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_2",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_4",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_6",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_8",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_10",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A2",
+    "trip_id": "L18A6_L18A2_11",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_2",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_3",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_4",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_5",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_6",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_7",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_8",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_9",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_10",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_11",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A3",
+    "trip_id": "L18A6_L18A3_12",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_2",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_3",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_4",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_5",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_6",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_7",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_8",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_9",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_10",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_11",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A4",
+    "trip_id": "L18A6_L18A4_12",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_2",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_4",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_6",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_8",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_10",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_11",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_37"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A5",
+    "trip_id": "L18A6_L18A5_12",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_2",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_4",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_6",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_8",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_10",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_38"
+  },
+  {
+    "route_id": "18",
+    "service_id": "L18A6_L18A6",
+    "trip_id": "L18A6_L18A6_11",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
   },
   {
     "route_id": "19",
@@ -7129,6 +8488,285 @@
   },
   {
     "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_2",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_3",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_4",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_5",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_6",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_7",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_8",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_9",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_10",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_11",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_12",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_13",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_14",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_15",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_16",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_17",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_18",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_19",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_20",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_21",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_22",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_23",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_24",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_25",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_26",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_27",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_28",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_29",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_30",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_31",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_14"
+  },
+  {
+    "route_id": "24",
+    "service_id": "L24A1_L24A1",
+    "trip_id": "L24A1_L24A1_32",
+    "trip_headsign": "PZA. PONIENTE",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_13"
+  },
+  {
+    "route_id": "24",
     "service_id": "L24DA1_L24A1",
     "trip_id": "L24DA1_L24A1_2",
     "trip_headsign": "PZA. PONIENTE",
@@ -8940,6 +10578,1473 @@
     "route_id": "2",
     "service_id": "L2A11_L2A9",
     "trip_id": "L2A11_L2A9_17",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A1",
+    "trip_id": "L2A11U_L2A1_16",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_16",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A10",
+    "trip_id": "L2A11U_L2A10_17",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "951",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_2",
+    "trip_headsign": "UNIVERSIDAD",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_81"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A11",
+    "trip_id": "L2A11U_L2A11_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_16",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A2",
+    "trip_id": "L2A11U_L2A2_17",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A3",
+    "trip_id": "L2A11U_L2A3_16",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A4",
+    "trip_id": "L2A11U_L2A4_16",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A5",
+    "trip_id": "L2A11U_L2A5_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_5",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_6",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_7",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_8",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_9",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_10",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_11",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_12",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_13",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_14",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_15",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_16",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_17",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A6",
+    "trip_id": "L2A11U_L2A6_18",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_5",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_6",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_7",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_8",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_9",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_10",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_11",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_12",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_13",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_14",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_15",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_16",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A7",
+    "trip_id": "L2A11U_L2A7_17",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_5",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_6",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_7",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_8",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_9",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_10",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_11",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_12",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_13",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_14",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_15",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A8",
+    "trip_id": "L2A11U_L2A8_16",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_6",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_7",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_8",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_9",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_10",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_11",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_12",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_13",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_14",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_15",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_25"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_16",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_26"
+  },
+  {
+    "route_id": "2",
+    "service_id": "L2A11U_L2A9",
+    "trip_id": "L2A11U_L2A9_17",
     "trip_headsign": "COVARESA",
     "direction_id": "0",
     "block_id": "",
@@ -13195,6 +16300,285 @@
   },
   {
     "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_2",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_3",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_4",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_5",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_6",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_7",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_8",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_9",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_10",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_11",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_12",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_13",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_14",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_15",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_16",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A1",
+    "trip_id": "L4A2_L4A1_17",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_2",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_3",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_4",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_5",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_6",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_7",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_8",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_9",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_10",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_11",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_12",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_13",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_14",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_15",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_7"
+  },
+  {
+    "route_id": "4",
+    "service_id": "L4A2_L4A2",
+    "trip_id": "L4A2_L4A2_16",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_8"
+  },
+  {
+    "route_id": "4",
     "service_id": "L4D2A_L4A1",
     "trip_id": "L4D2A_L4A1_2",
     "trip_headsign": "FTE. BERROCAL",
@@ -13759,6 +17143,609 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_2",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_3",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_4",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_5",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_6",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_7",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_8",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_9",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_10",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_11",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_12",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_13",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_14",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_15",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A1",
+    "trip_id": "L5A4_L5A1_16",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_2",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_3",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_4",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_5",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_6",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_7",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_8",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_9",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_10",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_11",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_12",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_13",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_14",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_15",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A2",
+    "trip_id": "L5A4_L5A2_16",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_2",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_3",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_4",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_5",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_6",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_7",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_8",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_9",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_10",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_11",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_12",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_13",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_14",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A3",
+    "trip_id": "L5A4_L5A3_15",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_2",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_3",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_4",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_5",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_6",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_7",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_8",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_9",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_10",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_11",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_12",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_13",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_14",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_15",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_16",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_L5A4",
+    "trip_id": "L5A4_L5A4_17",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR1",
+    "trip_id": "L5A4_RR1_2",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR1",
+    "trip_id": "L5A4_RR1_3",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR1",
+    "trip_id": "L5A4_RR1_4",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR1",
+    "trip_id": "L5A4_RR1_5",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR1",
+    "trip_id": "L5A4_RR1_6",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_126"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR7_20",
+    "trip_id": "L5A4_RR7_20_2",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "5",
+    "service_id": "L5A4_RR8_10",
+    "trip_id": "L5A4_RR8_10_2",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_125"
   },
   {
     "route_id": "5",
@@ -21430,6 +25417,1374 @@
   },
   {
     "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_2",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_4",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_6",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_7",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_8",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_9",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_10",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_11",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_12",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_13",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_14",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_15",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_16",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_17",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_18",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_19",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A1",
+    "trip_id": "L8A8_L8A1_20",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_2",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_4",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_6",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_7",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_8",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_9",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_10",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_11",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_12",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_13",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_14",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_15",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_16",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_17",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_18",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_19",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A2",
+    "trip_id": "L8A8_L8A2_20",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_2",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_4",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_6",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_7",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_8",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_9",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_10",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_11",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_12",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_13",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_14",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_15",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_16",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_17",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_18",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A3",
+    "trip_id": "L8A8_L8A3_19",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_4",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_5",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_6",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_7",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_8",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_9",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_10",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_11",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_12",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_13",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_14",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_15",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_16",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_17",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_18",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_19",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_20",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A4",
+    "trip_id": "L8A8_L8A4_21",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_4",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_5",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_6",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_7",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_8",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_9",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_10",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_11",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_12",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_13",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_14",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_15",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_16",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_17",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_18",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_19",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A5",
+    "trip_id": "L8A8_L8A5_20",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_4",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_5",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_6",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_7",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_8",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_9",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_10",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_11",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_12",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_13",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_14",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_15",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_16",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_17",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_18",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_19",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A6",
+    "trip_id": "L8A8_L8A6_20",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_4",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_5",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_6",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_7",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_8",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_9",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_10",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_11",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_12",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_13",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_14",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_15",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_16",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_17",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_18",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A7",
+    "trip_id": "L8A8_L8A7_19",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_2",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_4",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_6",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_7",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_8",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_9",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_10",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_11",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_12",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_13",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_14",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_15",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_16",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_17",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_18",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_19",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_20",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_3"
+  },
+  {
+    "route_id": "8",
+    "service_id": "L8A8_L8A8",
+    "trip_id": "L8A8_L8A8_21",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
     "service_id": "L8D8A_L8A1",
     "trip_id": "L8D8A_L8A1_2",
     "trip_headsign": "B. BELEN",
@@ -26011,6 +31366,762 @@
   },
   {
     "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A1",
+    "trip_id": "LC1B9_LC1A1_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A2",
+    "trip_id": "LC1B9_LC1A2_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A3",
+    "trip_id": "LC1B9_LC1A3_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A4",
+    "trip_id": "LC1B9_LC1A4_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A5",
+    "trip_id": "LC1B9_LC1A5_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A6",
+    "trip_id": "LC1B9_LC1A6_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A7",
+    "trip_id": "LC1B9_LC1A7_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A8",
+    "trip_id": "LC1B9_LC1A8_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A8",
+    "trip_id": "LC1B9_LC1A8_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A8",
+    "trip_id": "LC1B9_LC1A8_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A8",
+    "trip_id": "LC1B9_LC1A8_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A9",
+    "trip_id": "LC1B9_LC1A9_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A90",
+    "trip_id": "LC1B9_LC1A90_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B9_LC1A91",
+    "trip_id": "LC1B9_LC1A91_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
     "service_id": "LC1DA9D_LC1A1",
     "trip_id": "LC1DA9D_LC1A1_2",
     "trip_headsign": "CIRCULAR 1",
@@ -26764,6 +32875,753 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_152"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A1",
+    "trip_id": "LC2B9_LC2A1_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A2",
+    "trip_id": "LC2B9_LC2A2_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A3",
+    "trip_id": "LC2B9_LC2A3_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A4",
+    "trip_id": "LC2B9_LC2A4_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A5",
+    "trip_id": "LC2B9_LC2A5_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A6",
+    "trip_id": "LC2B9_LC2A6_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A7",
+    "trip_id": "LC2B9_LC2A7_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A8",
+    "trip_id": "LC2B9_LC2A8_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A9",
+    "trip_id": "LC2B9_LC2A9_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A9",
+    "trip_id": "LC2B9_LC2A9_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A9",
+    "trip_id": "LC2B9_LC2A9_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A9",
+    "trip_id": "LC2B9_LC2A9_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A9",
+    "trip_id": "LC2B9_LC2A9_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A90",
+    "trip_id": "LC2B9_LC2A90_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B9_LC2A91",
+    "trip_id": "LC2B9_LC2A91_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
   },
   {
     "route_id": "22",
@@ -28150,6 +35008,735 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_151"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_2",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_3",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_4",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_5",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_6",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_7",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_8",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_9",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_10",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_11",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_12",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_13",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_14",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_15",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_16",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_17",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_18",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_19",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_20",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_21",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_22",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_23",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_24",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_25",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_26",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_27",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_28",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_29",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_30",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_31",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_32",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_33",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA1",
+    "trip_id": "LHA3_LHA1_34",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_2",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_3",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_4",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_5",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_6",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_7",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_8",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_9",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_10",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_11",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_12",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_13",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_14",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_15",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_16",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_17",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_18",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_19",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_20",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_21",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_22",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_23",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_24",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_25",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_26",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_27",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_28",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_29",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_30",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_31",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_32",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA2",
+    "trip_id": "LHA3_LHA2_33",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_2",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_3",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_4",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_5",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_6",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_7",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_8",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_9",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_10",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_11",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_12",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_13",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_14",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_15",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_16",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "35",
+    "service_id": "LHA3_LHA3",
+    "trip_id": "LHA3_LHA3_17",
+    "trip_headsign": "RIO HORTEGA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_150"
   },
   {
     "route_id": "35",
