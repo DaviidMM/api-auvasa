@@ -3,6 +3,7 @@ const cors = require('cors');
 const v1Routes = require('./routes/v1');
 const v2Routes = require('./routes/v2');
 const { initializeGtfs } = require('./lib/gtfs');
+
 const defaultRoutes = v1Routes;
 const app = express();
 
