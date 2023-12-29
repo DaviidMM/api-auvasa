@@ -62739,15 +62739,6 @@
     "shape_id": "Route_33"
   },
   {
-    "route_id": "951",
-    "service_id": "T61LJ_NAV_T61_05",
-    "trip_id": "T61LJ_NAV_T61_05_3",
-    "trip_headsign": "UNIVERSIDAD",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_81"
-  },
-  {
     "route_id": "13",
     "service_id": "T61V_T61_01",
     "trip_id": "T61V_T61_01_3",
@@ -63079,15 +63070,6 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_32"
-  },
-  {
-    "route_id": "3",
-    "service_id": "T61V_NAV_T61_05",
-    "trip_id": "T61V_NAV_T61_05_4",
-    "trip_headsign": "C. CONTIENDAS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_106"
   },
   {
     "route_id": "406",
