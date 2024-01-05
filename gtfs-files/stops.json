@@ -78,6 +78,19 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
+    "stop_id": "357",
+    "stop_code": "1025",
+    "stop_name": "Plaza Poniente frente San Lorenzo",
+    "stop_desc": "Parada",
+    "stop_lat": "41.652707040874",
+    "stop_lon": "-4.73115100392404",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/parada.asp?codigo=357",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
     "stop_id": "358",
     "stop_code": "1038",
     "stop_name": "Paseo Zorrilla 187 esquina Vinos Vega Sicilia",
