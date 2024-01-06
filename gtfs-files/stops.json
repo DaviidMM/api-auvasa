@@ -2730,6 +2730,32 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
+    "stop_id": "570",
+    "stop_code": "1398",
+    "stop_name": "Calle Recondo 23 esq. Acera Recoletos",
+    "stop_desc": "Parada",
+    "stop_lat": "41.643384476909",
+    "stop_lon": "-4.72595410176338",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/parada.asp?codigo=570",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "571",
+    "stop_code": "1399",
+    "stop_name": "Calle General Ruiz 4",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6466590423232",
+    "stop_lon": "-4.72426700318313",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/parada.asp?codigo=571",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
     "stop_id": "572",
     "stop_code": "1400",
     "stop_name": "Calle C/ Ciudad de La Habana 17",
@@ -4753,6 +4779,19 @@
     "stop_lon": "-4.73660300429376",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/parada.asp?codigo=148",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "149",
+    "stop_code": "761",
+    "stop_name": "Avenida Mundial 82 Estadio José Zorrilla",
+    "stop_desc": "Parada",
+    "stop_lat": "41.644685706236",
+    "stop_lon": "-4.76014991894024",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/parada.asp?codigo=149",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7262,6 +7301,19 @@
     "stop_lon": "-4.73477047124863",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/parada.asp?codigo=2971",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "3048",
+    "stop_code": "PA12234",
+    "stop_name": "Avenida Mundial 82 frente Estadio José Zorrilla",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6445332502626",
+    "stop_lon": "-4.75969890951627",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/parada.asp?codigo=3048",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
