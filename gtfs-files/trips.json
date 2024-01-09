@@ -1,6 +1,60 @@
 [
   {
     "route_id": "81",
+    "service_id": "F1A1_2030_F1A1",
+    "trip_id": "F1A1_2030_F1A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_2030_F1A1",
+    "trip_id": "F1A1_2030_F1A1_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_2030_F1A2",
+    "trip_id": "F1A1_2030_F1A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_2030_F1A2",
+    "trip_id": "F1A1_2030_F1A2_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_2030_F1A3",
+    "trip_id": "F1A1_2030_F1A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_2030_F1A3",
+    "trip_id": "F1A1_2030_F1A3_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
     "service_id": "F1A1_2100_F1A1",
     "trip_id": "F1A1_2100_F1A1_2",
     "trip_headsign": "ESTAD. FUTBOL",
@@ -52,6 +106,60 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_70"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_2030_F2A1",
+    "trip_id": "F2A1_2030_F2A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_71"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_2030_F2A1",
+    "trip_id": "F2A1_2030_F2A1_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_72"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_2030_F2A2",
+    "trip_id": "F2A1_2030_F2A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_71"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_2030_F2A2",
+    "trip_id": "F2A1_2030_F2A2_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_72"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_2030_F2A3",
+    "trip_id": "F2A1_2030_F2A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_71"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_2030_F2A3",
+    "trip_id": "F2A1_2030_F2A3_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_72"
   },
   {
     "route_id": "82",
@@ -109,6 +217,60 @@
   },
   {
     "route_id": "83",
+    "service_id": "F3A1_2030_F3A1",
+    "trip_id": "F3A1_2030_F3A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_2030_F3A1",
+    "trip_id": "F3A1_2030_F3A1_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_2030_F3A2",
+    "trip_id": "F3A1_2030_F3A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_2030_F3A2",
+    "trip_id": "F3A1_2030_F3A2_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_2030_F3A3",
+    "trip_id": "F3A1_2030_F3A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_2030_F3A3",
+    "trip_id": "F3A1_2030_F3A3_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
     "service_id": "F3A1_2100_F3A1",
     "trip_id": "F3A1_2100_F3A1_2",
     "trip_headsign": "ESTAD. FUTBOL",
@@ -160,6 +322,60 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_74"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_2030_F4A1",
+    "trip_id": "F4A1_2030_F4A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_2030_F4A1",
+    "trip_id": "F4A1_2030_F4A1_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_2030_F4A2",
+    "trip_id": "F4A1_2030_F4A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_2030_F4A2",
+    "trip_id": "F4A1_2030_F4A2_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_2030_F4A3",
+    "trip_id": "F4A1_2030_F4A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_2030_F4A3",
+    "trip_id": "F4A1_2030_F4A3_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
   },
   {
     "route_id": "84",
@@ -217,6 +433,60 @@
   },
   {
     "route_id": "85",
+    "service_id": "F5A1_2030_F5A1",
+    "trip_id": "F5A1_2030_F5A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_2030_F5A1",
+    "trip_id": "F5A1_2030_F5A1_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_2030_F5A2",
+    "trip_id": "F5A1_2030_F5A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_2030_F5A2",
+    "trip_id": "F5A1_2030_F5A2_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_2030_F5A3",
+    "trip_id": "F5A1_2030_F5A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_2030_F5A3",
+    "trip_id": "F5A1_2030_F5A3_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
     "service_id": "F5A1_2100_F5A1",
     "trip_id": "F5A1_2100_F5A1_2",
     "trip_headsign": "ESTAD. FUTBOL",
@@ -268,6 +538,60 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_78"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_2030_F6A1",
+    "trip_id": "F6A1_2030_F6A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_2030_F6A1",
+    "trip_id": "F6A1_2030_F6A1_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_2030_F6A2",
+    "trip_id": "F6A1_2030_F6A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_2030_F6A2",
+    "trip_id": "F6A1_2030_F6A2_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_2030_F6A3",
+    "trip_id": "F6A1_2030_F6A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_2030_F6A3",
+    "trip_id": "F6A1_2030_F6A3_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
   },
   {
     "route_id": "86",
@@ -33472,591 +33796,6 @@
   },
   {
     "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A1",
-    "trip_id": "LC1A6D_LC1A1_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A2",
-    "trip_id": "LC1A6D_LC1A2_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A3",
-    "trip_id": "LC1A6D_LC1A3_12",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A4",
-    "trip_id": "LC1A6D_LC1A4_12",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A5",
-    "trip_id": "LC1A6D_LC1A5_12",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A6",
-    "trip_id": "LC1A6D_LC1A6_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A90",
-    "trip_id": "LC1A6D_LC1A90_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1A6D_LC1A91",
-    "trip_id": "LC1A6D_LC1A91_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
     "service_id": "LC1A7D_LC1A1",
     "trip_id": "LC1A7D_LC1A1_2",
     "trip_headsign": "CIRCULAR 1",
@@ -34671,6 +34410,627 @@
     "route_id": "21",
     "service_id": "LC1A7D_LC1A7",
     "trip_id": "LC1A7D_LC1A7_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A1",
+    "trip_id": "LC1B7_LC1A1_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A2",
+    "trip_id": "LC1B7_LC1A2_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A3",
+    "trip_id": "LC1B7_LC1A3_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A4",
+    "trip_id": "LC1B7_LC1A4_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A5",
+    "trip_id": "LC1B7_LC1A5_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A6",
+    "trip_id": "LC1B7_LC1A6_11",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_2",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_3",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_6",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_7",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_9",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_10",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "21",
+    "service_id": "LC1B7_LC1A7",
+    "trip_id": "LC1B7_LC1A7_11",
     "trip_headsign": "CIRCULAR 1",
     "direction_id": "0",
     "block_id": "",
@@ -35434,591 +35794,6 @@
   },
   {
     "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A1",
-    "trip_id": "LC1D6_LC1A1_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A2",
-    "trip_id": "LC1D6_LC1A2_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A3",
-    "trip_id": "LC1D6_LC1A3_12",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A4",
-    "trip_id": "LC1D6_LC1A4_12",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A5",
-    "trip_id": "LC1D6_LC1A5_12",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_3",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_6",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_7",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_9",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_10",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A6",
-    "trip_id": "LC1D6_LC1A6_11",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A90",
-    "trip_id": "LC1D6_LC1A90_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
-    "service_id": "LC1D6_LC1A91",
-    "trip_id": "LC1D6_LC1A91_2",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "21",
     "service_id": "LC1DA9D_LC1A1",
     "trip_id": "LC1DA9D_LC1A1_2",
     "trip_headsign": "CIRCULAR 1",
@@ -36775,6 +36550,645 @@
   },
   {
     "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A1",
+    "trip_id": "LC2B7_LC2A1_12",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A2",
+    "trip_id": "LC2B7_LC2A2_12",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A3",
+    "trip_id": "LC2B7_LC2A3_12",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A4",
+    "trip_id": "LC2B7_LC2A4_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A5",
+    "trip_id": "LC2B7_LC2A5_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A6",
+    "trip_id": "LC2B7_LC2A6_11",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_3",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_4",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_5",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_6",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_8",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_9",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
+    "service_id": "LC2B7_LC2A7",
+    "trip_id": "LC2B7_LC2A7_10",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "22",
     "service_id": "LC2B9_LC2A1",
     "trip_id": "LC2B9_LC2A1_2",
     "trip_headsign": "CIRCULAR 2",
@@ -37515,1176 +37929,6 @@
     "route_id": "22",
     "service_id": "LC2B9_LC2A91",
     "trip_id": "LC2B9_LC2A91_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A1",
-    "trip_id": "LC2D6_LC2A1_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A2",
-    "trip_id": "LC2D6_LC2A2_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A3",
-    "trip_id": "LC2D6_LC2A3_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A4",
-    "trip_id": "LC2D6_LC2A4_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A5",
-    "trip_id": "LC2D6_LC2A5_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A6",
-    "trip_id": "LC2D6_LC2A6_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A90",
-    "trip_id": "LC2D6_LC2A90_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6_LC2A91",
-    "trip_id": "LC2D6_LC2A91_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A1",
-    "trip_id": "LC2D6D_LC2A1_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A2",
-    "trip_id": "LC2D6D_LC2A2_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A3",
-    "trip_id": "LC2D6D_LC2A3_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A4",
-    "trip_id": "LC2D6D_LC2A4_12",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A5",
-    "trip_id": "LC2D6D_LC2A5_11",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_3",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_4",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_5",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_6",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_8",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_9",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A6",
-    "trip_id": "LC2D6D_LC2A6_10",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A90",
-    "trip_id": "LC2D6D_LC2A90_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "22",
-    "service_id": "LC2D6D_LC2A91",
-    "trip_id": "LC2D6D_LC2A91_2",
     "trip_headsign": "CIRCULAR 2",
     "direction_id": "0",
     "block_id": "",
@@ -41884,6 +41128,24 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_55"
+  },
+  {
+    "route_id": "6",
+    "service_id": "T50LV_T50_05",
+    "trip_id": "T50LV_T50_05_7",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_28"
+  },
+  {
+    "route_id": "16",
+    "service_id": "T50LV_T50_05",
+    "trip_id": "T50LV_T50_05_8",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_156"
   },
   {
     "route_id": "24",
