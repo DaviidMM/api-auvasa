@@ -332,7 +332,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 112,700,Calle Ciudad de La Habana frente 3 esquina Juan G. Hortelano,Parada,41.6368246607224,-4.76051377222711,,http://www.auvasa.es/parada.asp?codigo=112,,,Europe/Madrid
 113,703,Paseo Juan Carlos I 109,Parada,41.6513646984341,-4.70434235456534,,http://www.auvasa.es/parada.asp?codigo=113,,,Europe/Madrid
 114,706,Calle Labradores 1 esquina Plaza Cruz Verde,Parada,41.648057914477,-4.72052141254072,,http://www.auvasa.es/parada.asp?codigo=114,,,Europe/Madrid
-115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6449841505369,-4.72248272148817,,http://www.auvasa.es/parada.asp?codigo=115,,,Europe/Madrid
+115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6454713607064,-4.72250372180281,,http://www.auvasa.es/parada.asp?codigo=115,,,Europe/Madrid
 116,708,Calle Labradores 45 esquina Niña Guapa,Parada,41.6453730450718,-4.72062899764126,,http://www.auvasa.es/parada.asp?codigo=116,,,Europe/Madrid
 117,709,Calle José María Lacort 8 esquina Plaza España,Parada,41.6491343976464,-4.72394940665622,,http://www.auvasa.es/parada.asp?codigo=117,,,Europe/Madrid
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,Parada,41.6378181073737,-4.73001918004244,,http://www.auvasa.es/parada.asp?codigo=118,,,Europe/Madrid
