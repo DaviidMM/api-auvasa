@@ -10262,15 +10262,6 @@
   {
     "route_id": "8",
     "service_id": "L8A8_L8A4",
-    "trip_id": "L8A8_L8A4_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_4"
-  },
-  {
-    "route_id": "8",
-    "service_id": "L8A8_L8A4",
     "trip_id": "L8A8_L8A4_3",
     "trip_headsign": "B. BELEN",
     "direction_id": "0",

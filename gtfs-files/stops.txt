@@ -474,7 +474,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 254,881,Calle Santuario 5 esquina López Gómez,Parada,41.6501160371502,-4.72351400324376,,http://www.auvasa.es/parada.asp?codigo=254,,,Europe/Madrid
 255,882,Calle Transición 3,Parada,41.6315058110741,-4.72549665290546,,http://www.auvasa.es/parada.asp?codigo=255,,,Europe/Madrid
 256,883,Avenida Segovia frente Iglesia del Carmen,Parada,41.637717360319,-4.72192238439518,,http://www.auvasa.es/parada.asp?codigo=256,,,Europe/Madrid
-257,884,Carretera Segovia frente Colegio Hijas de Jesús,Parada,41.6263404910906,-4.71816523824544,,http://www.auvasa.es/parada.asp?codigo=257,,,Europe/Madrid
+257,884,Carretera Segovia frente Colegio Hijas de Jesús,Parada,41.626324092917,-4.71814513215201,,http://www.auvasa.es/parada.asp?codigo=257,,,Europe/Madrid
 258,885,Avenida Segovia frente 57,Parada,41.6412049762127,-4.72070068488161,,http://www.auvasa.es/parada.asp?codigo=258,,,Europe/Madrid
 259,886,Avenida Segovia Iglesia del Carmen,Parada,41.6376558598928,-4.72165988849013,,http://www.auvasa.es/parada.asp?codigo=259,,,Europe/Madrid
 260,887,Avenida Segovia esquina Trabajo,Parada,41.6417580450052,-4.72075400508395,,http://www.auvasa.es/parada.asp?codigo=260,,,Europe/Madrid
