@@ -2938,19 +2938,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "2924",
-    "stop_code": "1412",
-    "stop_name": "Ctra. Arcas Reales fte. La Salle",
-    "stop_desc": "Parada",
-    "stop_lat": "41.617296572914",
-    "stop_lon": "-4.73335721310818",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2924",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "1",
     "stop_code": "550",
     "stop_name": "Calle Hernando de Acuña 1 esquina Mateo Seoane Sobral",
