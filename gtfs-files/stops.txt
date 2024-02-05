@@ -94,6 +94,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 447,1219,Avenida Entrepinos 57,Parada,41.5703930451878,-4.83661399471623,,http://www.auvasa.es/parada.asp?codigo=447,,,Europe/Madrid
 448,1220,Avenida Miguel de Cervantes en Aparcamiento,Parada,41.5704112089125,-4.83971162445835,,http://www.auvasa.es/parada.asp?codigo=448,,,Europe/Madrid
 449,1222,Carretera Pesqueruela 1 esquina Carretera a Puente Duero,Parada,41.5841960429895,-4.81949700538097,,http://www.auvasa.es/parada.asp?codigo=449,,,Europe/Madrid
+2944,12226,Vázquez de Menchaca 1 esq. Daniel del Olmo,Parada,41.626836583026,-4.73087696014544,,http://www.auvasa.es/parada.asp?codigo=2944,,,Europe/Madrid
+2945,12227,Vázquez de Menchaca 4 esq. Daniel del Olmo,Parada,41.6267878628572,-4.73095398701794,,http://www.auvasa.es/parada.asp?codigo=2945,,,Europe/Madrid
+2971,12228,Vázquez de Menchaca 34,Parada,41.6205250533928,-4.73477047124863,,http://www.auvasa.es/parada.asp?codigo=2971,,,Europe/Madrid
+3048,12234,Avenida Mundial 82 frente Estadio José Zorrilla,Parada,41.6445332502627,-4.75969890951627,,http://www.auvasa.es/parada.asp?codigo=3048,,,Europe/Madrid
 450,1227,Avenida Entrepinos 52 esquina Tirso de Molina,Parada,41.5702819094993,-4.836736232627,,http://www.auvasa.es/parada.asp?codigo=450,,,Europe/Madrid
 451,1228,Paseo Zorrilla 10,Parada,41.6469689357638,-4.73146350413824,,http://www.auvasa.es/parada.asp?codigo=451,,,Europe/Madrid
 452,1233,Camino Viejo Simancas 167 esquina José Velicia,Parada,41.617995718243,-4.76133270456419,,http://www.auvasa.es/parada.asp?codigo=452,,,Europe/Madrid
@@ -221,7 +225,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2919,1409,Andrómeda esquina Orden de Malta,Parada,41.6551270078788,-4.70514614640447,,http://www.auvasa.es/parada.asp?codigo=2919,,,Europe/Madrid
 2920,1410,Andrómeda frente Orden de Malta,Parada,41.6552348751786,-4.70521430163913,,http://www.auvasa.es/parada.asp?codigo=2920,,,Europe/Madrid
 2923,1411,Madre de Dios 6,Parada,41.6580863355115,-4.71734880738889,,http://www.auvasa.es/parada.asp?codigo=2923,,,Europe/Madrid
-2924,1412,Ctra. Arcas Reales fte. La Salle,Parada,41.617296572914,-4.73335721310818,,http://www.auvasa.es/parada.asp?codigo=2924,,,Europe/Madrid
 1,550,Calle Hernando de Acuña 1 esquina Mateo Seoane Sobral,Parada,41.6379983836047,-4.75574461249468,,http://www.auvasa.es/parada.asp?codigo=1,,,Europe/Madrid
 2,551,Calle Hernando de Acuña 13 esquina Manuel Silvela,Parada,41.637992139995,-4.75843566197342,,http://www.auvasa.es/parada.asp?codigo=2,,,Europe/Madrid
 3,552,Calle Hernando de Acuña 18 esquina Manuel Silvela,Parada,41.6381753268001,-4.75855368880795,,http://www.auvasa.es/parada.asp?codigo=3,,,Europe/Madrid
@@ -294,6 +297,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 72,647,Calle Cobalto 21 esquina Pirita,Parada,41.6209871052193,-4.70458229556646,,http://www.auvasa.es/parada.asp?codigo=72,,,Europe/Madrid
 73,648,Calle Cobalto 42 esquina Galena,Parada,41.6192028140726,-4.70881080567548,,http://www.auvasa.es/parada.asp?codigo=73,,,Europe/Madrid
 74,649,Calle Puente Colgante 1 frente Est. de Autobuses,Parada,41.6411030404971,-4.73112599963664,,http://www.auvasa.es/parada.asp?codigo=74,,,Europe/Madrid
+75,651,Calle Puente Colgante 2 Estación de Autobuses,Parada,41.6411560413068,-4.73213400065716,,http://www.auvasa.es/parada.asp?codigo=75,,,Europe/Madrid
 76,653,Calle Puente Colgante 18 esquina Gabilondo,Parada,41.6410591622916,-4.73483746693653,,http://www.auvasa.es/parada.asp?codigo=76,,,Europe/Madrid
 77,657,Avenida Las Contiendas frente 109,Parada,41.6586762545348,-4.74739918844576,,http://www.auvasa.es/parada.asp?codigo=77,,,Europe/Madrid
 78,658,Calle Chancillería 4 Biblioteca Reina Sofía,Parada,41.6571080437914,-4.7195009953717,,http://www.auvasa.es/parada.asp?codigo=78,,,Europe/Madrid
@@ -332,7 +336,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 112,700,Calle Ciudad de La Habana frente 3 esquina Juan G. Hortelano,Parada,41.6368246607224,-4.76051377222711,,http://www.auvasa.es/parada.asp?codigo=112,,,Europe/Madrid
 113,703,Paseo Juan Carlos I 109,Parada,41.6513646984341,-4.70434235456534,,http://www.auvasa.es/parada.asp?codigo=113,,,Europe/Madrid
 114,706,Calle Labradores 1 esquina Plaza Cruz Verde,Parada,41.648057914477,-4.72052141254072,,http://www.auvasa.es/parada.asp?codigo=114,,,Europe/Madrid
-115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6449841505369,-4.72248272148817,,http://www.auvasa.es/parada.asp?codigo=115,,,Europe/Madrid
+115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6454713607064,-4.72250372180281,,http://www.auvasa.es/parada.asp?codigo=115,,,Europe/Madrid
 116,708,Calle Labradores 45 esquina Niña Guapa,Parada,41.6453730450718,-4.72062899764126,,http://www.auvasa.es/parada.asp?codigo=116,,,Europe/Madrid
 117,709,Calle José María Lacort 8 esquina Plaza España,Parada,41.6491343976464,-4.72394940665622,,http://www.auvasa.es/parada.asp?codigo=117,,,Europe/Madrid
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,Parada,41.6378181073737,-4.73001918004244,,http://www.auvasa.es/parada.asp?codigo=118,,,Europe/Madrid
@@ -469,7 +473,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 254,881,Calle Santuario 5 esquina López Gómez,Parada,41.6501160371502,-4.72351400324376,,http://www.auvasa.es/parada.asp?codigo=254,,,Europe/Madrid
 255,882,Calle Transición 3,Parada,41.6315058110741,-4.72549665290546,,http://www.auvasa.es/parada.asp?codigo=255,,,Europe/Madrid
 256,883,Avenida Segovia frente Iglesia del Carmen,Parada,41.637717360319,-4.72192238439518,,http://www.auvasa.es/parada.asp?codigo=256,,,Europe/Madrid
-257,884,Carretera Segovia frente Colegio Hijas de Jesús,Parada,41.6263404910906,-4.71816523824544,,http://www.auvasa.es/parada.asp?codigo=257,,,Europe/Madrid
+257,884,Carretera Segovia frente Colegio Hijas de Jesús,Parada,41.626324092917,-4.71814513215201,,http://www.auvasa.es/parada.asp?codigo=257,,,Europe/Madrid
 258,885,Avenida Segovia frente 57,Parada,41.6412049762127,-4.72070068488161,,http://www.auvasa.es/parada.asp?codigo=258,,,Europe/Madrid
 259,886,Avenida Segovia Iglesia del Carmen,Parada,41.6376558598928,-4.72165988849013,,http://www.auvasa.es/parada.asp?codigo=259,,,Europe/Madrid
 260,887,Avenida Segovia esquina Trabajo,Parada,41.6417580450052,-4.72075400508395,,http://www.auvasa.es/parada.asp?codigo=260,,,Europe/Madrid
@@ -556,8 +560,3 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 347,997,Paseo Zorrilla 1 antiguo Hospital Militar,Parada,41.6444810352843,-4.73420023719185,,http://www.auvasa.es/parada.asp?codigo=347,,,Europe/Madrid
 348,998,Paseo Zorrilla 130 Centro Comercial,Parada,41.6370320436707,-4.7393199970302,,http://www.auvasa.es/parada.asp?codigo=348,,,Europe/Madrid
 349,999,Paseo Zorrilla 133 La Rubia,Parada,41.6277797829535,-4.74327838843489,,http://www.auvasa.es/parada.asp?codigo=349,,,Europe/Madrid
-75,PA00651,Calle Puente Colgante 2 Estación de Autobuses,Parada,41.6411560413068,-4.73213400065716,,http://www.auvasa.es/parada.asp?codigo=75,,,Europe/Madrid
-2944,PA12226,Vázquez de Menchaca 1 esq. Daniel del Olmo,Parada,41.626836583026,-4.73087696014544,,http://www.auvasa.es/parada.asp?codigo=2944,,,Europe/Madrid
-2945,PA12227,Vázquez de Menchaca 4 esq. Daniel del Olmo,Parada,41.6267878628572,-4.73095398701794,,http://www.auvasa.es/parada.asp?codigo=2945,,,Europe/Madrid
-2971,PA12228,Vázquez de Menchaca 34,Parada,41.6205250533928,-4.73477047124863,,http://www.auvasa.es/parada.asp?codigo=2971,,,Europe/Madrid
-3048,PA12234,Avenida Mundial 82 frente Estadio José Zorrilla,Parada,41.6445332502626,-4.75969890951627,,http://www.auvasa.es/parada.asp?codigo=3048,,,Europe/Madrid
