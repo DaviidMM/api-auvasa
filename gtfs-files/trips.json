@@ -29846,15 +29846,6 @@
   {
     "route_id": "82",
     "service_id": "F2A1_2030_F2A1",
-    "trip_id": "F2A1_2030_F2A1_2",
-    "trip_headsign": "ESTAD. FUTBOL",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_71"
-  },
-  {
-    "route_id": "82",
-    "service_id": "F2A1_2030_F2A1",
     "trip_id": "F2A1_2030_F2A1_3",
     "trip_headsign": "DELICIAS",
     "direction_id": "1",
@@ -29864,29 +29855,11 @@
   {
     "route_id": "82",
     "service_id": "F2A1_2030_F2A2",
-    "trip_id": "F2A1_2030_F2A2_2",
-    "trip_headsign": "ESTAD. FUTBOL",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_71"
-  },
-  {
-    "route_id": "82",
-    "service_id": "F2A1_2030_F2A2",
     "trip_id": "F2A1_2030_F2A2_3",
     "trip_headsign": "DELICIAS",
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_72"
-  },
-  {
-    "route_id": "82",
-    "service_id": "F2A1_2030_F2A3",
-    "trip_id": "F2A1_2030_F2A3_2",
-    "trip_headsign": "ESTAD. FUTBOL",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_71"
   },
   {
     "route_id": "82",
