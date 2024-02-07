@@ -36,7 +36,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 74,101,B4,Plaza Zorrilla - Camino Viejo Simancas,,3,http://www.auvasa.es/auv_linea.asp?lin=B4,2B2B2D,FFFFFF
 75,101,B5,Duque de la Victoria - La Cistérniga,,3,http://www.auvasa.es/auv_linea.asp?lin=B5,2B2B2D,FFFFFF
 81,101,F1,Covaresa - Rubia - Arturo Eyries - Estadio,,3,http://www.auvasa.es/auv_linea.asp?lin=F1,006D38,FFFFFF
-82,101,F2,Delicias-Pza. Circular-Estaciones-Pza. Juan  Austria-Estadio,,3,http://www.auvasa.es/auv_linea.asp?lin=F2,006D38,FFFFFF
+82,101,F2,Cister-Delici-Circular-Estaciones-Pza. Juan  Austria-Estadio,,3,http://www.auvasa.es/auv_linea.asp?lin=F2,006D38,FFFFFF
 83,101,F3,Las Flores - Pajarillos - Doctrinos - Estadio,,3,http://www.auvasa.es/auv_linea.asp?lin=F3,006D38,FFFFFF
 84,101,F4,Los Santos Pilarica - Doctrinos - Estadio,,3,http://www.auvasa.es/auv_linea.asp?lin=F4,006D38,FFFFFF
 85,101,F5,Belén - Angustias - Doctrinos - Estadio,,3,http://www.auvasa.es/auv_linea.asp?lin=F5,006D38,FFFFFF

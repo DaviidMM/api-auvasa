@@ -212,6 +212,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 567,1395,Cañada Real Vivero,Parada,41.5989882251273,-4.76515525865095,,http://www.auvasa.es/parada.asp?codigo=567,,,Europe/Madrid
 568,1396,Cañada Real frente Vivero,Parada,41.5990036977572,-4.76504587622251,,http://www.auvasa.es/parada.asp?codigo=568,,,Europe/Madrid
 569,1397,Calle Kilimanjaro fte. Plaza Everest,Parada,41.6149340442411,-4.71683999793761,,http://www.auvasa.es/parada.asp?codigo=569,,,Europe/Madrid
+570,1398,Calle Recondo 23 esq. Acera Recoletos,Parada,41.643384476909,-4.72595410176338,,http://www.auvasa.es/parada.asp?codigo=570,,,Europe/Madrid
+571,1399,Calle General Ruiz 4,Parada,41.6466590423232,-4.72426700318313,,http://www.auvasa.es/parada.asp?codigo=571,,,Europe/Madrid
 572,1400,Calle C/ Ciudad de La Habana 17,Parada,41.6345235068727,-4.76255197489168,,http://www.auvasa.es/parada.asp?codigo=572,,,Europe/Madrid
 573,1401,Calle Cuesta Redonda esq. Azuela,Parada,41.6103529113006,-4.67905522229675,,http://www.auvasa.es/parada.asp?codigo=573,,,Europe/Madrid
 574,1402,Camino de Las Yeseras Polideportivo Municipal,Parada,41.6117180410459,-4.6801169941645,,http://www.auvasa.es/parada.asp?codigo=574,,,Europe/Madrid
