@@ -462,6 +462,17 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "220",
+    "agency_id": "101",
+    "route_short_name": "C0",
+    "route_long_name": "Pajarillos - Covaresa",
+    "route_desc": "",
+    "route_type": "3",
+    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=C0",
+    "route_color": "000000",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "401",
     "agency_id": "101",
     "route_short_name": "M1",
@@ -559,16 +570,5 @@
     "route_url": "http://www.auvasa.es/auv_linea.asp?lin=U8",
     "route_color": "FF3067",
     "route_text_color": "000000"
-  },
-  {
-    "route_id": "953",
-    "agency_id": "101",
-    "route_short_name": "LP",
-    "route_long_name": "Pinguinos",
-    "route_desc": "",
-    "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=LP",
-    "route_color": "000000",
-    "route_text_color": "FFFFFF"
   }
 ]
