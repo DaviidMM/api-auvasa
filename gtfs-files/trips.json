@@ -15669,6 +15669,24 @@
     "shape_id": "Route_67"
   },
   {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_8",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
     "route_id": "13",
     "service_id": "T61V_T61_01",
     "trip_id": "T61V_T61_01_3",
@@ -30121,24 +30139,6 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_80"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_8",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_9",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
   },
   {
     "route_id": "1",
