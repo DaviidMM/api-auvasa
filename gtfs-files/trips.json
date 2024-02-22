@@ -6322,7 +6322,7 @@
     "service_id": "L5A4_L5A1",
     "trip_id": "L5A4_L5A1_5",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6331,7 +6331,7 @@
     "service_id": "L5A4_L5A1",
     "trip_id": "L5A4_L5A1_6",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -6502,7 +6502,7 @@
     "service_id": "L5A4_L5A2",
     "trip_id": "L5A4_L5A2_10",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6511,7 +6511,7 @@
     "service_id": "L5A4_L5A2",
     "trip_id": "L5A4_L5A2_11",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -6556,7 +6556,7 @@
     "service_id": "L5A4_L5A2",
     "trip_id": "L5A4_L5A2_16",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6583,7 +6583,7 @@
     "service_id": "L5A4_L5A3",
     "trip_id": "L5A4_L5A3_4",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6592,7 +6592,7 @@
     "service_id": "L5A4_L5A3",
     "trip_id": "L5A4_L5A3_5",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -6691,7 +6691,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_2",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -6736,7 +6736,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_7",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6745,7 +6745,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_8",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -6772,7 +6772,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_11",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6781,7 +6781,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_12",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -6790,7 +6790,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_13",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -6799,7 +6799,7 @@
     "service_id": "L5A4_L5A4",
     "trip_id": "L5A4_L5A4_14",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -14656,7 +14656,7 @@
     "service_id": "L5A4_RR1",
     "trip_id": "L5A4_RR1_6",
     "trip_headsign": "LA VICTORIA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_126"
   },
@@ -14674,7 +14674,7 @@
     "service_id": "L5A4_RR8_10",
     "trip_id": "L5A4_RR8_10_2",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -15187,7 +15187,7 @@
     "service_id": "T62LJ_T62A02",
     "trip_id": "T62LJ_T62A02_5",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -16249,7 +16249,7 @@
     "service_id": "T62V_T62A02",
     "trip_id": "T62V_T62A02_5",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -38047,7 +38047,7 @@
     "service_id": "T62LJ_NAV_T62A02",
     "trip_id": "T62LJ_NAV_T62A02_5",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
@@ -38155,7 +38155,7 @@
     "service_id": "T62V_NAV_T62A02",
     "trip_id": "T62V_NAV_T62A02_5",
     "trip_headsign": "SANTA ANA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_125"
   },
