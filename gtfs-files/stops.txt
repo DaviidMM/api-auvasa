@@ -97,7 +97,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2944,12226,Vázquez de Menchaca 1 esq. Daniel del Olmo,Parada,41.626836583026,-4.73087696014544,,http://www.auvasa.es/parada.asp?codigo=2944,,,Europe/Madrid
 2945,12227,Vázquez de Menchaca 4 esq. Daniel del Olmo,Parada,41.6267878628572,-4.73095398701794,,http://www.auvasa.es/parada.asp?codigo=2945,,,Europe/Madrid
 2971,12228,Vázquez de Menchaca 34,Parada,41.6205250533928,-4.73477047124863,,http://www.auvasa.es/parada.asp?codigo=2971,,,Europe/Madrid
-3048,12234,Avenida Mundial 82 frente Estadio José Zorrilla,Parada,41.6445332502627,-4.75969890951627,,http://www.auvasa.es/parada.asp?codigo=3048,,,Europe/Madrid
+3048,12234,Avenida Mundial 82 frente Estadio José Zorrilla,Parada,41.6443028217118,-4.75972205410771,,http://www.auvasa.es/parada.asp?codigo=3048,,,Europe/Madrid
 450,1227,Avenida Entrepinos 52 esquina Tirso de Molina,Parada,41.5702819094993,-4.836736232627,,http://www.auvasa.es/parada.asp?codigo=450,,,Europe/Madrid
 451,1228,Paseo Zorrilla 10,Parada,41.6469689357638,-4.73146350413824,,http://www.auvasa.es/parada.asp?codigo=451,,,Europe/Madrid
 452,1233,Camino Viejo Simancas 167 esquina José Velicia,Parada,41.617995718243,-4.76133270456419,,http://www.auvasa.es/parada.asp?codigo=452,,,Europe/Madrid
@@ -150,7 +150,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2709,132,Plaza del Olivo,Parada,41.5977419561979,-4.67092223927383,,http://www.auvasa.es/parada.asp?codigo=2709,,,Europe/Madrid
 501,1320,Calle Víctimas del Terrorismo esquina Carretera Segovia,Parada,41.6296483490623,-4.71822686035944,,http://www.auvasa.es/parada.asp?codigo=501,,,Europe/Madrid
 502,1321,Calle Carraca frente 41 esquina Avenida Soria,Parada,41.6340711430549,-4.70852058906057,,http://www.auvasa.es/parada.asp?codigo=502,,,Europe/Madrid
-503,1322,Calle Embajadores 71,Parada,41.6296989763871,-4.7231326857796,,http://www.auvasa.es/parada.asp?codigo=503,,,Europe/Madrid
 504,1323,Avenida Salamanca frente Puente de La Hispanidad,Parada,41.6273660324233,-4.76012894901858,,http://www.auvasa.es/parada.asp?codigo=504,,,Europe/Madrid
 505,1324,Avenida Salamanca esquina Santiago López González,Parada,41.6256920387123,-4.76490876948728,,http://www.auvasa.es/parada.asp?codigo=505,,,Europe/Madrid
 506,1325,Avenida Salamanca esquina Fray Antonio de Córdoba,Parada,41.624882107042,-4.76579356794373,,http://www.auvasa.es/parada.asp?codigo=506,,,Europe/Madrid
@@ -307,12 +306,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 82,665,Calle Don Sancho 7,Parada,41.6484937939893,-4.71934115960825,,http://www.auvasa.es/parada.asp?codigo=82,,,Europe/Madrid
 83,666,Calle Duque de La Victoria 23 esquina Plaza España,Parada,41.6493780384016,-4.72607299488518,,http://www.auvasa.es/parada.asp?codigo=83,,,Europe/Madrid
 84,667,Calle Venezuela esquina Ecuador,Parada,41.6307269835347,-4.74714937562597,,http://www.auvasa.es/parada.asp?codigo=84,,,Europe/Madrid
-85,668,Calle Embajadores 60 frente Escuela Oficial de Idiomas,Parada,41.6353714189668,-4.72238495815704,,http://www.auvasa.es/parada.asp?codigo=85,,,Europe/Madrid
-86,669,Calle Embajadores frente 72 esquina Hornija,Parada,41.6335629373846,-4.72251681308118,,http://www.auvasa.es/parada.asp?codigo=86,,,Europe/Madrid
-87,670,Calle Embajadores frente 58 escuela Oficial de Idiomas,Parada,41.6355611549643,-4.72225795974945,,http://www.auvasa.es/parada.asp?codigo=87,,,Europe/Madrid
 88,671,Calle Embajadores 4 esquina Paseo Farnesio,Parada,41.6398187681353,-4.72182829718664,,http://www.auvasa.es/parada.asp?codigo=88,,,Europe/Madrid
-89,672,Calle Embajadores 57 esquina Transición,Parada,41.6316891047349,-4.72276652908346,,http://www.auvasa.es/parada.asp?codigo=89,,,Europe/Madrid
-90,673,Calle Embajadores 74 esquina Hornija,Parada,41.6330365791372,-4.7227092475874,,http://www.auvasa.es/parada.asp?codigo=90,,,Europe/Madrid
 91,674,Calle Embajadores 92 esquina Transición,Parada,41.6310027740347,-4.72300277492277,,http://www.auvasa.es/parada.asp?codigo=91,,,Europe/Madrid
 92,675,Calle Enseñanza esquina Avenida Gijón,Parada,41.660352460005,-4.74786066351928,,http://www.auvasa.es/parada.asp?codigo=92,,,Europe/Madrid
 93,677,Avenida Valle Esgueva 87 esquina Paseo Belén,Parada,41.6596080421326,-4.70637599908628,,http://www.auvasa.es/parada.asp?codigo=93,,,Europe/Madrid
@@ -560,3 +554,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 347,997,Paseo Zorrilla 1 antiguo Hospital Militar,Parada,41.6444810352843,-4.73420023719185,,http://www.auvasa.es/parada.asp?codigo=347,,,Europe/Madrid
 348,998,Paseo Zorrilla 130 Centro Comercial,Parada,41.6370320436707,-4.7393199970302,,http://www.auvasa.es/parada.asp?codigo=348,,,Europe/Madrid
 349,999,Paseo Zorrilla 133 La Rubia,Parada,41.6277797829535,-4.74327838843489,,http://www.auvasa.es/parada.asp?codigo=349,,,Europe/Madrid
+3056,PA12235,Avda. Segovia 139 esq. Ebro,Parada,41.6352414154825,-4.72119882711657,,http://www.auvasa.es/parada.asp?codigo=3056,,,Europe/Madrid
+3057,PA12236,Avda. Segovia 72 CIFP Juan de Herrera,Parada,41.6344585929201,-4.72127124676,,http://www.auvasa.es/parada.asp?codigo=3057,,,Europe/Madrid
