@@ -447,7 +447,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 235,860,Carretera Rueda frente Madroño,Parada,41.6060523462336,-4.75378477545452,,http://www.auvasa.es/parada.asp?codigo=235,,,Europe/Madrid
 236,861,Carretera Rueda esquina Vinos de Cigales,Parada,41.6165952475118,-4.74627648905847,,http://www.auvasa.es/parada.asp?codigo=236,,,Europe/Madrid
 237,862,Carretera Rueda frente 187 frente Hotel,Parada,41.6032913714233,-4.75498214271874,,http://www.auvasa.es/parada.asp?codigo=237,,,Europe/Madrid
-238,863,Carretera Rueda Piscinas FASA,Parada,41.5882673758163,-4.75870720695175,,http://www.auvasa.es/parada.asp?codigo=238,,,Europe/Madrid
+238,863,Carretera Rueda Piscinas FASA,Parada,41.5882712832676,-4.75870415578599,,http://www.auvasa.es/parada.asp?codigo=238,,,Europe/Madrid
 239,864,Carretera Rueda 19 esquina Mota,Parada,41.6282657006791,-4.74171373244307,,http://www.auvasa.es/parada.asp?codigo=239,,,Europe/Madrid
 240,865,Carretera Rueda 36 esquina Mota,Parada,41.6273140717482,-4.74199522987155,,http://www.auvasa.es/parada.asp?codigo=240,,,Europe/Madrid
 241,866,Carretera Rueda 37 esquina Corta,Parada,41.6249698713656,-4.74170108825808,,http://www.auvasa.es/parada.asp?codigo=241,,,Europe/Madrid
