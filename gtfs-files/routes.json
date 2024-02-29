@@ -410,7 +410,7 @@
     "route_id": "82",
     "agency_id": "101",
     "route_short_name": "F2",
-    "route_long_name": "Delicias-Pza. Circular-Estaciones-Pza. Juan  Austria-Estadio",
+    "route_long_name": "Cister-Delici-Circular-Estaciones-Pza. Juan  Austria-Estadio",
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F2",
@@ -459,6 +459,17 @@
     "route_type": "3",
     "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F6",
     "route_color": "006D38",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "220",
+    "agency_id": "101",
+    "route_short_name": "C0",
+    "route_long_name": "Pajarillos - Covaresa",
+    "route_desc": "",
+    "route_type": "3",
+    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=C0",
+    "route_color": "000000",
     "route_text_color": "FFFFFF"
   },
   {
@@ -559,16 +570,5 @@
     "route_url": "http://www.auvasa.es/auv_linea.asp?lin=U8",
     "route_color": "FF3067",
     "route_text_color": "000000"
-  },
-  {
-    "route_id": "953",
-    "agency_id": "101",
-    "route_short_name": "LP",
-    "route_long_name": "Pinguinos",
-    "route_desc": "",
-    "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=LP",
-    "route_color": "000000",
-    "route_text_color": "FFFFFF"
   }
 ]
