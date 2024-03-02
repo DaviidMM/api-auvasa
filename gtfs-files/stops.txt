@@ -87,7 +87,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 439,1206,Calle Valle de Arán frente 40,Parada,41.6683166230269,-4.71503652404754,,http://www.auvasa.es/parada.asp?codigo=439,,,Europe/Madrid
 440,1207,Calle Miguel Ruiz Temiño esquina JuanCarlosI sentido Centro,Parada,41.6330348904034,-4.71926249936419,,http://www.auvasa.es/parada.asp?codigo=440,,,Europe/Madrid
 441,1208,Calle Miguel Ruiz de Temiño esquina Juan Carlos I,Parada,41.6330017940947,-4.71946361794431,,http://www.auvasa.es/parada.asp?codigo=441,,,Europe/Madrid
-442,1209,Calle Armonio esquina Laúd,Parada,41.6335313407305,-4.71471319553697,,http://www.auvasa.es/parada.asp?codigo=442,,,Europe/Madrid
+442,1209,Calle Armonio 3  esquina Laúd,Parada,41.6335313407305,-4.71471319553697,,http://www.auvasa.es/parada.asp?codigo=442,,,Europe/Madrid
 443,1215,Calle La Flauta Mágica esquina Electra,Parada,41.6853490945692,-4.73833380102886,,http://www.auvasa.es/parada.asp?codigo=443,,,Europe/Madrid
 444,1216,Calle Príncipe Ígor esquina La Flauta Mágica,Parada,41.686359694395,-4.73436406992248,,http://www.auvasa.es/parada.asp?codigo=444,,,Europe/Madrid
 446,1218,Carretera Pesqueruela frente 1 esquina Carretera PuenteDuero,Parada,41.5841000374549,-4.81972699946507,,http://www.auvasa.es/parada.asp?codigo=446,,,Europe/Madrid
@@ -354,7 +354,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 136,737,Calle Vázquez de Menchaca 5,Parada,41.6246200372996,-4.73174899854382,,http://www.auvasa.es/parada.asp?codigo=136,,,Europe/Madrid
 137,738,Calle Vázquez de Menchaca 9,Parada,41.6225430366382,-4.73347400459987,,http://www.auvasa.es/parada.asp?codigo=137,,,Europe/Madrid
 138,742,Calle Adolfo Miaja de la Muela esquina Remigio Cabello Toral,Parada,41.6354016807519,-4.75476236815371,,http://www.auvasa.es/parada.asp?codigo=138,,,Europe/Madrid
-139,743,Calle Adolfo Miaja de la Muela 6 esquina Hernando de Acuña,Parada,41.6375940654986,-4.75407993336975,,http://www.auvasa.es/parada.asp?codigo=139,,,Europe/Madrid
 140,744,Calle Mieses frente 40,Parada,41.6535031526874,-4.74427096024068,,http://www.auvasa.es/parada.asp?codigo=140,,,Europe/Madrid
 141,747,Calle Mieses frente 16,Parada,41.6593980380105,-4.74069999907677,,http://www.auvasa.es/parada.asp?codigo=141,,,Europe/Madrid
 142,749,Calle Mieses 40,Parada,41.6534774405601,-4.74458484372339,,http://www.auvasa.es/parada.asp?codigo=142,,,Europe/Madrid
@@ -448,7 +447,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 235,860,Carretera Rueda frente Madroño,Parada,41.6060523462336,-4.75378477545452,,http://www.auvasa.es/parada.asp?codigo=235,,,Europe/Madrid
 236,861,Carretera Rueda esquina Vinos de Cigales,Parada,41.6165952475118,-4.74627648905847,,http://www.auvasa.es/parada.asp?codigo=236,,,Europe/Madrid
 237,862,Carretera Rueda frente 187 frente Hotel,Parada,41.6032913714233,-4.75498214271874,,http://www.auvasa.es/parada.asp?codigo=237,,,Europe/Madrid
-238,863,Carretera Rueda Piscinas FASA,Parada,41.5882673758163,-4.75870720695175,,http://www.auvasa.es/parada.asp?codigo=238,,,Europe/Madrid
+238,863,Carretera Rueda Piscinas FASA,Parada,41.5882712832676,-4.75870415578599,,http://www.auvasa.es/parada.asp?codigo=238,,,Europe/Madrid
 239,864,Carretera Rueda 19 esquina Mota,Parada,41.6282657006791,-4.74171373244307,,http://www.auvasa.es/parada.asp?codigo=239,,,Europe/Madrid
 240,865,Carretera Rueda 36 esquina Mota,Parada,41.6273140717482,-4.74199522987155,,http://www.auvasa.es/parada.asp?codigo=240,,,Europe/Madrid
 241,866,Carretera Rueda 37 esquina Corta,Parada,41.6249698713656,-4.74170108825808,,http://www.auvasa.es/parada.asp?codigo=241,,,Europe/Madrid
@@ -506,7 +505,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 293,924,Camino Viejo Simancas puente,Parada,41.5877906945616,-4.82252655911185,,http://www.auvasa.es/parada.asp?codigo=293,,,Europe/Madrid
 294,926,Avenida Zamora frente Colegio San Agustín,Parada,41.6180575679229,-4.72825957572903,,http://www.auvasa.es/parada.asp?codigo=294,,,Europe/Madrid
 300,933,Carretera Soria frente Polígono San Cristóbal,Parada,41.6269940387539,-4.69966199965909,,http://www.auvasa.es/parada.asp?codigo=300,,,Europe/Madrid
-301,934,Avenida Soria esquina Paseo Juan Carlos I,Parada,41.6415857299459,-4.71207991984855,,http://www.auvasa.es/parada.asp?codigo=301,,,Europe/Madrid
+301,934,Avenida Soria esquina Paseo Juan Carlos I,Parada,41.6415828298376,-4.71207663425373,,http://www.auvasa.es/parada.asp?codigo=301,,,Europe/Madrid
 302,935,Carretera Soria esq Paramo San Isidro,Parada,41.635021092715,-4.70615302809513,,http://www.auvasa.es/parada.asp?codigo=302,,,Europe/Madrid
 303,936,Carretera Soria raqueta Cuartel,Parada,41.6399888426822,-4.71012566458724,,http://www.auvasa.es/parada.asp?codigo=303,,,Europe/Madrid
 304,937,Carretera Soria Polígono San Cristóbal,Parada,41.6265200418757,-4.70011300359478,,http://www.auvasa.es/parada.asp?codigo=304,,,Europe/Madrid
@@ -540,7 +539,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 333,972,Paseo San Vicente 35 esquina Sevilla,Parada,41.6431765073005,-4.71823537754961,,http://www.auvasa.es/parada.asp?codigo=333,,,Europe/Madrid
 334,973,Calle La Victoria frente 31 esquina San Sebastián,Parada,41.6636644670462,-4.73264487363698,,http://www.auvasa.es/parada.asp?codigo=334,,,Europe/Madrid
 335,976,Calle Villabáñez 131 esquina Camino Viejo del Polvorín,Parada,41.6473910375475,-4.70179899747423,,http://www.auvasa.es/parada.asp?codigo=335,,,Europe/Madrid
-336,978,Calle Villabáñez 19 Iglesia San Ignacio de Loyola,Parada,41.6493276839746,-4.70907248590463,,http://www.auvasa.es/parada.asp?codigo=336,,,Europe/Madrid
 337,982,Calle Villabáñez 55 esquina Golondrina,Parada,41.6480730442412,-4.70539700168663,,http://www.auvasa.es/parada.asp?codigo=337,,,Europe/Madrid
 338,984,Calle Doctor Villacián frente 5 frente Mariano de los Cobos,Parada,41.6386198289753,-4.74973874517403,,http://www.auvasa.es/parada.asp?codigo=338,,,Europe/Madrid
 339,985,Calle Doctor Villacián Monasterio de Prado,Parada,41.6393450668374,-4.74675268652964,,http://www.auvasa.es/parada.asp?codigo=339,,,Europe/Madrid
