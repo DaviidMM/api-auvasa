@@ -4,6 +4,9 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 WORKDIR /usr/src/app
 COPY ./ /usr/src/app/
 
+# Crear el archivo .env desde .env.template si no se creó antes
+RUN [ ! -f .env ] && mv .env.template .env
+
 # Instalar dependencias
 RUN npm install
 
