@@ -332,7 +332,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 114,706,Calle Labradores 1 esquina Plaza Cruz Verde,Parada,41.648057914477,-4.72052141254072,,http://www.auvasa.es/parada.asp?codigo=114,,,Europe/Madrid
 115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6454713607064,-4.72250372180281,,http://www.auvasa.es/parada.asp?codigo=115,,,Europe/Madrid
 116,708,Calle Labradores 45 esquina Niña Guapa,Parada,41.6453730450718,-4.72062899764126,,http://www.auvasa.es/parada.asp?codigo=116,,,Europe/Madrid
-117,709,Calle José María Lacort 8 esquina Plaza España,Parada,41.6491343976464,-4.72394940665622,,http://www.auvasa.es/parada.asp?codigo=117,,,Europe/Madrid
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,Parada,41.6378181073737,-4.73001918004244,,http://www.auvasa.es/parada.asp?codigo=118,,,Europe/Madrid
 119,715,Avenida Julián Merino Lápice Piscinas Municipales,Parada,41.6102179562615,-4.68229356601798,,http://www.auvasa.es/parada.asp?codigo=119,,,Europe/Madrid
 120,716,Calle Bajada de La Libertad 10 frente Teatro Calderón,Parada,41.6535601831311,-4.72442701838852,,http://www.auvasa.es/parada.asp?codigo=120,,,Europe/Madrid

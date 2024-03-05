@@ -4329,19 +4329,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "117",
-    "stop_code": "709",
-    "stop_name": "Calle José María Lacort 8 esquina Plaza España",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6491343976464",
-    "stop_lon": "-4.72394940665622",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=117",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "118",
     "stop_code": "711",
     "stop_name": "Paseo Arco Ladrillo 31 esquina Paseo Farnesio",
