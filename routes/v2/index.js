@@ -3,10 +3,21 @@ const routes = express.Router();
 const { getParada, getParadas, getBusPosition, getShapesForTrip, getStopsForTrip } = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
+// Imports de alertas de v1
+// Migrar a alertas v2
+const apicache = require('apicache');
+const { getAlertsFromGtfs } = require('../../lib/v1/gtfs');
+const cache = apicache.middleware;
+
 routes.get('/', (req, res) => {
   return res.send(
     `Añade un número de parada y línea a la URL para continuar. Sintaxis: https://${req.hostname}/parada/Nº parada/Línea.<br/><br/>Por ejemplo: https://${req.hostname}/parada/811/3<br/><br/><br/>Fuente: AUVASA`,
   );
+});
+
+routes.get('/alertas', cache('15 minutes'), async (req, res) => {
+  const alerts = await getAlertsFromGtfs();
+  return res.status(200).send(alerts);
 });
 
 routes.get('/getAllCache', (req, res) => {
