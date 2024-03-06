@@ -7,7 +7,7 @@
     "stop_lat": "41.6278187398889",
     "stop_lon": "-4.7442846943134",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=350",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=350",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -20,7 +20,7 @@
     "stop_lat": "41.6240941127112",
     "stop_lon": "-4.74727602595223",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=351",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=351",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -33,7 +33,7 @@
     "stop_lat": "41.6413111705351",
     "stop_lon": "-4.73721519414685",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=352",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=352",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -46,7 +46,7 @@
     "stop_lat": "41.6437868696237",
     "stop_lon": "-4.73556142304993",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=353",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=353",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -59,7 +59,7 @@
     "stop_lat": "41.613388139184",
     "stop_lon": "-4.68877305291374",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=355",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=355",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -72,7 +72,7 @@
     "stop_lat": "41.64940703773",
     "stop_lon": "-4.73116000429171",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=356",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=356",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -85,7 +85,7 @@
     "stop_lat": "41.6196465271162",
     "stop_lon": "-4.74790558854684",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=358",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=358",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -98,7 +98,7 @@
     "stop_lat": "41.6194764746951",
     "stop_lon": "-4.74826800226399",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=359",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=359",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -111,7 +111,7 @@
     "stop_lat": "41.6170100490037",
     "stop_lon": "-4.74814126863808",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=360",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=360",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -124,7 +124,7 @@
     "stop_lat": "41.6169600936592",
     "stop_lon": "-4.74848399945348",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=361",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=361",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -137,7 +137,7 @@
     "stop_lat": "41.6084240763388",
     "stop_lon": "-4.74834319413418",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=362",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=362",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -150,7 +150,7 @@
     "stop_lat": "41.6196710223583",
     "stop_lon": "-4.7514842375604",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=363",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=363",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -163,7 +163,7 @@
     "stop_lat": "41.6169577239007",
     "stop_lon": "-4.75326286056944",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=364",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=364",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -176,7 +176,7 @@
     "stop_lat": "41.6195749709011",
     "stop_lon": "-4.75130679164923",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=365",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=365",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -189,7 +189,7 @@
     "stop_lat": "41.617160808104",
     "stop_lon": "-4.75295323449353",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=366",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=366",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -202,7 +202,7 @@
     "stop_lat": "41.6635416384605",
     "stop_lon": "-4.71830749459119",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=367",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=367",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -215,7 +215,7 @@
     "stop_lat": "41.6159548810958",
     "stop_lon": "-4.76468728814411",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=368",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=368",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -228,7 +228,7 @@
     "stop_lat": "41.6160832273366",
     "stop_lon": "-4.76477342080949",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=369",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=369",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -241,7 +241,7 @@
     "stop_lat": "41.6137393431342",
     "stop_lon": "-4.74857999430794",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=370",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=370",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -254,7 +254,7 @@
     "stop_lat": "41.6084523263443",
     "stop_lon": "-4.7484933815914",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=372",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=372",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -267,7 +267,7 @@
     "stop_lat": "41.6110896005332",
     "stop_lon": "-4.74500428240056",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=373",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=373",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -280,7 +280,7 @@
     "stop_lat": "41.6110873076634",
     "stop_lon": "-4.74518951527841",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=374",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=374",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -293,7 +293,7 @@
     "stop_lat": "41.6138032733103",
     "stop_lon": "-4.74849000398617",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=375",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=375",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -306,7 +306,7 @@
     "stop_lat": "41.5444585549076",
     "stop_lon": "-4.78210199244543",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=376",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=376",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -319,7 +319,7 @@
     "stop_lat": "41.6712354695232",
     "stop_lon": "-4.7248385387177",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=377",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=377",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -332,7 +332,7 @@
     "stop_lat": "41.6712631237249",
     "stop_lon": "-4.72458387845715",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=378",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=378",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -345,7 +345,7 @@
     "stop_lat": "41.6737704649484",
     "stop_lon": "-4.71933937434158",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=379",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=379",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -358,7 +358,7 @@
     "stop_lat": "41.6737516783182",
     "stop_lon": "-4.71909448383643",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=380",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=380",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -371,7 +371,7 @@
     "stop_lat": "41.5507268787073",
     "stop_lon": "-4.79133755541997",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=381",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=381",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -384,7 +384,7 @@
     "stop_lat": "41.6353043890534",
     "stop_lon": "-4.71900636588664",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=382",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=382",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -397,7 +397,7 @@
     "stop_lat": "41.6357334882041",
     "stop_lon": "-4.72068388459556",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=383",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=383",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -410,7 +410,7 @@
     "stop_lat": "41.6333457979426",
     "stop_lon": "-4.75531523103699",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=384",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=384",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -423,7 +423,7 @@
     "stop_lat": "41.636318195906",
     "stop_lon": "-4.76238050384883",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=385",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=385",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -436,7 +436,7 @@
     "stop_lat": "41.6364288113185",
     "stop_lon": "-4.76630249877014",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=386",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=386",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -449,7 +449,7 @@
     "stop_lat": "41.639124090828",
     "stop_lon": "-4.76584152572052",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=387",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=387",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -462,7 +462,7 @@
     "stop_lat": "41.6379621196553",
     "stop_lon": "-4.76216165526438",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=388",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=388",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -475,7 +475,7 @@
     "stop_lat": "41.6381338785997",
     "stop_lon": "-4.76151944644243",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=389",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=389",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -488,7 +488,7 @@
     "stop_lat": "41.639360699395",
     "stop_lon": "-4.76590399946121",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=390",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=390",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -501,7 +501,7 @@
     "stop_lat": "41.6367329935437",
     "stop_lon": "-4.76748650593538",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=391",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=391",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -514,7 +514,7 @@
     "stop_lat": "41.6360278406149",
     "stop_lon": "-4.76191800125924",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=392",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=392",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -527,7 +527,7 @@
     "stop_lat": "41.6338985243599",
     "stop_lon": "-4.75971650147293",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=393",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=393",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -540,7 +540,7 @@
     "stop_lat": "41.6499229415905",
     "stop_lon": "-4.73264392160482",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=394",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=394",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -553,7 +553,7 @@
     "stop_lat": "41.6699924260847",
     "stop_lon": "-4.73623451485434",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=395",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=395",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -566,7 +566,7 @@
     "stop_lat": "41.6815690451513",
     "stop_lon": "-4.74166300571307",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=396",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=396",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -579,7 +579,7 @@
     "stop_lat": "41.6839413047703",
     "stop_lon": "-4.7417063637152",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=397",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=397",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -592,7 +592,7 @@
     "stop_lat": "41.6619704754214",
     "stop_lon": "-4.7279362604959",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=398",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=398",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -605,7 +605,7 @@
     "stop_lat": "41.6453673792814",
     "stop_lon": "-4.7104552074465",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=399",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=399",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -618,7 +618,7 @@
     "stop_lat": "41.6226966480513",
     "stop_lon": "-4.74171533609628",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=400",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=400",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -631,7 +631,7 @@
     "stop_lat": "41.6182520910015",
     "stop_lon": "-4.74408962982548",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=401",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=401",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -644,7 +644,7 @@
     "stop_lat": "41.6329851607453",
     "stop_lon": "-4.74741866492433",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=402",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=402",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -657,7 +657,7 @@
     "stop_lat": "41.6589050413767",
     "stop_lon": "-4.71931163024214",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=403",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=403",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -670,7 +670,7 @@
     "stop_lat": "41.6477688650087",
     "stop_lon": "-4.72904940268662",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=404",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=404",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -683,7 +683,7 @@
     "stop_lat": "41.6570370157701",
     "stop_lon": "-4.72005049992985",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=405",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=405",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -696,7 +696,7 @@
     "stop_lat": "41.6532773141477",
     "stop_lon": "-4.71779350091781",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=406",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=406",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -709,7 +709,7 @@
     "stop_lat": "41.643250885542",
     "stop_lon": "-4.7269143209713",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=408",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=408",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -722,7 +722,7 @@
     "stop_lat": "41.672766433045",
     "stop_lon": "-4.73055000396716",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=409",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=409",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -735,7 +735,7 @@
     "stop_lat": "41.6709069776056",
     "stop_lon": "-4.73053126918975",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=410",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=410",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -748,7 +748,7 @@
     "stop_lat": "41.6384995728461",
     "stop_lon": "-4.74621293257122",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=411",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=411",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -761,7 +761,7 @@
     "stop_lat": "41.6165613402156",
     "stop_lon": "-4.75277307188823",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=412",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=412",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -774,7 +774,7 @@
     "stop_lat": "41.6273438123642",
     "stop_lon": "-4.74564367716578",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=413",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=413",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -787,7 +787,7 @@
     "stop_lat": "41.6392319620445",
     "stop_lon": "-4.74515937618469",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=414",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=414",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -800,7 +800,7 @@
     "stop_lat": "41.6466013009608",
     "stop_lon": "-4.69960331734697",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=415",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=415",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -813,7 +813,7 @@
     "stop_lat": "41.6465898468627",
     "stop_lon": "-4.69975768582457",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=416",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=416",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -826,7 +826,7 @@
     "stop_lat": "41.642329203865",
     "stop_lon": "-4.70428528190512",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=417",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=417",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -839,7 +839,7 @@
     "stop_lat": "41.6423283277343",
     "stop_lon": "-4.70407299984795",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=418",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=418",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -852,7 +852,7 @@
     "stop_lat": "41.6437537840278",
     "stop_lon": "-4.71458359884938",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=419",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=419",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -865,7 +865,7 @@
     "stop_lat": "41.6505689552769",
     "stop_lon": "-4.70423383591765",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=420",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=420",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -878,7 +878,7 @@
     "stop_lat": "41.649912300396",
     "stop_lon": "-4.70420300395825",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=421",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=421",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -891,7 +891,7 @@
     "stop_lat": "41.6475899058555",
     "stop_lon": "-4.70222350602043",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=422",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=422",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -904,7 +904,7 @@
     "stop_lat": "41.6534994933038",
     "stop_lon": "-4.73111313889831",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=423",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=423",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -917,7 +917,7 @@
     "stop_lat": "41.6446993777185",
     "stop_lon": "-4.73290763723593",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=424",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=424",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -930,7 +930,7 @@
     "stop_lat": "41.6430345345075",
     "stop_lon": "-4.71584947280657",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=425",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=425",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -943,7 +943,7 @@
     "stop_lat": "41.6696867704814",
     "stop_lon": "-4.73632952098898",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=426",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=426",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -956,7 +956,7 @@
     "stop_lat": "41.6817310424604",
     "stop_lon": "-4.74194500373976",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=427",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=427",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -969,7 +969,7 @@
     "stop_lat": "41.6595314696829",
     "stop_lon": "-4.70708796636562",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=428",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=428",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -982,7 +982,7 @@
     "stop_lat": "41.64426388642",
     "stop_lon": "-4.71498631472622",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=429",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=429",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -995,7 +995,7 @@
     "stop_lat": "41.65775090496",
     "stop_lon": "-4.74033750136079",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=430",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=430",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1008,7 +1008,7 @@
     "stop_lat": "41.6137102947861",
     "stop_lon": "-4.71216033587422",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=431",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=431",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1021,7 +1021,7 @@
     "stop_lat": "41.6124066902789",
     "stop_lon": "-4.71092943743483",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=432",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=432",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1034,7 +1034,7 @@
     "stop_lat": "41.6123165296192",
     "stop_lon": "-4.71054326389596",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=433",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=433",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1047,7 +1047,7 @@
     "stop_lat": "41.6657189126321",
     "stop_lon": "-4.71752799975424",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=434",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=434",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1060,7 +1060,7 @@
     "stop_lat": "41.6684261296726",
     "stop_lon": "-4.7147648712377",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=435",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=435",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1073,7 +1073,7 @@
     "stop_lat": "41.6706379468226",
     "stop_lon": "-4.71253555520776",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=436",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=436",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1086,7 +1086,7 @@
     "stop_lat": "41.6683861514544",
     "stop_lon": "-4.70959149703501",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=437",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=437",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1099,7 +1099,7 @@
     "stop_lat": "41.6707776427378",
     "stop_lon": "-4.71202499746007",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=438",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=438",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1112,7 +1112,7 @@
     "stop_lat": "41.6683166230269",
     "stop_lon": "-4.71503652404754",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=439",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=439",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1125,7 +1125,7 @@
     "stop_lat": "41.6330348904034",
     "stop_lon": "-4.71926249936419",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=440",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=440",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1138,7 +1138,7 @@
     "stop_lat": "41.6330017940947",
     "stop_lon": "-4.71946361794431",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=441",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=441",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1151,7 +1151,7 @@
     "stop_lat": "41.6335313407305",
     "stop_lon": "-4.71471319553697",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=442",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=442",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1164,7 +1164,7 @@
     "stop_lat": "41.6853490945692",
     "stop_lon": "-4.73833380102886",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=443",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=443",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1177,7 +1177,7 @@
     "stop_lat": "41.686359694395",
     "stop_lon": "-4.73436406992248",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=444",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=444",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1190,7 +1190,7 @@
     "stop_lat": "41.5841000374549",
     "stop_lon": "-4.81972699946507",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=446",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=446",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1203,7 +1203,7 @@
     "stop_lat": "41.5703930451878",
     "stop_lon": "-4.83661399471623",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=447",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=447",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1216,7 +1216,7 @@
     "stop_lat": "41.5704112089125",
     "stop_lon": "-4.83971162445835",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=448",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=448",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1229,7 +1229,7 @@
     "stop_lat": "41.5841960429895",
     "stop_lon": "-4.81949700538097",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=449",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=449",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1242,7 +1242,7 @@
     "stop_lat": "41.626836583026",
     "stop_lon": "-4.73087696014544",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2944",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2944",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1255,7 +1255,7 @@
     "stop_lat": "41.6267878628572",
     "stop_lon": "-4.73095398701794",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2945",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2945",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1268,7 +1268,7 @@
     "stop_lat": "41.6205250533928",
     "stop_lon": "-4.73477047124863",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2971",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2971",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1281,7 +1281,7 @@
     "stop_lat": "41.6443028217118",
     "stop_lon": "-4.75972205410771",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=3048",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=3048",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1294,7 +1294,7 @@
     "stop_lat": "41.5702819094993",
     "stop_lon": "-4.836736232627",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=450",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=450",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1307,7 +1307,7 @@
     "stop_lat": "41.6469689357638",
     "stop_lon": "-4.73146350413824",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=451",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=451",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1320,7 +1320,7 @@
     "stop_lat": "41.617995718243",
     "stop_lon": "-4.76133270456419",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=452",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=452",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1333,7 +1333,7 @@
     "stop_lat": "41.6179781266127",
     "stop_lon": "-4.76160321501058",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=453",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=453",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1346,7 +1346,7 @@
     "stop_lat": "41.6543323948332",
     "stop_lon": "-4.71606323014305",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=454",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=454",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1359,7 +1359,7 @@
     "stop_lat": "41.6416591865929",
     "stop_lon": "-4.75611136750617",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=455",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=455",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1372,7 +1372,7 @@
     "stop_lat": "41.6405752737324",
     "stop_lon": "-4.7557882662324",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=456",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=456",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1385,7 +1385,7 @@
     "stop_lat": "41.6386491731789",
     "stop_lon": "-4.75390639676364",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=457",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=457",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1398,7 +1398,7 @@
     "stop_lat": "41.6508937381901",
     "stop_lon": "-4.74699376572176",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=458",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=458",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1411,7 +1411,7 @@
     "stop_lat": "41.6507024847843",
     "stop_lon": "-4.74747200490314",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=459",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=459",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1424,7 +1424,7 @@
     "stop_lat": "41.6463433454092",
     "stop_lon": "-4.75004785121232",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=460",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=460",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1437,7 +1437,7 @@
     "stop_lat": "41.6464778670557",
     "stop_lon": "-4.750334539504",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=461",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=461",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1450,7 +1450,7 @@
     "stop_lat": "41.6459242350824",
     "stop_lon": "-4.74686973238037",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=462",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=462",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1463,7 +1463,7 @@
     "stop_lat": "41.6455757825228",
     "stop_lon": "-4.749997666801",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=464",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=464",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1476,7 +1476,7 @@
     "stop_lat": "41.6455664558543",
     "stop_lon": "-4.74971910501982",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=463",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=463",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1489,7 +1489,7 @@
     "stop_lat": "41.6431522220863",
     "stop_lon": "-4.75593749590676",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=465",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=465",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1502,7 +1502,7 @@
     "stop_lat": "41.6437828535966",
     "stop_lon": "-4.75414689417165",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=466",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=466",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1515,7 +1515,7 @@
     "stop_lat": "41.6450636313973",
     "stop_lon": "-4.74082734422194",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=467",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=467",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1528,7 +1528,7 @@
     "stop_lat": "41.6378458888006",
     "stop_lon": "-4.77170162137242",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=468",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=468",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1541,7 +1541,7 @@
     "stop_lat": "41.6342744604637",
     "stop_lon": "-4.77215700539147",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=469",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=469",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1554,7 +1554,7 @@
     "stop_lat": "41.6320841535944",
     "stop_lon": "-4.76298068751019",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=471",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=471",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1567,7 +1567,7 @@
     "stop_lat": "41.6306851285685",
     "stop_lon": "-4.75982629559518",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=472",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=472",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1580,7 +1580,7 @@
     "stop_lat": "41.6272934976959",
     "stop_lon": "-4.75844427949183",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=473",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=473",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1593,7 +1593,7 @@
     "stop_lat": "41.630805464357",
     "stop_lon": "-4.75976759055013",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=474",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=474",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1606,7 +1606,7 @@
     "stop_lat": "41.6321417512715",
     "stop_lon": "-4.76297511117924",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=475",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=475",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1619,7 +1619,7 @@
     "stop_lat": "41.6395112166939",
     "stop_lon": "-4.74467356056032",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=478",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=478",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1632,7 +1632,7 @@
     "stop_lat": "41.6378200942283",
     "stop_lon": "-4.77163510565405",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=479",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=479",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1645,7 +1645,7 @@
     "stop_lat": "41.6399013940308",
     "stop_lon": "-4.76902500123149",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=480",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=480",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1658,7 +1658,7 @@
     "stop_lat": "41.6397902968251",
     "stop_lon": "-4.76894781764362",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=481",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=481",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1671,7 +1671,7 @@
     "stop_lat": "41.6467266571077",
     "stop_lon": "-4.73136632810493",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=482",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=482",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1684,7 +1684,7 @@
     "stop_lat": "41.6365323171227",
     "stop_lon": "-4.72999325112394",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=1580",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=1580",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1697,7 +1697,7 @@
     "stop_lat": "41.6336769111958",
     "stop_lon": "-4.72897649833477",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=484",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=484",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1710,7 +1710,7 @@
     "stop_lat": "41.6311681649482",
     "stop_lon": "-4.72821580492208",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=485",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=485",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1723,7 +1723,7 @@
     "stop_lat": "41.6291959138818",
     "stop_lon": "-4.72558758428413",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=486",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=486",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1736,7 +1736,7 @@
     "stop_lat": "41.6316728818247",
     "stop_lon": "-4.72805953213929",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=487",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=487",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1749,7 +1749,7 @@
     "stop_lat": "41.6342613780901",
     "stop_lon": "-4.72885668882382",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=488",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=488",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1762,7 +1762,7 @@
     "stop_lat": "41.6173139817282",
     "stop_lon": "-4.71896747761873",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=489",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=489",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1775,7 +1775,7 @@
     "stop_lat": "41.6099433605084",
     "stop_lon": "-4.70806832979163",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=490",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=490",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1788,7 +1788,7 @@
     "stop_lat": "41.6198155709766",
     "stop_lon": "-4.69715250498457",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=491",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=491",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1801,7 +1801,7 @@
     "stop_lat": "41.5997848391394",
     "stop_lon": "-4.67371909090029",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2708",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2708",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1814,7 +1814,7 @@
     "stop_lat": "41.6200285391132",
     "stop_lon": "-4.69715342247274",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=492",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=492",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1827,7 +1827,7 @@
     "stop_lat": "41.619594041579",
     "stop_lon": "-4.70284499439776",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=493",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=493",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1840,7 +1840,7 @@
     "stop_lat": "41.6194710398292",
     "stop_lon": "-4.70311399423853",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=494",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=494",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1853,7 +1853,7 @@
     "stop_lat": "41.6316660984806",
     "stop_lon": "-4.71362126406409",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=495",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=495",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1866,7 +1866,7 @@
     "stop_lat": "41.626325940853",
     "stop_lon": "-4.70838555152234",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=496",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=496",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1879,7 +1879,7 @@
     "stop_lat": "41.6262560432534",
     "stop_lon": "-4.70858099764601",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=497",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=497",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1892,7 +1892,7 @@
     "stop_lat": "41.6316407688565",
     "stop_lon": "-4.71258517510011",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=498",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=498",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1905,7 +1905,7 @@
     "stop_lat": "41.6308806761587",
     "stop_lon": "-4.71212651346881",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=499",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=499",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1918,7 +1918,7 @@
     "stop_lat": "41.6301164758671",
     "stop_lon": "-4.71955816174655",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=500",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=500",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1931,7 +1931,7 @@
     "stop_lat": "41.5977419561979",
     "stop_lon": "-4.67092223927383",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2709",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2709",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1944,7 +1944,7 @@
     "stop_lat": "41.6296483490623",
     "stop_lon": "-4.71822686035944",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=501",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=501",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1957,7 +1957,7 @@
     "stop_lat": "41.6340711430549",
     "stop_lon": "-4.70852058906057",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=502",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=502",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1970,7 +1970,7 @@
     "stop_lat": "41.6273660324233",
     "stop_lon": "-4.76012894901858",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=504",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=504",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1983,7 +1983,7 @@
     "stop_lat": "41.6256920387123",
     "stop_lon": "-4.76490876948728",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=505",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=505",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -1996,7 +1996,7 @@
     "stop_lat": "41.624882107042",
     "stop_lon": "-4.76579356794373",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=506",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=506",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2009,7 +2009,7 @@
     "stop_lat": "41.6095346437154",
     "stop_lon": "-4.70787438658351",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=507",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=507",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2022,7 +2022,7 @@
     "stop_lat": "41.6108096190039",
     "stop_lon": "-4.70494053379179",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=508",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=508",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2035,7 +2035,7 @@
     "stop_lat": "41.6108837803529",
     "stop_lon": "-4.7050765780186",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=509",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=509",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2048,7 +2048,7 @@
     "stop_lat": "41.6071850246279",
     "stop_lon": "-4.70127053563458",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=510",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=510",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2061,7 +2061,7 @@
     "stop_lat": "41.5990384180277",
     "stop_lon": "-4.66707045651901",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2710",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2710",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2074,7 +2074,7 @@
     "stop_lat": "41.604080664571",
     "stop_lon": "-4.6979999944928",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=511",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=511",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2087,7 +2087,7 @@
     "stop_lat": "41.6073541431299",
     "stop_lon": "-4.70122602396691",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=512",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=512",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2100,7 +2100,7 @@
     "stop_lat": "41.604301762893",
     "stop_lon": "-4.69796502391881",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=513",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=513",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2113,7 +2113,7 @@
     "stop_lat": "41.6019481099396",
     "stop_lon": "-4.69552132049993",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=514",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=514",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2126,7 +2126,7 @@
     "stop_lat": "41.6324956514035",
     "stop_lon": "-4.71324533412655",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=515",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=515",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2139,7 +2139,7 @@
     "stop_lat": "41.6335197819942",
     "stop_lon": "-4.71445063121904",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=516",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=516",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2152,7 +2152,7 @@
     "stop_lat": "41.6387876625769",
     "stop_lon": "-4.71693390008777",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=517",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=517",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2165,7 +2165,7 @@
     "stop_lat": "41.6391049129434",
     "stop_lon": "-4.71651837730683",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=518",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=518",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2178,7 +2178,7 @@
     "stop_lat": "41.6356929311681",
     "stop_lon": "-4.71866374712974",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=519",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=519",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2191,7 +2191,7 @@
     "stop_lat": "41.6169360376162",
     "stop_lon": "-4.70727499774879",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=520",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=520",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2204,7 +2204,7 @@
     "stop_lat": "41.6172770390737",
     "stop_lon": "-4.7069030001691",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=521",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=521",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2217,7 +2217,7 @@
     "stop_lat": "41.6480641563944",
     "stop_lon": "-4.72403920170611",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=522",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=522",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2230,7 +2230,7 @@
     "stop_lat": "41.6365157476364",
     "stop_lon": "-4.73910142053015",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=523",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=523",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2243,7 +2243,7 @@
     "stop_lat": "41.6407520439689",
     "stop_lon": "-4.73660200468247",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=524",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=524",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2256,7 +2256,7 @@
     "stop_lat": "41.6293103591552",
     "stop_lon": "-4.72334613837822",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=525",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=525",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2269,7 +2269,7 @@
     "stop_lat": "41.5878073066325",
     "stop_lon": "-4.82159819326585",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=526",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=526",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2282,7 +2282,7 @@
     "stop_lat": "41.6285292547692",
     "stop_lon": "-4.71889231432775",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=527",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=527",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2295,7 +2295,7 @@
     "stop_lat": "41.6551863573248",
     "stop_lon": "-4.6997721211106",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=528",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=528",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2308,7 +2308,7 @@
     "stop_lat": "41.6553522187515",
     "stop_lon": "-4.70355192133213",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=530",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=530",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2321,7 +2321,7 @@
     "stop_lat": "41.6547041336125",
     "stop_lon": "-4.70339579309973",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=532",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=532",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2334,7 +2334,7 @@
     "stop_lat": "41.6614292944419",
     "stop_lon": "-4.70722316574041",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=534",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=534",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2347,7 +2347,7 @@
     "stop_lat": "41.6164750375556",
     "stop_lon": "-4.71859902617503",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=535",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=535",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2360,7 +2360,7 @@
     "stop_lat": "41.6134890400204",
     "stop_lon": "-4.71572600306809",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=536",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=536",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2373,7 +2373,7 @@
     "stop_lat": "41.6289753199211",
     "stop_lon": "-4.71065007247048",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=537",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=537",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2386,7 +2386,7 @@
     "stop_lat": "41.6292981997793",
     "stop_lon": "-4.71072971083961",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=538",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=538",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2399,7 +2399,7 @@
     "stop_lat": "41.6176804622743",
     "stop_lon": "-4.70568142599565",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=539",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=539",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2412,7 +2412,7 @@
     "stop_lat": "41.6281889760852",
     "stop_lon": "-4.76288240408804",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=540",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=540",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2425,7 +2425,7 @@
     "stop_lat": "41.6283057068849",
     "stop_lon": "-4.76294843794029",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=541",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=541",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2438,7 +2438,7 @@
     "stop_lat": "41.6513910402983",
     "stop_lon": "-4.71675100483311",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=543",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=543",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2451,7 +2451,7 @@
     "stop_lat": "41.6629374628376",
     "stop_lon": "-4.73629821780062",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=544",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=544",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2464,7 +2464,7 @@
     "stop_lat": "41.6104550411938",
     "stop_lon": "-4.75194100098138",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=545",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=545",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2477,7 +2477,7 @@
     "stop_lat": "41.6571720434158",
     "stop_lon": "-4.72584900575211",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=546",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=546",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2490,7 +2490,7 @@
     "stop_lat": "41.6117751476761",
     "stop_lon": "-4.75578910065759",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=547",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=547",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2503,7 +2503,7 @@
     "stop_lat": "41.6120116915324",
     "stop_lon": "-4.75609267681794",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=548",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=548",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2516,7 +2516,7 @@
     "stop_lat": "41.6585294016704",
     "stop_lon": "-4.74759965359955",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=549",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=549",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2529,7 +2529,7 @@
     "stop_lat": "41.6639660406615",
     "stop_lon": "-4.73434000604343",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=550",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=550",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2542,7 +2542,7 @@
     "stop_lat": "41.6437563757304",
     "stop_lon": "-4.73145773881489",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=551",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=551",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2555,7 +2555,7 @@
     "stop_lat": "41.6433430620337",
     "stop_lon": "-4.73183852930341",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=552",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=552",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2568,7 +2568,7 @@
     "stop_lat": "41.6839385344012",
     "stop_lon": "-4.74147883748882",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=553",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=553",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2581,7 +2581,7 @@
     "stop_lat": "41.6853856524909",
     "stop_lon": "-4.73782938048033",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=554",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=554",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2594,7 +2594,7 @@
     "stop_lat": "41.6480565919689",
     "stop_lon": "-4.72577314029632",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=555",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=555",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2607,7 +2607,7 @@
     "stop_lat": "41.6181836192984",
     "stop_lon": "-4.73230104545384",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=557",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=557",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2620,7 +2620,7 @@
     "stop_lat": "41.6175218294851",
     "stop_lon": "-4.72618382593292",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=558",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=558",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2633,7 +2633,7 @@
     "stop_lat": "41.6478184429961",
     "stop_lon": "-4.72507910250987",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=559",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=559",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2646,7 +2646,7 @@
     "stop_lat": "41.6127246361796",
     "stop_lon": "-4.7505122045397",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=561",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=561",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2659,7 +2659,7 @@
     "stop_lat": "41.6602504468898",
     "stop_lon": "-4.74781883646919",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=562",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=562",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2672,7 +2672,7 @@
     "stop_lat": "41.6452358857845",
     "stop_lon": "-4.74555361096029",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=563",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=563",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2685,7 +2685,7 @@
     "stop_lat": "41.6453957132652",
     "stop_lon": "-4.74534996579974",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=564",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=564",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2698,7 +2698,7 @@
     "stop_lat": "41.6037930413633",
     "stop_lon": "-4.76244879420494",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=565",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=565",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2711,7 +2711,7 @@
     "stop_lat": "41.603090798803",
     "stop_lon": "-4.76247770238026",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=566",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=566",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2724,7 +2724,7 @@
     "stop_lat": "41.5989882251273",
     "stop_lon": "-4.76515525865095",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=567",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=567",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2737,7 +2737,7 @@
     "stop_lat": "41.5990036977572",
     "stop_lon": "-4.76504587622251",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=568",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=568",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2750,7 +2750,7 @@
     "stop_lat": "41.6149340442411",
     "stop_lon": "-4.71683999793761",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=569",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=569",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2763,7 +2763,7 @@
     "stop_lat": "41.643384476909",
     "stop_lon": "-4.72595410176338",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=570",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=570",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2776,7 +2776,7 @@
     "stop_lat": "41.6466590423232",
     "stop_lon": "-4.72426700318313",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=571",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=571",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2789,7 +2789,7 @@
     "stop_lat": "41.6345235068727",
     "stop_lon": "-4.76255197489168",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=572",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=572",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2802,7 +2802,7 @@
     "stop_lat": "41.6103529113006",
     "stop_lon": "-4.67905522229675",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=573",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=573",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2815,7 +2815,7 @@
     "stop_lat": "41.6117180410459",
     "stop_lon": "-4.6801169941645",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=574",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=574",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2828,7 +2828,7 @@
     "stop_lat": "41.6104349379463",
     "stop_lon": "-4.68186796267344",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=575",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=575",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2841,7 +2841,7 @@
     "stop_lat": "41.6328100684792",
     "stop_lon": "-4.74135814894217",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2411",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2411",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2854,7 +2854,7 @@
     "stop_lat": "41.6349868187605",
     "stop_lon": "-4.75552812273529",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2922",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2922",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2867,7 +2867,7 @@
     "stop_lat": "41.6723886563079",
     "stop_lon": "-4.72932840722739",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2915",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2915",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2880,7 +2880,7 @@
     "stop_lat": "41.5879349661796",
     "stop_lon": "-4.75586555196679",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2917",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2917",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2893,7 +2893,7 @@
     "stop_lat": "41.6551270078788",
     "stop_lon": "-4.70514614640447",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2919",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2919",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2906,7 +2906,7 @@
     "stop_lat": "41.6552348751786",
     "stop_lon": "-4.70521430163913",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2920",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2920",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2919,7 +2919,7 @@
     "stop_lat": "41.6580863355115",
     "stop_lon": "-4.71734880738889",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2923",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2923",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2932,7 +2932,7 @@
     "stop_lat": "41.6379983836047",
     "stop_lon": "-4.75574461249468",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=1",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=1",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2945,7 +2945,7 @@
     "stop_lat": "41.637992139995",
     "stop_lon": "-4.75843566197342",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=2",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2958,7 +2958,7 @@
     "stop_lat": "41.6381753268001",
     "stop_lon": "-4.75855368880795",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=3",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=3",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2971,7 +2971,7 @@
     "stop_lat": "41.6382000393549",
     "stop_lon": "-4.75466700275599",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=4",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=4",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2984,7 +2984,7 @@
     "stop_lat": "41.6289899742245",
     "stop_lon": "-4.72477903383175",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=5",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=5",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2997,7 +2997,7 @@
     "stop_lat": "41.6258561769108",
     "stop_lon": "-4.70174239612756",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=6",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=6",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3010,7 +3010,7 @@
     "stop_lat": "41.6256225463685",
     "stop_lon": "-4.70194784234859",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=7",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=7",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3023,7 +3023,7 @@
     "stop_lat": "41.6542742530787",
     "stop_lon": "-4.72399426139778",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=8",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=8",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3036,7 +3036,7 @@
     "stop_lat": "41.6285480622966",
     "stop_lon": "-4.72797821541739",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=9",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=9",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3049,7 +3049,7 @@
     "stop_lat": "41.6283989740151",
     "stop_lon": "-4.72784879227137",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=10",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=10",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3062,7 +3062,7 @@
     "stop_lat": "41.6361640440971",
     "stop_lon": "-4.7251799961792",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=11",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=11",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3075,7 +3075,7 @@
     "stop_lat": "41.6381448075269",
     "stop_lon": "-4.72622207582523",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=12",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=12",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3088,7 +3088,7 @@
     "stop_lat": "41.691313044195",
     "stop_lon": "-4.71043300180409",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=13",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=13",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3101,7 +3101,7 @@
     "stop_lat": "41.6913849612565",
     "stop_lon": "-4.71043230186201",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=14",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=14",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3114,7 +3114,7 @@
     "stop_lat": "41.6498010423866",
     "stop_lon": "-4.73527099838683",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=15",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=15",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3127,7 +3127,7 @@
     "stop_lat": "41.6516720414533",
     "stop_lon": "-4.74118199906222",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=16",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=16",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3140,7 +3140,7 @@
     "stop_lat": "41.6496470438782",
     "stop_lon": "-4.73532000178281",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=17",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=17",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3153,7 +3153,7 @@
     "stop_lat": "41.6511520410935",
     "stop_lon": "-4.74015199598649",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=18",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=18",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3166,7 +3166,7 @@
     "stop_lat": "41.6448670371903",
     "stop_lon": "-4.69356500503573",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=19",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=19",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3179,7 +3179,7 @@
     "stop_lat": "41.6447872451248",
     "stop_lon": "-4.69355031090117",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=20",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=20",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3192,7 +3192,7 @@
     "stop_lat": "41.6436830369398",
     "stop_lon": "-4.69417900331991",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=21",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=21",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3205,7 +3205,7 @@
     "stop_lat": "41.6576410392042",
     "stop_lon": "-4.73734500056184",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=22",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=22",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3218,7 +3218,7 @@
     "stop_lat": "41.6577570397738",
     "stop_lon": "-4.73970099626708",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=23",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=23",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3231,7 +3231,7 @@
     "stop_lat": "41.6503856309076",
     "stop_lon": "-4.74719562658214",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=24",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=24",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3244,7 +3244,7 @@
     "stop_lat": "41.6500698930272",
     "stop_lon": "-4.74662961255476",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=25",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=25",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3257,7 +3257,7 @@
     "stop_lat": "41.6117971105771",
     "stop_lon": "-4.75456116362426",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=26",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=26",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3270,7 +3270,7 @@
     "stop_lat": "41.6127559343002",
     "stop_lon": "-4.75368199044433",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=27",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=27",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3283,7 +3283,7 @@
     "stop_lat": "41.6687139495051",
     "stop_lon": "-4.73265904357861",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=28",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=28",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3296,7 +3296,7 @@
     "stop_lat": "41.6708965300963",
     "stop_lon": "-4.73216707934979",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=29",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=29",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3309,7 +3309,7 @@
     "stop_lat": "41.668817046142",
     "stop_lon": "-4.73235444724402",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=30",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=30",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3322,7 +3322,7 @@
     "stop_lat": "41.6666970433065",
     "stop_lon": "-4.73516699820917",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=31",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=31",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3335,7 +3335,7 @@
     "stop_lat": "41.6670739804436",
     "stop_lon": "-4.73494066761589",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=32",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=32",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3348,7 +3348,7 @@
     "stop_lat": "41.6159270414365",
     "stop_lon": "-4.7369629948126",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=33",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=33",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3361,7 +3361,7 @@
     "stop_lat": "41.6640657324065",
     "stop_lon": "-4.73112021139116",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=34",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=34",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3374,7 +3374,7 @@
     "stop_lat": "41.6613946436022",
     "stop_lon": "-4.73295541122038",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=35",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=35",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3387,7 +3387,7 @@
     "stop_lat": "41.6667736482425",
     "stop_lon": "-4.72921673392544",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=36",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=36",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3400,7 +3400,7 @@
     "stop_lat": "41.6619924729874",
     "stop_lon": "-4.73281214257989",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=37",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=37",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3413,7 +3413,7 @@
     "stop_lat": "41.6641626850726",
     "stop_lon": "-4.73078955873247",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=38",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=38",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3426,7 +3426,7 @@
     "stop_lat": "41.6695588590416",
     "stop_lon": "-4.72706058331878",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=39",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=39",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3439,7 +3439,7 @@
     "stop_lat": "41.6672294728824",
     "stop_lon": "-4.72836188816552",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=40",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=40",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3452,7 +3452,7 @@
     "stop_lat": "41.6690517481797",
     "stop_lon": "-4.72700270184192",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=41",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=41",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3465,7 +3465,7 @@
     "stop_lat": "41.610268040391",
     "stop_lon": "-4.75797400311555",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=42",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=42",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3478,7 +3478,7 @@
     "stop_lat": "41.6062800500537",
     "stop_lon": "-4.76095750141958",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=43",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=43",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3491,7 +3491,7 @@
     "stop_lat": "41.6101898435203",
     "stop_lon": "-4.75847986494513",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=44",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=44",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3504,7 +3504,7 @@
     "stop_lat": "41.6062954261608",
     "stop_lon": "-4.76079977467061",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=45",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=45",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3517,7 +3517,7 @@
     "stop_lat": "41.5965897550265",
     "stop_lon": "-4.76654871858341",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=46",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=46",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3530,7 +3530,7 @@
     "stop_lat": "41.6088512581672",
     "stop_lon": "-4.68437314398953",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=47",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=47",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3543,7 +3543,7 @@
     "stop_lat": "41.611042773221",
     "stop_lon": "-4.68404804514299",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=48",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=48",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3556,7 +3556,7 @@
     "stop_lat": "41.6533270395783",
     "stop_lon": "-4.73208799966472",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=49",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=49",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3569,7 +3569,7 @@
     "stop_lat": "41.6545830414661",
     "stop_lon": "-4.73180799877533",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=50",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=50",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3582,7 +3582,7 @@
     "stop_lat": "41.6580170385054",
     "stop_lon": "-4.73131999741435",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=51",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=51",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3595,7 +3595,7 @@
     "stop_lat": "41.6562232285455",
     "stop_lon": "-4.71109018582816",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=52",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=52",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3608,7 +3608,7 @@
     "stop_lat": "41.6537990418717",
     "stop_lon": "-4.71141600466154",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=53",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=53",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3621,7 +3621,7 @@
     "stop_lat": "41.6562071630976",
     "stop_lon": "-4.71096490590349",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=54",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=54",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3634,7 +3634,7 @@
     "stop_lat": "41.6535095659119",
     "stop_lon": "-4.71128981341189",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=55",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=55",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3647,7 +3647,7 @@
     "stop_lat": "41.6593236859135",
     "stop_lon": "-4.71979793012656",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=56",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=56",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3660,7 +3660,7 @@
     "stop_lat": "41.6550976780532",
     "stop_lon": "-4.7461165291767",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=59",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=59",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3673,7 +3673,7 @@
     "stop_lat": "41.6552562346309",
     "stop_lon": "-4.74608528214783",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=60",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=60",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3686,7 +3686,7 @@
     "stop_lat": "41.6455079438975",
     "stop_lon": "-4.71118544705553",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=61",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=61",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3699,7 +3699,7 @@
     "stop_lat": "41.6454767636028",
     "stop_lon": "-4.71083899084094",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=62",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=62",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3712,7 +3712,7 @@
     "stop_lat": "41.6442763283651",
     "stop_lon": "-4.71366809666506",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=63",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=63",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3725,7 +3725,7 @@
     "stop_lat": "41.649109038027",
     "stop_lon": "-4.70794999877231",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=64",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=64",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3738,7 +3738,7 @@
     "stop_lat": "41.6483320002558",
     "stop_lon": "-4.70885788625832",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=65",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=65",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3751,7 +3751,7 @@
     "stop_lat": "41.6441785383416",
     "stop_lon": "-4.71351700553956",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=66",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=66",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3764,7 +3764,7 @@
     "stop_lat": "41.6614535658024",
     "stop_lon": "-4.72230449802437",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=67",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=67",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3777,7 +3777,7 @@
     "stop_lat": "41.6172152560826",
     "stop_lon": "-4.71308090046366",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=68",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=68",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3790,7 +3790,7 @@
     "stop_lat": "41.6210084817098",
     "stop_lon": "-4.70480501606247",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=69",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=69",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3803,7 +3803,7 @@
     "stop_lat": "41.6191723206745",
     "stop_lon": "-4.7086183526631",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=70",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=70",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3816,7 +3816,7 @@
     "stop_lat": "41.6173076499069",
     "stop_lon": "-4.71319552137144",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=71",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=71",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3829,7 +3829,7 @@
     "stop_lat": "41.6209871052193",
     "stop_lon": "-4.70458229556646",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=72",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=72",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3842,7 +3842,7 @@
     "stop_lat": "41.6192028140726",
     "stop_lon": "-4.70881080567548",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=73",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=73",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3855,7 +3855,7 @@
     "stop_lat": "41.6411030404971",
     "stop_lon": "-4.73112599963664",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=74",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=74",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3868,7 +3868,7 @@
     "stop_lat": "41.6411560413068",
     "stop_lon": "-4.73213400065716",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=75",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=75",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3881,7 +3881,7 @@
     "stop_lat": "41.6410591622916",
     "stop_lon": "-4.73483746693653",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=76",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=76",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3894,7 +3894,7 @@
     "stop_lat": "41.6586762545348",
     "stop_lon": "-4.74739918844576",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=77",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=77",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3907,7 +3907,7 @@
     "stop_lat": "41.6571080437914",
     "stop_lon": "-4.7195009953717",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=78",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=78",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3920,7 +3920,7 @@
     "stop_lat": "41.631361396958",
     "stop_lon": "-4.74904791806528",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=79",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=79",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3933,7 +3933,7 @@
     "stop_lat": "41.6107855381775",
     "stop_lon": "-4.75317753769392",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=80",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=80",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3946,7 +3946,7 @@
     "stop_lat": "41.6106059133007",
     "stop_lon": "-4.75309448659517",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=81",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=81",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3959,7 +3959,7 @@
     "stop_lat": "41.6484937939893",
     "stop_lon": "-4.71934115960825",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=82",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=82",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3972,7 +3972,7 @@
     "stop_lat": "41.6493780384016",
     "stop_lon": "-4.72607299488518",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=83",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=83",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3985,7 +3985,7 @@
     "stop_lat": "41.6307269835347",
     "stop_lon": "-4.74714937562597",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=84",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=84",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -3998,7 +3998,7 @@
     "stop_lat": "41.6398187681353",
     "stop_lon": "-4.72182829718664",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=88",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=88",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4011,7 +4011,7 @@
     "stop_lat": "41.6310027740347",
     "stop_lon": "-4.72300277492277",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=91",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=91",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4024,7 +4024,7 @@
     "stop_lat": "41.660352460005",
     "stop_lon": "-4.74786066351928",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=92",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=92",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4037,7 +4037,7 @@
     "stop_lat": "41.6596080421326",
     "stop_lon": "-4.70637599908628",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=93",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=93",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4050,7 +4050,7 @@
     "stop_lat": "41.6594763408268",
     "stop_lon": "-4.71095404787574",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=94",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=94",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4063,7 +4063,7 @@
     "stop_lat": "41.6595620374974",
     "stop_lon": "-4.71073300523342",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=95",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=95",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4076,7 +4076,7 @@
     "stop_lat": "41.6399099101464",
     "stop_lon": "-4.72295612524702",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=96",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=96",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4089,7 +4089,7 @@
     "stop_lat": "41.6509010434713",
     "stop_lon": "-4.72293699804752",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=97",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=97",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4102,7 +4102,7 @@
     "stop_lat": "41.661327361654",
     "stop_lon": "-4.73371732687712",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=98",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=98",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4115,7 +4115,7 @@
     "stop_lat": "41.6643972621399",
     "stop_lon": "-4.73450031248482",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=99",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=99",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4128,7 +4128,7 @@
     "stop_lat": "41.6460609807688",
     "stop_lon": "-4.72616898965712",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=100",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=100",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4141,7 +4141,7 @@
     "stop_lat": "41.6610825357725",
     "stop_lon": "-4.74433403528107",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=101",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=101",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4154,7 +4154,7 @@
     "stop_lat": "41.6607590370973",
     "stop_lon": "-4.75163300277619",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=102",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=102",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4167,7 +4167,7 @@
     "stop_lat": "41.659866125",
     "stop_lon": "-4.756918403101",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=104",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=104",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4180,7 +4180,7 @@
     "stop_lat": "41.6606050403833",
     "stop_lon": "-4.75112599886763",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=105",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=105",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4193,7 +4193,7 @@
     "stop_lat": "41.6608640683694",
     "stop_lon": "-4.74465403111421",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=106",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=106",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4206,7 +4206,7 @@
     "stop_lat": "41.6612524294401",
     "stop_lon": "-4.73994034075751",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=107",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=107",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4219,7 +4219,7 @@
     "stop_lat": "41.6610598110147",
     "stop_lon": "-4.74081332169806",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=108",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=108",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4232,7 +4232,7 @@
     "stop_lat": "41.6605910406246",
     "stop_lon": "-4.73496500275955",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=109",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=109",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4245,7 +4245,7 @@
     "stop_lat": "41.6578070436916",
     "stop_lon": "-4.7210630045768",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=110",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=110",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4258,7 +4258,7 @@
     "stop_lat": "41.6372158122677",
     "stop_lon": "-4.76005119792648",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=111",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=111",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4271,7 +4271,7 @@
     "stop_lat": "41.6368246607224",
     "stop_lon": "-4.76051377222711",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=112",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=112",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4284,7 +4284,7 @@
     "stop_lat": "41.6513646984341",
     "stop_lon": "-4.70434235456534",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=113",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=113",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4297,7 +4297,7 @@
     "stop_lat": "41.648057914477",
     "stop_lon": "-4.72052141254072",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=114",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=114",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4310,7 +4310,7 @@
     "stop_lat": "41.6454713607064",
     "stop_lon": "-4.72250372180281",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=115",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=115",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4323,7 +4323,7 @@
     "stop_lat": "41.6453730450718",
     "stop_lon": "-4.72062899764126",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=116",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=116",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4336,7 +4336,7 @@
     "stop_lat": "41.6378181073737",
     "stop_lon": "-4.73001918004244",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=118",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=118",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4349,7 +4349,7 @@
     "stop_lat": "41.6102179562615",
     "stop_lon": "-4.68229356601798",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=119",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=119",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4362,7 +4362,7 @@
     "stop_lat": "41.6535601831311",
     "stop_lon": "-4.72442701838852",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=120",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=120",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4375,7 +4375,7 @@
     "stop_lat": "41.6507902960155",
     "stop_lon": "-4.72339893524874",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=121",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=121",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4388,7 +4388,7 @@
     "stop_lat": "41.613874199514",
     "stop_lon": "-4.75312396817091",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=122",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=122",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4401,7 +4401,7 @@
     "stop_lat": "41.6142226461006",
     "stop_lon": "-4.75368427463568",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=123",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=123",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4414,7 +4414,7 @@
     "stop_lat": "41.6587180450928",
     "stop_lon": "-4.71604000022104",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=124",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=124",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4427,7 +4427,7 @@
     "stop_lat": "41.6591897255138",
     "stop_lon": "-4.71470749304555",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=125",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=125",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4440,7 +4440,7 @@
     "stop_lat": "41.6594710405611",
     "stop_lon": "-4.71430600479746",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=126",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=126",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4453,7 +4453,7 @@
     "stop_lat": "41.6043722866139",
     "stop_lon": "-4.72497115673439",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=127",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=127",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4466,7 +4466,7 @@
     "stop_lat": "41.6335057740174",
     "stop_lon": "-4.74744228839518",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=128",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=128",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4479,7 +4479,7 @@
     "stop_lat": "41.6334824868667",
     "stop_lon": "-4.74590187710177",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=129",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=129",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4492,7 +4492,7 @@
     "stop_lat": "41.6332270445472",
     "stop_lon": "-4.74483600597866",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=130",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=130",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4505,7 +4505,7 @@
     "stop_lat": "41.6336677980997",
     "stop_lon": "-4.74758675317563",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=131",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=131",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4518,7 +4518,7 @@
     "stop_lat": "41.6188390437191",
     "stop_lon": "-4.73538099896079",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=132",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=132",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4531,7 +4531,7 @@
     "stop_lat": "41.6164796596336",
     "stop_lon": "-4.73666635712314",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=133",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=133",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4544,7 +4544,7 @@
     "stop_lat": "41.6187523760059",
     "stop_lon": "-4.73568252459711",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=134",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=134",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4557,7 +4557,7 @@
     "stop_lat": "41.6204510411647",
     "stop_lon": "-4.73455399874407",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=135",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=135",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4570,7 +4570,7 @@
     "stop_lat": "41.6246200372996",
     "stop_lon": "-4.73174899854382",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=136",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=136",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4583,7 +4583,7 @@
     "stop_lat": "41.6225430366382",
     "stop_lon": "-4.73347400459987",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=137",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=137",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4596,7 +4596,7 @@
     "stop_lat": "41.6354016807519",
     "stop_lon": "-4.75476236815371",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=138",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=138",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4609,7 +4609,7 @@
     "stop_lat": "41.6535031526874",
     "stop_lon": "-4.74427096024068",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=140",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=140",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4622,7 +4622,7 @@
     "stop_lat": "41.6593980380105",
     "stop_lon": "-4.74069999907677",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=141",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=141",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4635,7 +4635,7 @@
     "stop_lat": "41.6534774405601",
     "stop_lon": "-4.74458484372339",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=142",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=142",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4648,7 +4648,7 @@
     "stop_lat": "41.6609933671542",
     "stop_lon": "-4.72214957517823",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=143",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=143",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4661,7 +4661,7 @@
     "stop_lat": "41.6624603870818",
     "stop_lon": "-4.72049549591626",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=144",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=144",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4674,7 +4674,7 @@
     "stop_lat": "41.659528957857",
     "stop_lon": "-4.74264615216744",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=145",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=145",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4687,7 +4687,7 @@
     "stop_lat": "41.6568260437464",
     "stop_lon": "-4.74244599636636",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=146",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=146",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4700,7 +4700,7 @@
     "stop_lat": "41.6533800423541",
     "stop_lon": "-4.73661799849766",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=147",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=147",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4713,7 +4713,7 @@
     "stop_lat": "41.6535420387106",
     "stop_lon": "-4.73660300429376",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=148",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=148",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4726,7 +4726,7 @@
     "stop_lat": "41.644685706236",
     "stop_lon": "-4.76014991894024",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=149",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=149",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4739,7 +4739,7 @@
     "stop_lat": "41.6298741942053",
     "stop_lon": "-4.74034344509989",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=151",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=151",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4752,7 +4752,7 @@
     "stop_lat": "41.6913679146325",
     "stop_lon": "-4.71279619246588",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=155",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=155",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4765,7 +4765,7 @@
     "stop_lat": "41.6914425509529",
     "stop_lon": "-4.71279791908859",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=156",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=156",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4778,7 +4778,7 @@
     "stop_lat": "41.6785226772608",
     "stop_lon": "-4.72132514632503",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=157",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=157",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4791,7 +4791,7 @@
     "stop_lat": "41.681546753658",
     "stop_lon": "-4.71994965347025",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=158",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=158",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4804,7 +4804,7 @@
     "stop_lat": "41.6786270109264",
     "stop_lon": "-4.72121567833672",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=159",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=159",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4817,7 +4817,7 @@
     "stop_lat": "41.6815285938305",
     "stop_lon": "-4.71981952496924",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=160",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=160",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4830,7 +4830,7 @@
     "stop_lat": "41.6591675076034",
     "stop_lon": "-4.71921984352977",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=161",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=161",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4843,7 +4843,7 @@
     "stop_lat": "41.6615232597307",
     "stop_lon": "-4.71669191768386",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=162",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=162",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4856,7 +4856,7 @@
     "stop_lat": "41.6614864873156",
     "stop_lon": "-4.71635448754388",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=163",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=163",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4869,7 +4869,7 @@
     "stop_lat": "41.6484885231781",
     "stop_lon": "-4.72431787648154",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=164",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=164",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4882,7 +4882,7 @@
     "stop_lat": "41.6497303429957",
     "stop_lon": "-4.72064349953979",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=165",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=165",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4895,7 +4895,7 @@
     "stop_lat": "41.5880855319311",
     "stop_lon": "-4.75578903548058",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=166",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=166",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4908,7 +4908,7 @@
     "stop_lat": "41.6235491811275",
     "stop_lon": "-4.70612751021349",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=167",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=167",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4921,7 +4921,7 @@
     "stop_lat": "41.6232168482316",
     "stop_lon": "-4.70605818395692",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=168",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=168",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4934,7 +4934,7 @@
     "stop_lat": "41.6405548420937",
     "stop_lon": "-4.70572643640611",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=169",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=169",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4947,7 +4947,7 @@
     "stop_lat": "41.6375012342085",
     "stop_lon": "-4.70420099309334",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=170",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=170",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4960,7 +4960,7 @@
     "stop_lat": "41.6360838675295",
     "stop_lon": "-4.7039250818172",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=171",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=171",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4973,7 +4973,7 @@
     "stop_lat": "41.63446534433",
     "stop_lon": "-4.70578698693628",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=172",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=172",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4986,7 +4986,7 @@
     "stop_lat": "41.6407599725595",
     "stop_lon": "-4.70561433133765",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=173",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=173",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4999,7 +4999,7 @@
     "stop_lat": "41.638031105869",
     "stop_lon": "-4.70416458782213",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=174",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=174",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5012,7 +5012,7 @@
     "stop_lat": "41.6361609080008",
     "stop_lon": "-4.70377335496196",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=175",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=175",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5025,7 +5025,7 @@
     "stop_lat": "41.6541480430368",
     "stop_lon": "-4.73824200167301",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=176",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=176",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5038,7 +5038,7 @@
     "stop_lat": "41.6568000424334",
     "stop_lon": "-4.73721000504446",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=177",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=177",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5051,7 +5051,7 @@
     "stop_lat": "41.65425203921",
     "stop_lon": "-4.73843400470349",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=178",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=178",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5064,7 +5064,7 @@
     "stop_lat": "41.6592810444241",
     "stop_lon": "-4.73654900066398",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=179",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=179",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5077,7 +5077,7 @@
     "stop_lat": "41.6572766979054",
     "stop_lon": "-4.71380034864659",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=180",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=180",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5090,7 +5090,7 @@
     "stop_lat": "41.6551598479276",
     "stop_lon": "-4.71541472289898",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=181",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=181",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5103,7 +5103,7 @@
     "stop_lat": "41.643500731569",
     "stop_lon": "-4.7138574269352",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=182",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=182",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5116,7 +5116,7 @@
     "stop_lat": "41.6445771135263",
     "stop_lon": "-4.71442758451023",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=183",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=183",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5129,7 +5129,7 @@
     "stop_lat": "41.6517450402737",
     "stop_lon": "-4.70494299557316",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=184",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=184",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5142,7 +5142,7 @@
     "stop_lat": "41.6379620332542",
     "stop_lon": "-4.74022327105473",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=185",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=185",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5155,7 +5155,7 @@
     "stop_lat": "41.6376910142079",
     "stop_lon": "-4.74034196211913",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=186",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=186",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5168,7 +5168,7 @@
     "stop_lat": "41.660415500507",
     "stop_lon": "-4.73498650892178",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=187",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=187",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5181,7 +5181,7 @@
     "stop_lat": "41.6460331821677",
     "stop_lon": "-4.72291371456922",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=188",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=188",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5194,7 +5194,7 @@
     "stop_lat": "41.646771378011",
     "stop_lon": "-4.71714061880288",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=189",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=189",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5207,7 +5207,7 @@
     "stop_lat": "41.6473440386642",
     "stop_lon": "-4.71641899559366",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=190",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=190",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5220,7 +5220,7 @@
     "stop_lat": "41.6481013731797",
     "stop_lon": "-4.71999806858758",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=191",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=191",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5233,7 +5233,7 @@
     "stop_lat": "41.6522325008138",
     "stop_lon": "-4.72638534488399",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=192",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=192",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5246,7 +5246,7 @@
     "stop_lat": "41.6488128014137",
     "stop_lon": "-4.72533718019358",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=193",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=193",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5259,7 +5259,7 @@
     "stop_lat": "41.6487147575976",
     "stop_lon": "-4.72486888224501",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=194",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=194",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5272,7 +5272,7 @@
     "stop_lat": "41.6486789883344",
     "stop_lon": "-4.72522043393598",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=195",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=195",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5285,7 +5285,7 @@
     "stop_lat": "41.6676742321334",
     "stop_lon": "-4.70687015279278",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=196",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=196",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5298,7 +5298,7 @@
     "stop_lat": "41.6594593596245",
     "stop_lon": "-4.71553223619398",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=197",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=197",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5311,7 +5311,7 @@
     "stop_lat": "41.6481450383894",
     "stop_lon": "-4.72548199479114",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=198",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=198",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5324,7 +5324,7 @@
     "stop_lat": "41.6120791710353",
     "stop_lon": "-4.68617923875876",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=199",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=199",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5337,7 +5337,7 @@
     "stop_lat": "41.6119516782602",
     "stop_lon": "-4.6862865564907",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=200",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=200",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5350,7 +5350,7 @@
     "stop_lat": "41.6330608496236",
     "stop_lon": "-4.74149548091292",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=201",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=201",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5363,7 +5363,7 @@
     "stop_lat": "41.6510084550989",
     "stop_lon": "-4.71758075688961",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=202",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=202",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5376,7 +5376,7 @@
     "stop_lat": "41.6591961071657",
     "stop_lon": "-4.73097851207683",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=203",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=203",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5389,7 +5389,7 @@
     "stop_lat": "41.6510618853431",
     "stop_lon": "-4.71983738540447",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=204",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=204",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5402,7 +5402,7 @@
     "stop_lat": "41.6908899942156",
     "stop_lon": "-4.70721104223944",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=205",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=205",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5415,7 +5415,7 @@
     "stop_lat": "41.6525703452312",
     "stop_lon": "-4.72231325853407",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=206",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=206",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5428,7 +5428,7 @@
     "stop_lat": "41.6309065546033",
     "stop_lon": "-4.75090151426134",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=207",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=207",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5441,7 +5441,7 @@
     "stop_lat": "41.6513508600845",
     "stop_lon": "-4.71313566270726",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=208",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=208",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5454,7 +5454,7 @@
     "stop_lat": "41.64824055485",
     "stop_lon": "-4.72982326711957",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=210",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=210",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5467,7 +5467,7 @@
     "stop_lat": "41.6555610384608",
     "stop_lon": "-4.71988199578255",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=211",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=211",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5480,7 +5480,7 @@
     "stop_lat": "41.6517326178688",
     "stop_lon": "-4.74403576551751",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=212",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=212",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5493,7 +5493,7 @@
     "stop_lat": "41.6519980414315",
     "stop_lon": "-4.74360299936662",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=213",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=213",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5506,7 +5506,7 @@
     "stop_lat": "41.5578441431356",
     "stop_lon": "-4.78902332227418",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=214",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=214",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5519,7 +5519,7 @@
     "stop_lat": "41.5543165277099",
     "stop_lon": "-4.79123081546649",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=215",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=215",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5532,7 +5532,7 @@
     "stop_lat": "41.5578652743533",
     "stop_lon": "-4.78934639264206",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=216",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=216",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5545,7 +5545,7 @@
     "stop_lat": "41.5543693476786",
     "stop_lon": "-4.79052832277031",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=217",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=217",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5558,7 +5558,7 @@
     "stop_lat": "41.6573361239158",
     "stop_lon": "-4.71814910662773",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=218",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=218",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5571,7 +5571,7 @@
     "stop_lat": "41.6496248440244",
     "stop_lon": "-4.72036572568695",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=219",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=219",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5584,7 +5584,7 @@
     "stop_lat": "41.6431807810087",
     "stop_lon": "-4.7272540156632",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=220",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=220",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5597,7 +5597,7 @@
     "stop_lat": "41.6521500289623",
     "stop_lon": "-4.71423130585747",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=221",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=221",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5610,7 +5610,7 @@
     "stop_lat": "41.6517370370697",
     "stop_lon": "-4.74041900494136",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=222",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=222",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5623,7 +5623,7 @@
     "stop_lat": "41.5923528472463",
     "stop_lon": "-4.75838657111349",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=223",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=223",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5636,7 +5636,7 @@
     "stop_lat": "41.58182781574",
     "stop_lon": "-4.76275645638944",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=224",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=224",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5649,7 +5649,7 @@
     "stop_lat": "41.596736940036",
     "stop_lon": "-4.75699546106364",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=225",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=225",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5662,7 +5662,7 @@
     "stop_lat": "41.605875695396",
     "stop_lon": "-4.75365668782162",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=226",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=226",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5675,7 +5675,7 @@
     "stop_lat": "41.6164410874578",
     "stop_lon": "-4.7459789187202",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=227",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=227",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5688,7 +5688,7 @@
     "stop_lat": "41.6036154551042",
     "stop_lon": "-4.75459783356131",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=228",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=228",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5701,7 +5701,7 @@
     "stop_lat": "41.6244883020691",
     "stop_lon": "-4.74181738857784",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=229",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=229",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5714,7 +5714,7 @@
     "stop_lat": "41.6131000387609",
     "stop_lon": "-4.74962299513943",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=230",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=230",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5727,7 +5727,7 @@
     "stop_lat": "41.5923359449316",
     "stop_lon": "-4.75869840182278",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=231",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=231",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5740,7 +5740,7 @@
     "stop_lat": "41.5816865253932",
     "stop_lon": "-4.76261671239662",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=232",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=232",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5753,7 +5753,7 @@
     "stop_lat": "41.6102919328891",
     "stop_lon": "-4.75142876789977",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=233",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=233",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5766,7 +5766,7 @@
     "stop_lat": "41.5967150696851",
     "stop_lon": "-4.75723555000544",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=234",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=234",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5779,7 +5779,7 @@
     "stop_lat": "41.6060523462336",
     "stop_lon": "-4.75378477545452",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=235",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=235",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5792,7 +5792,7 @@
     "stop_lat": "41.6165952475118",
     "stop_lon": "-4.74627648905847",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=236",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=236",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5805,7 +5805,7 @@
     "stop_lat": "41.6032913714233",
     "stop_lon": "-4.75498214271874",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=237",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=237",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5818,7 +5818,7 @@
     "stop_lat": "41.5882712832676",
     "stop_lon": "-4.75870415578599",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=238",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=238",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5831,7 +5831,7 @@
     "stop_lat": "41.6282657006791",
     "stop_lon": "-4.74171373244307",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=239",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=239",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5844,7 +5844,7 @@
     "stop_lat": "41.6273140717482",
     "stop_lon": "-4.74199522987155",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=240",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=240",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5857,7 +5857,7 @@
     "stop_lat": "41.6249698713656",
     "stop_lon": "-4.74170108825808",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=241",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=241",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5870,7 +5870,7 @@
     "stop_lat": "41.6229375977663",
     "stop_lon": "-4.74160421893699",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=242",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=242",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5883,7 +5883,7 @@
     "stop_lat": "41.6190294349955",
     "stop_lon": "-4.74372444226855",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=243",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=243",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5896,7 +5896,7 @@
     "stop_lat": "41.6512438274355",
     "stop_lon": "-4.71320007457601",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=244",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=244",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5909,7 +5909,7 @@
     "stop_lat": "41.6428940399265",
     "stop_lon": "-4.74329200247106",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=245",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=245",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5922,7 +5922,7 @@
     "stop_lat": "41.6461023165169",
     "stop_lon": "-4.72020301250979",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=246",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=246",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5935,7 +5935,7 @@
     "stop_lat": "41.6123210416375",
     "stop_lon": "-4.6880429975807",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=247",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=247",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5948,7 +5948,7 @@
     "stop_lat": "41.6518770381963",
     "stop_lon": "-4.71401699534218",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=248",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=248",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5961,7 +5961,7 @@
     "stop_lat": "41.6643060385063",
     "stop_lon": "-4.71324499906135",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=249",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=249",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5974,7 +5974,7 @@
     "stop_lat": "41.6641820441446",
     "stop_lon": "-4.71302200336391",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=250",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=250",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -5987,7 +5987,7 @@
     "stop_lat": "41.6685000416209",
     "stop_lon": "-4.70807499935811",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=251",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=251",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6000,7 +6000,7 @@
     "stop_lat": "41.6660875682307",
     "stop_lon": "-4.71110840440754",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=252",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=252",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6013,7 +6013,7 @@
     "stop_lat": "41.6666647249963",
     "stop_lon": "-4.71009226435519",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=253",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=253",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6026,7 +6026,7 @@
     "stop_lat": "41.6501160371502",
     "stop_lon": "-4.72351400324376",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=254",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=254",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6039,7 +6039,7 @@
     "stop_lat": "41.6315058110741",
     "stop_lon": "-4.72549665290546",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=255",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=255",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6052,7 +6052,7 @@
     "stop_lat": "41.637717360319",
     "stop_lon": "-4.72192238439518",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=256",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=256",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6065,7 +6065,7 @@
     "stop_lat": "41.626324092917",
     "stop_lon": "-4.71814513215201",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=257",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=257",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6078,7 +6078,7 @@
     "stop_lat": "41.6412049762127",
     "stop_lon": "-4.72070068488161",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=258",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=258",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6091,7 +6091,7 @@
     "stop_lat": "41.6376558598928",
     "stop_lon": "-4.72165988849013",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=259",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=259",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6104,7 +6104,7 @@
     "stop_lat": "41.6417580450052",
     "stop_lon": "-4.72075400508395",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=260",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=260",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6117,7 +6117,7 @@
     "stop_lat": "41.6268904114045",
     "stop_lon": "-4.71774386046916",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=261",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=261",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6130,7 +6130,7 @@
     "stop_lat": "41.6327707221137",
     "stop_lon": "-4.72073211108914",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=262",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=262",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6143,7 +6143,7 @@
     "stop_lat": "41.6409939668529",
     "stop_lon": "-4.72033521479802",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=263",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=263",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6156,7 +6156,7 @@
     "stop_lat": "41.6330380541628",
     "stop_lon": "-4.72103980542277",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=264",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=264",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6169,7 +6169,7 @@
     "stop_lat": "41.6394970449884",
     "stop_lon": "-4.72076599934209",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=265",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=265",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6182,7 +6182,7 @@
     "stop_lat": "41.5884539515539",
     "stop_lon": "-4.81528698534835",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=266",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=266",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6195,7 +6195,7 @@
     "stop_lat": "41.610179084531",
     "stop_lon": "-4.77892907873597",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=267",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=267",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6208,7 +6208,7 @@
     "stop_lat": "41.5926833434216",
     "stop_lon": "-4.80708618595723",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=268",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=268",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6221,7 +6221,7 @@
     "stop_lat": "41.5962752467008",
     "stop_lon": "-4.80314193343029",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=269",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=269",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6234,7 +6234,7 @@
     "stop_lat": "41.6022865328748",
     "stop_lon": "-4.79508375173611",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=270",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=270",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6247,7 +6247,7 @@
     "stop_lat": "41.6001510386619",
     "stop_lon": "-4.79828982064393",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=271",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=271",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6260,7 +6260,7 @@
     "stop_lat": "41.6052555663005",
     "stop_lon": "-4.78937840169422",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=272",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=272",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6273,7 +6273,7 @@
     "stop_lat": "41.6241974134278",
     "stop_lon": "-4.75159179581697",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=273",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=273",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6286,7 +6286,7 @@
     "stop_lat": "41.6218589410016",
     "stop_lon": "-4.75505896859996",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=274",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=274",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6299,7 +6299,7 @@
     "stop_lat": "41.5886405189066",
     "stop_lon": "-4.81513687527414",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=275",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=275",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6312,7 +6312,7 @@
     "stop_lat": "41.6098280412557",
     "stop_lon": "-4.77995400004818",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=276",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=276",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6325,7 +6325,7 @@
     "stop_lat": "41.5928089932893",
     "stop_lon": "-4.80721715459685",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=277",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=277",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6338,7 +6338,7 @@
     "stop_lat": "41.5963779156098",
     "stop_lon": "-4.80348305839563",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=278",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=278",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6351,7 +6351,7 @@
     "stop_lat": "41.6022959428178",
     "stop_lon": "-4.79547123305085",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=279",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=279",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6364,7 +6364,7 @@
     "stop_lat": "41.6002380074768",
     "stop_lon": "-4.79783031501623",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=280",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=280",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6377,7 +6377,7 @@
     "stop_lat": "41.6052701187471",
     "stop_lon": "-4.78900259349044",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=281",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=281",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6390,7 +6390,7 @@
     "stop_lat": "41.6241670368917",
     "stop_lon": "-4.75130600185646",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=282",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=282",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6403,7 +6403,7 @@
     "stop_lat": "41.6219448797451",
     "stop_lon": "-4.7553535322391",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=283",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=283",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6416,7 +6416,7 @@
     "stop_lat": "41.6036393017146",
     "stop_lon": "-4.79233511511213",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=284",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=284",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6429,7 +6429,7 @@
     "stop_lat": "41.6256900438205",
     "stop_lon": "-4.74854899588806",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=285",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=285",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6442,7 +6442,7 @@
     "stop_lat": "41.6196290543543",
     "stop_lon": "-4.75901289324259",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=286",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=286",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6455,7 +6455,7 @@
     "stop_lat": "41.6076044195379",
     "stop_lon": "-4.78460787933217",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=287",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=287",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6468,7 +6468,7 @@
     "stop_lat": "41.603597552919",
     "stop_lon": "-4.79278035351791",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=288",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=288",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6481,7 +6481,7 @@
     "stop_lat": "41.6283742016624",
     "stop_lon": "-4.74396880227592",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=289",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=289",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6494,7 +6494,7 @@
     "stop_lat": "41.6253996406184",
     "stop_lon": "-4.74937893180748",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=290",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=290",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6507,7 +6507,7 @@
     "stop_lat": "41.6197965932107",
     "stop_lon": "-4.75844749943468",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=291",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=291",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6520,7 +6520,7 @@
     "stop_lat": "41.607240458702",
     "stop_lon": "-4.78497070438008",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=292",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=292",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6533,7 +6533,7 @@
     "stop_lat": "41.5877906945616",
     "stop_lon": "-4.82252655911185",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=293",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=293",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6546,7 +6546,7 @@
     "stop_lat": "41.6180575679229",
     "stop_lon": "-4.72825957572903",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=294",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=294",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6559,7 +6559,7 @@
     "stop_lat": "41.6269940387539",
     "stop_lon": "-4.69966199965909",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=300",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=300",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6572,7 +6572,7 @@
     "stop_lat": "41.6415828298376",
     "stop_lon": "-4.71207663425373",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=301",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=301",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6585,7 +6585,7 @@
     "stop_lat": "41.635021092715",
     "stop_lon": "-4.70615302809513",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=302",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=302",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6598,7 +6598,7 @@
     "stop_lat": "41.6399888426822",
     "stop_lon": "-4.71012566458724",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=303",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=303",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6611,7 +6611,7 @@
     "stop_lat": "41.6265200418757",
     "stop_lon": "-4.70011300359478",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=304",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=304",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6624,7 +6624,7 @@
     "stop_lat": "41.6378895493744",
     "stop_lon": "-4.70900568025902",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=305",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=305",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6637,7 +6637,7 @@
     "stop_lat": "41.6341655351453",
     "stop_lon": "-4.70609607225918",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=306",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=306",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6650,7 +6650,7 @@
     "stop_lat": "41.6331292441997",
     "stop_lon": "-4.74722835108266",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=307",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=307",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6663,7 +6663,7 @@
     "stop_lat": "41.6613050406902",
     "stop_lon": "-4.71734199785267",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=308",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=308",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6676,7 +6676,7 @@
     "stop_lat": "41.6515410419961",
     "stop_lon": "-4.70721700476755",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=309",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=309",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6689,7 +6689,7 @@
     "stop_lat": "41.6515450420046",
     "stop_lon": "-4.70736000309138",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=310",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=310",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6702,7 +6702,7 @@
     "stop_lat": "41.6593712632369",
     "stop_lon": "-4.72672390870315",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=311",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=311",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6715,7 +6715,7 @@
     "stop_lat": "41.6349531087201",
     "stop_lon": "-4.75929049914141",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=312",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=312",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6728,7 +6728,7 @@
     "stop_lat": "41.6342880384514",
     "stop_lon": "-4.75835199517599",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=313",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=313",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6741,7 +6741,7 @@
     "stop_lat": "41.6338953731836",
     "stop_lon": "-4.75674133850118",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=314",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=314",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6754,7 +6754,7 @@
     "stop_lat": "41.6198143697654",
     "stop_lon": "-4.71445949331927",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=315",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=315",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6767,7 +6767,7 @@
     "stop_lat": "41.618745257048",
     "stop_lon": "-4.71422202863837",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=316",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=316",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6780,7 +6780,7 @@
     "stop_lat": "41.6142915057892",
     "stop_lon": "-4.71237221057685",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=317",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=317",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6793,7 +6793,7 @@
     "stop_lat": "41.658127041241",
     "stop_lon": "-4.72536700253382",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=318",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=318",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6806,7 +6806,7 @@
     "stop_lat": "41.6590840392792",
     "stop_lon": "-4.72511099855547",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=319",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=319",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6819,7 +6819,7 @@
     "stop_lat": "41.6602650765947",
     "stop_lon": "-4.72501513187982",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=320",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=320",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6832,7 +6832,7 @@
     "stop_lat": "41.6646040447631",
     "stop_lon": "-4.71964099599502",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=321",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=321",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6845,7 +6845,7 @@
     "stop_lat": "41.6607213761394",
     "stop_lon": "-4.72448917883694",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=322",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=322",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6858,7 +6858,7 @@
     "stop_lat": "41.6635380386864",
     "stop_lon": "-4.72125300502479",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=323",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=323",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6871,7 +6871,7 @@
     "stop_lat": "41.5499695803298",
     "stop_lon": "-4.79102010603561",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=324",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=324",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6884,7 +6884,7 @@
     "stop_lat": "41.6476730446261",
     "stop_lon": "-4.73917300592613",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=325",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=325",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6897,7 +6897,7 @@
     "stop_lat": "41.648067039338",
     "stop_lon": "-4.73874300312132",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=326",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=326",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6910,7 +6910,7 @@
     "stop_lat": "41.6455569854182",
     "stop_lon": "-4.74035992047796",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=327",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=327",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6923,7 +6923,7 @@
     "stop_lat": "41.652935494142",
     "stop_lon": "-4.73594258569996",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=328",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=328",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6936,7 +6936,7 @@
     "stop_lat": "41.6495673998964",
     "stop_lon": "-4.73811700772583",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=329",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=329",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6949,7 +6949,7 @@
     "stop_lat": "41.6509583631362",
     "stop_lon": "-4.73712883524144",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=330",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=330",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6962,7 +6962,7 @@
     "stop_lat": "41.6438138633927",
     "stop_lon": "-4.71749614794879",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=332",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=332",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6975,7 +6975,7 @@
     "stop_lat": "41.6431765073005",
     "stop_lon": "-4.71823537754961",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=333",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=333",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -6988,7 +6988,7 @@
     "stop_lat": "41.6636644670462",
     "stop_lon": "-4.73264487363698",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=334",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=334",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7001,7 +7001,7 @@
     "stop_lat": "41.6473910375475",
     "stop_lon": "-4.70179899747423",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=335",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=335",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7014,7 +7014,7 @@
     "stop_lat": "41.6480730442412",
     "stop_lon": "-4.70539700168663",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=337",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=337",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7027,7 +7027,7 @@
     "stop_lat": "41.6386198289753",
     "stop_lon": "-4.74973874517403",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=338",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=338",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7040,7 +7040,7 @@
     "stop_lat": "41.6393450668374",
     "stop_lon": "-4.74675268652964",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=339",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=339",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7053,7 +7053,7 @@
     "stop_lat": "41.6391468824269",
     "stop_lon": "-4.74682982317793",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=340",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=340",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7066,7 +7066,7 @@
     "stop_lat": "41.6384586231931",
     "stop_lon": "-4.74966386161637",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=341",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=341",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7079,7 +7079,7 @@
     "stop_lat": "41.6318778951281",
     "stop_lon": "-4.74073837417204",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=342",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=342",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7092,7 +7092,7 @@
     "stop_lat": "41.6401067999834",
     "stop_lon": "-4.73812782295378",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=343",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=343",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7105,7 +7105,7 @@
     "stop_lat": "41.6369980330782",
     "stop_lon": "-4.73893456305961",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=344",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=344",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7118,7 +7118,7 @@
     "stop_lat": "41.6239808687145",
     "stop_lon": "-4.74694164439743",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=345",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=345",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7131,7 +7131,7 @@
     "stop_lat": "41.6309300375381",
     "stop_lon": "-4.740703998618",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=346",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=346",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7144,7 +7144,7 @@
     "stop_lat": "41.6444810352843",
     "stop_lon": "-4.73420023719185",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=347",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=347",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7157,7 +7157,7 @@
     "stop_lat": "41.6370320436707",
     "stop_lon": "-4.7393199970302",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=348",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=348",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7170,7 +7170,7 @@
     "stop_lat": "41.6277797829535",
     "stop_lon": "-4.74327838843489",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=349",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=349",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7183,7 +7183,7 @@
     "stop_lat": "41.6352414154825",
     "stop_lon": "-4.72119882711657",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=3056",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=3056",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -7196,7 +7196,7 @@
     "stop_lat": "41.6344585929201",
     "stop_lon": "-4.72127124676",
     "zone_id": "",
-    "stop_url": "http://www.auvasa.es/parada.asp?codigo=3057",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=3057",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"

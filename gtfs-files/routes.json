@@ -6,7 +6,7 @@
     "route_long_name": "Barrio España - Covaresa",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=1",
     "route_color": "36AD30",
     "route_text_color": "FFFFFF"
   },
@@ -17,7 +17,7 @@
     "route_long_name": "San Pedro Regalado - Covaresa",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=2",
     "route_color": "F5C636",
     "route_text_color": "000000"
   },
@@ -28,7 +28,7 @@
     "route_long_name": "Las Flores - Giron (Cementerio Contiendas)",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=3",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=3",
     "route_color": "EE4BA4",
     "route_text_color": "000000"
   },
@@ -39,7 +39,7 @@
     "route_long_name": "Pinar de Jalón - Fuente Berrocal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=4",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=4",
     "route_color": "AA541A",
     "route_text_color": "FFFFFF"
   },
@@ -50,7 +50,7 @@
     "route_long_name": "La Victoria - Santa Ana (Entrepinos)",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=5",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=5",
     "route_color": "2FB7B7",
     "route_text_color": "FFFFFF"
   },
@@ -61,7 +61,7 @@
     "route_long_name": "Delicias - La Victoria",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=6",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=6",
     "route_color": "F59EC4",
     "route_text_color": "000000"
   },
@@ -72,7 +72,7 @@
     "route_long_name": "Arturo Eyries - Los Santos Pilarica",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=7",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=7",
     "route_color": "7A2B37",
     "route_text_color": "FFFFFF"
   },
@@ -83,7 +83,7 @@
     "route_long_name": "Parquesol - Belén",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=8",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=8",
     "route_color": "EA5D00",
     "route_text_color": "FFFFFF"
   },
@@ -94,7 +94,7 @@
     "route_long_name": "Parquesol - Delicias-Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=9",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=9",
     "route_color": "009EE6",
     "route_text_color": "FFFFFF"
   },
@@ -105,7 +105,7 @@
     "route_long_name": "Parquesol - Villa de Prado",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=10",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=10",
     "route_color": "A01A4A",
     "route_text_color": "FFFFFF"
   },
@@ -116,7 +116,7 @@
     "route_long_name": "Plaza de España - La Cistérniga/Poligono La Mora",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=13",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=13",
     "route_color": "0051A1",
     "route_text_color": "FFFFFF"
   },
@@ -127,7 +127,7 @@
     "route_long_name": "Plaza de España - Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=14",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=14",
     "route_color": "887CB9",
     "route_text_color": "000000"
   },
@@ -138,7 +138,7 @@
     "route_long_name": "Pinar de Jalón - Paseo Zorrilla 71",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=16",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=16",
     "route_color": "82D0F7",
     "route_text_color": "000000"
   },
@@ -149,7 +149,7 @@
     "route_long_name": "Rondilla - Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=17",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=17",
     "route_color": "C2D400",
     "route_text_color": "FFFFFF"
   },
@@ -160,7 +160,7 @@
     "route_long_name": "Puente Duero - San Isidro - La Cistérniga",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=18",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=18",
     "route_color": "BEBCBD",
     "route_text_color": "000000"
   },
@@ -171,7 +171,7 @@
     "route_long_name": "Puente Duero - Hospital Río Hortega - La Cistérniga",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=19",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=19",
     "route_color": "E59351",
     "route_text_color": "000000"
   },
@@ -182,7 +182,7 @@
     "route_long_name": "Circular 1: Parquesol -  La Victoria - Parquesol",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=C1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=C1",
     "route_color": "555553",
     "route_text_color": "FFFFFF"
   },
@@ -193,7 +193,7 @@
     "route_long_name": "Circular 2: Parquesol -  La Victoria - Parquesol",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=C2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=C2",
     "route_color": "6C6C69",
     "route_text_color": "FFFFFF"
   },
@@ -204,7 +204,7 @@
     "route_long_name": "Paseo Zorrilla 130 - Cañada Real 560",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=23",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=23",
     "route_color": "FCC600",
     "route_text_color": "FFFFFF"
   },
@@ -215,7 +215,7 @@
     "route_long_name": "La Overuela - Pza. Poniente",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=24",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=24",
     "route_color": "0F4895",
     "route_text_color": "FFFFFF"
   },
@@ -226,7 +226,7 @@
     "route_long_name": "Plaza España - San Juan de Dios",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=26",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=26",
     "route_color": "80D0F7",
     "route_text_color": "000000"
   },
@@ -237,7 +237,7 @@
     "route_long_name": "Paseo Zorrilla 71 - Hospital Río Hortega",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=H",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=H",
     "route_color": "E42333",
     "route_text_color": "000000"
   },
@@ -248,7 +248,7 @@
     "route_long_name": "San Pedro Regalado - Polígono Argales - Rubia",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=P1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=P1",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -259,7 +259,7 @@
     "route_long_name": "Barrio España - Polígono Argales - Covaresa",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=P2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=P2",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -270,7 +270,7 @@
     "route_long_name": "La Victoria - Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=P3",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=P3",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -281,7 +281,7 @@
     "route_long_name": "La Victoria - Polígono Argales",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=P6",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=P6",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -292,7 +292,7 @@
     "route_long_name": "Los Santos Pilarica - Polígono Argales",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=P7",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=P7",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -303,7 +303,7 @@
     "route_long_name": "Covaresa - Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=P13",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=P13",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -314,7 +314,7 @@
     "route_long_name": "Parquesol - Polígono Argales - Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=PSC1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=PSC1",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -325,7 +325,7 @@
     "route_long_name": "Rondilla - Pajarillos - Polígono San Cristóbal",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=PSC2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=PSC2",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -336,7 +336,7 @@
     "route_long_name": "Las Flores - Delicias - Polígono Argales - Parquesol",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=PSC3",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=PSC3",
     "route_color": "792B37",
     "route_text_color": "FFFFFF"
   },
@@ -347,7 +347,7 @@
     "route_long_name": "Covaresa - Fuente Dorada - San Pedro Regalado",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=B1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=B1",
     "route_color": "2B2B2D",
     "route_text_color": "FFFFFF"
   },
@@ -358,7 +358,7 @@
     "route_long_name": "Delicias - Doctrinos - La Victoria",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=B2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=B2",
     "route_color": "2B2B2D",
     "route_text_color": "FFFFFF"
   },
@@ -369,7 +369,7 @@
     "route_long_name": "Parquesol - Fuente Dorada - Las Flores",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=B3",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=B3",
     "route_color": "2B2B2D",
     "route_text_color": "FFFFFF"
   },
@@ -380,7 +380,7 @@
     "route_long_name": "Plaza Zorrilla - Camino Viejo Simancas",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=B4",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=B4",
     "route_color": "2B2B2D",
     "route_text_color": "FFFFFF"
   },
@@ -391,7 +391,7 @@
     "route_long_name": "Duque de la Victoria - La Cistérniga",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=B5",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=B5",
     "route_color": "2B2B2D",
     "route_text_color": "FFFFFF"
   },
@@ -402,7 +402,7 @@
     "route_long_name": "Covaresa - Rubia - Arturo Eyries - Estadio",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=F1",
     "route_color": "006D38",
     "route_text_color": "FFFFFF"
   },
@@ -413,7 +413,7 @@
     "route_long_name": "Cister-Delici-Circular-Estaciones-Pza. Juan  Austria-Estadio",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=F2",
     "route_color": "006D38",
     "route_text_color": "FFFFFF"
   },
@@ -424,7 +424,7 @@
     "route_long_name": "Las Flores - Pajarillos - Doctrinos - Estadio",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F3",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=F3",
     "route_color": "006D38",
     "route_text_color": "FFFFFF"
   },
@@ -435,7 +435,7 @@
     "route_long_name": "Los Santos Pilarica - Doctrinos - Estadio",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F4",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=F4",
     "route_color": "006D38",
     "route_text_color": "FFFFFF"
   },
@@ -446,7 +446,7 @@
     "route_long_name": "Belén - Angustias - Doctrinos - Estadio",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F5",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=F5",
     "route_color": "006D38",
     "route_text_color": "FFFFFF"
   },
@@ -457,7 +457,7 @@
     "route_long_name": "San Pedro Regalado - Rondilla - La Victoria - Estadio",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=F6",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=F6",
     "route_color": "006D38",
     "route_text_color": "FFFFFF"
   },
@@ -468,7 +468,7 @@
     "route_long_name": "Pajarillos - Covaresa",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=C0",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=C0",
     "route_color": "000000",
     "route_text_color": "FFFFFF"
   },
@@ -479,7 +479,7 @@
     "route_long_name": "Covaresa - Fuente Dorada",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M1",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -490,7 +490,7 @@
     "route_long_name": "San Pedro Regalado - Fuente Dorada",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M2",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M2",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -501,7 +501,7 @@
     "route_long_name": "Delicias - Fuente Dorada",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M3",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M3",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -512,7 +512,7 @@
     "route_long_name": "La Victoria - Plaza de España",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M4",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M4",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -523,7 +523,7 @@
     "route_long_name": "Parquesol - Plaza de España",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M5",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M5",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -534,7 +534,7 @@
     "route_long_name": "Las Flores - Fuente Dorada",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M6",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M6",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -545,7 +545,7 @@
     "route_long_name": "La Cistérniga - Fuente Dorada",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=M7",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=M7",
     "route_color": "532FA2",
     "route_text_color": "FFFFFF"
   },
@@ -556,7 +556,7 @@
     "route_long_name": "Covaresa - Universidad (Campus Miguel Delibes)",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=U1",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=U1",
     "route_color": "FF3067",
     "route_text_color": "000000"
   },
@@ -567,7 +567,7 @@
     "route_long_name": "Parquesol - Universidad (Campus Miguel Delibes)",
     "route_desc": "",
     "route_type": "3",
-    "route_url": "http://www.auvasa.es/auv_linea.asp?lin=U8",
+    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=U8",
     "route_color": "FF3067",
     "route_text_color": "000000"
   }
