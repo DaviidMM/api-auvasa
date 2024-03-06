@@ -5,7 +5,7 @@ WORKDIR /usr/src/app
 COPY ./ /usr/src/app/
 
 # Crear el archivo .env desde .env.template si no se creó antes
-RUN [ ! -f .env ] && mv .env.template .env
+RUN if [ ! -f .env ] || [ ! -s .env ]; then cp .env.template .env; fi
 
 # Instalar dependencias
 RUN npm install
