@@ -14674,7 +14674,7 @@
     "service_id": "RRSAT2_RL19_1430",
     "trip_id": "RRSAT2_RL19_1430_2",
     "trip_headsign": "CISTERNIGA",
-    "direction_id": "1",
+    "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_94"
   },
@@ -15160,7 +15160,7 @@
     "service_id": "T61LJ_T61_02",
     "trip_id": "T61LJ_T61_02_4",
     "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_93"
   },
@@ -15745,7 +15745,7 @@
     "service_id": "T61V_T61_02",
     "trip_id": "T61V_T61_02_4",
     "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_93"
   },
@@ -37579,7 +37579,7 @@
     "service_id": "T61LJ_NAV_T61_02",
     "trip_id": "T61LJ_NAV_T61_02_4",
     "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_93"
   },
