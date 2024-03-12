@@ -12231,150 +12231,6 @@
     "shape_id": "Route_30"
   },
   {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_2",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_99"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_3",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_62"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_4",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_61"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_5",
-    "trip_headsign": "PINAR JALON",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_100"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_2",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_102"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_3",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_61"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_4",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_62"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_5",
-    "trip_headsign": "FTE. BERROCAL",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_101"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_2",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_3",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_4",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_5",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_2",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_3",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_4",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_5",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
     "route_id": "21",
     "service_id": "LC1B9_LC1A1",
     "trip_id": "LC1B9_LC1A1_2",
@@ -14670,6 +14526,15 @@
     "shape_id": "Route_35"
   },
   {
+    "route_id": "19",
+    "service_id": "RRSAT2_RL19_1430",
+    "trip_id": "RRSAT2_RL19_1430_2",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_94"
+  },
+  {
     "route_id": "2",
     "service_id": "RRSAT2_RL2_1310",
     "trip_id": "RRSAT2_RL2_1310_2",
@@ -15525,6 +15390,78 @@
     "shape_id": "Route_60"
   },
   {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_2",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_99"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_62"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_4",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_61"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_5",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_100"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_2",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_102"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_3",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_61"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_4",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_62"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_5",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_101"
+  },
+  {
     "route_id": "73",
     "service_id": "LB3_LB3A1",
     "trip_id": "LB3_LB3A1_2",
@@ -15595,6 +15532,78 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_63"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_104"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_3",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_103"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_4",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_104"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_5",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_103"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_2",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_103"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_3",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_104"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_4",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_103"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_5",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_104"
   },
   {
     "route_id": "75",
