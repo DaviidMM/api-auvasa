@@ -41,7 +41,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 84,101,F4,Los Santos Pilarica - Doctrinos - Estadio,,3,http://www.auvasa.es/mapa-de-servicios/?linea=84,006D38,FFFFFF
 85,101,F5,Belén - Angustias - Doctrinos - Estadio,,3,http://www.auvasa.es/mapa-de-servicios/?linea=85,006D38,FFFFFF
 86,101,F6,San Pedro Regalado - Rondilla - La Victoria - Estadio,,3,http://www.auvasa.es/mapa-de-servicios/?linea=86,006D38,FFFFFF
-220,101,C0,Pajarillos - Covaresa,,3,http://www.auvasa.es/mapa-de-servicios/?linea=220,000000,FFFFFF
 401,101,M1,Covaresa - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=401,532FA2,FFFFFF
 402,101,M2,San Pedro Regalado - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=402,532FA2,FFFFFF
 403,101,M3,Delicias - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=403,532FA2,FFFFFF

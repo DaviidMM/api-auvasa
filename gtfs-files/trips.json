@@ -14868,15 +14868,6 @@
     "shape_id": "Route_55"
   },
   {
-    "route_id": "220",
-    "service_id": "T50LV_T50_05",
-    "trip_id": "T50LV_T50_05_4",
-    "trip_headsign": "COVARESA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_155"
-  },
-  {
     "route_id": "6",
     "service_id": "T50LV_T50_05",
     "trip_id": "T50LV_T50_05_7",
@@ -25135,6 +25126,330 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_151"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1615_F1A1",
+    "trip_id": "F1A1_1615_F1A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1615_F1A1",
+    "trip_id": "F1A1_1615_F1A1_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1615_F1A2",
+    "trip_id": "F1A1_1615_F1A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1615_F1A2",
+    "trip_id": "F1A1_1615_F1A2_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1615_F1A3",
+    "trip_id": "F1A1_1615_F1A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1615_F1A3",
+    "trip_id": "F1A1_1615_F1A3_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1615_F2A1",
+    "trip_id": "F2A1_1615_F2A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_71"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1615_F2A1",
+    "trip_id": "F2A1_1615_F2A1_3",
+    "trip_headsign": "DELIC-CISTER",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_72"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1615_F2A2",
+    "trip_id": "F2A1_1615_F2A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_177"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1615_F2A2",
+    "trip_id": "F2A1_1615_F2A2_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_178"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1615_F2A3",
+    "trip_id": "F2A1_1615_F2A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_177"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1615_F2A3",
+    "trip_id": "F2A1_1615_F2A3_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_178"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1615_F3A1",
+    "trip_id": "F3A1_1615_F3A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1615_F3A1",
+    "trip_id": "F3A1_1615_F3A1_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1615_F3A2",
+    "trip_id": "F3A1_1615_F3A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1615_F3A2",
+    "trip_id": "F3A1_1615_F3A2_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1615_F3A3",
+    "trip_id": "F3A1_1615_F3A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1615_F3A3",
+    "trip_id": "F3A1_1615_F3A3_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1615_F4A1",
+    "trip_id": "F4A1_1615_F4A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1615_F4A1",
+    "trip_id": "F4A1_1615_F4A1_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1615_F4A2",
+    "trip_id": "F4A1_1615_F4A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1615_F4A2",
+    "trip_id": "F4A1_1615_F4A2_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1615_F4A3",
+    "trip_id": "F4A1_1615_F4A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1615_F4A3",
+    "trip_id": "F4A1_1615_F4A3_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1615_F5A1",
+    "trip_id": "F5A1_1615_F5A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1615_F5A1",
+    "trip_id": "F5A1_1615_F5A1_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1615_F5A2",
+    "trip_id": "F5A1_1615_F5A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1615_F5A2",
+    "trip_id": "F5A1_1615_F5A2_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1615_F5A3",
+    "trip_id": "F5A1_1615_F5A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1615_F5A3",
+    "trip_id": "F5A1_1615_F5A3_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1615_F6A1",
+    "trip_id": "F6A1_1615_F6A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1615_F6A1",
+    "trip_id": "F6A1_1615_F6A1_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1615_F6A2",
+    "trip_id": "F6A1_1615_F6A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1615_F6A2",
+    "trip_id": "F6A1_1615_F6A2_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1615_F6A3",
+    "trip_id": "F6A1_1615_F6A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1615_F6A3",
+    "trip_id": "F6A1_1615_F6A3_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
   },
   {
     "route_id": "18",
@@ -36928,39 +37243,435 @@
   },
   {
     "route_id": "401",
-    "service_id": "T41LJ_NAV_T41A1",
-    "trip_id": "T41LJ_NAV_T41A1_2",
+    "service_id": "T41LJ_JUL_T41A1",
+    "trip_id": "T41LJ_JUL_T41A1_2",
     "trip_headsign": "FTE. DORADA",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_43"
   },
   {
-    "route_id": "402",
-    "service_id": "T41LJ_NAV_T41A2",
-    "trip_id": "T41LJ_NAV_T41A2_2",
-    "trip_headsign": "FTE. DORADA",
+    "route_id": "41",
+    "service_id": "T50LVSU_T50_01",
+    "trip_id": "T50LVSU_T50_01_2",
+    "trip_headsign": "P. ARG-RUBIA",
     "direction_id": "0",
     "block_id": "",
-    "shape_id": "Route_44"
+    "shape_id": "Route_50"
+  },
+  {
+    "route_id": "41",
+    "service_id": "T50LVSU_T50_01",
+    "trip_id": "T50LVSU_T50_01_3",
+    "trip_headsign": "P. ARG-RUBIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_50"
+  },
+  {
+    "route_id": "21",
+    "service_id": "T50LVSU_T50_01",
+    "trip_id": "T50LVSU_T50_01_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "62",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_2",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_57"
+  },
+  {
+    "route_id": "62",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_3",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_57"
+  },
+  {
+    "route_id": "5",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_4",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_17"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_7",
+    "trip_headsign": "COVARESA-CAN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_39"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_8",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
   },
   {
     "route_id": "13",
-    "service_id": "T41LJ_NAV_T41A2",
-    "trip_id": "T41LJ_NAV_T41A2_3",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_9",
+    "trip_headsign": "PGNO. LA MORA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_87"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T50LVSU_T50_02",
+    "trip_id": "T50LVSU_T50_02_10",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_88"
+  },
+  {
+    "route_id": "43",
+    "service_id": "T50LVSU_T50_03",
+    "trip_id": "T50LVSU_T50_03_2",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_52"
+  },
+  {
+    "route_id": "43",
+    "service_id": "T50LVSU_T50_03",
+    "trip_id": "T50LVSU_T50_03_3",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_52"
+  },
+  {
+    "route_id": "18",
+    "service_id": "T50LVSU_T50_03",
+    "trip_id": "T50LVSU_T50_03_6",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "18",
+    "service_id": "T50LVSU_T50_03",
+    "trip_id": "T50LVSU_T50_03_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "47",
+    "service_id": "T50LVSU_T50_04",
+    "trip_id": "T50LVSU_T50_04_2",
+    "trip_headsign": "PGNO. ARGALES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_54"
+  },
+  {
+    "route_id": "47",
+    "service_id": "T50LVSU_T50_04",
+    "trip_id": "T50LVSU_T50_04_3",
+    "trip_headsign": "PGNO. ARGALES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_54"
+  },
+  {
+    "route_id": "403",
+    "service_id": "T50LVSU_T50_04",
+    "trip_id": "T50LVSU_T50_04_4",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_45"
+  },
+  {
+    "route_id": "24",
+    "service_id": "T50LVSU_T50_04",
+    "trip_id": "T50LVSU_T50_04_5",
+    "trip_headsign": "PANADEROS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_144"
+  },
+  {
+    "route_id": "53",
+    "service_id": "T50LVSU_T50_05",
+    "trip_id": "T50LVSU_T50_05_2",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_55"
+  },
+  {
+    "route_id": "53",
+    "service_id": "T50LVSU_T50_05",
+    "trip_id": "T50LVSU_T50_05_3",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_55"
+  },
+  {
+    "route_id": "24",
+    "service_id": "T50LVSU_T50_05",
+    "trip_id": "T50LVSU_T50_05_7",
+    "trip_headsign": "LA OVERUELA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_145"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_SU_T61_01",
+    "trip_id": "T61LJ_SU_T61_01_3",
     "trip_headsign": "PZA. ESPAÑA",
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_32"
   },
   {
-    "route_id": "3",
-    "service_id": "T41LJ_NAV_T41A2",
-    "trip_id": "T41LJ_NAV_T41A2_4",
-    "trip_headsign": "C. CONTIENDAS",
+    "route_id": "13",
+    "service_id": "T61LJ_SU_T61_01",
+    "trip_id": "T61LJ_SU_T61_01_4",
+    "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
-    "shape_id": "Route_106"
+    "shape_id": "Route_31"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_SU_T61_01",
+    "trip_id": "T61LJ_SU_T61_01_5",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "407",
+    "service_id": "T61LJ_SU_T61_02",
+    "trip_id": "T61LJ_SU_T61_02_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_49"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_SU_T61_02",
+    "trip_id": "T61LJ_SU_T61_02_3",
+    "trip_headsign": "PGNO. LA MORA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_87"
+  },
+  {
+    "route_id": "19",
+    "service_id": "T61LJ_SU_T61_02",
+    "trip_id": "T61LJ_SU_T61_02_4",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_93"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T61LJ_SU_T61_02",
+    "trip_id": "T61LJ_SU_T61_02_5",
+    "trip_headsign": "COVARESA-CAN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_39"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T61LJ_SU_T61_02",
+    "trip_id": "T61LJ_SU_T61_02_6",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
+  },
+  {
+    "route_id": "9",
+    "service_id": "T61LJ_SU_T61_02",
+    "trip_id": "T61LJ_SU_T61_02_9",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_30"
+  },
+  {
+    "route_id": "405",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_3",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_47"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_4",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_5",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_6",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_9",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_10",
+    "trip_headsign": "RONDILLA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_34"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_SU_T61_03",
+    "trip_id": "T61LJ_SU_T61_03_11",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "402",
+    "service_id": "T61LJ_SU_T61_05",
+    "trip_id": "T61LJ_SU_T61_05_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_44"
+  },
+  {
+    "route_id": "406",
+    "service_id": "T62LJ_SU_T62A01",
+    "trip_id": "T62LJ_SU_T62A01_2",
+    "trip_headsign": "FUENTE DORADA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_48"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_SU_T62A01",
+    "trip_id": "T62LJ_SU_T62A01_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_31"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_SU_T62A01",
+    "trip_id": "T62LJ_SU_T62A01_6",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T62LJ_SU_T62A01",
+    "trip_id": "T62LJ_SU_T62A01_7",
+    "trip_headsign": "RONDILLA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_34"
+  },
+  {
+    "route_id": "404",
+    "service_id": "T62LJ_SU_T62A02",
+    "trip_id": "T62LJ_SU_T62A02_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_46"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_SU_T62A02",
+    "trip_id": "T62LJ_SU_T62A02_6",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_31"
+  },
+  {
+    "route_id": "22",
+    "service_id": "T62LJ_SU_T62A03",
+    "trip_id": "T62LJ_SU_T62A03_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "26",
+    "service_id": "T62LJ_SU_T62A03",
+    "trip_id": "T62LJ_SU_T62A03_3",
+    "trip_headsign": "COL. S. J. DIOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_41"
+  },
+  {
+    "route_id": "26",
+    "service_id": "T62LJ_SU_T62A03",
+    "trip_id": "T62LJ_SU_T62A03_4",
+    "trip_headsign": "COL. S. J. DIOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_41"
   },
   {
     "route_id": "41",
@@ -37132,15 +37843,6 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_55"
-  },
-  {
-    "route_id": "220",
-    "service_id": "T50LV_NAV_T50_05",
-    "trip_id": "T50LV_NAV_T50_05_4",
-    "trip_headsign": "COVARESA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_155"
   },
   {
     "route_id": "24",
@@ -37339,87 +38041,6 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_33"
-  },
-  {
-    "route_id": "406",
-    "service_id": "T62LJ_NAV_T62A01",
-    "trip_id": "T62LJ_NAV_T62A01_2",
-    "trip_headsign": "FUENTE DORADA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_48"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_NAV_T62A01",
-    "trip_id": "T62LJ_NAV_T62A01_7",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_31"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_NAV_T62A01",
-    "trip_id": "T62LJ_NAV_T62A01_8",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_32"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T62LJ_NAV_T62A01",
-    "trip_id": "T62LJ_NAV_T62A01_9",
-    "trip_headsign": "RONDILLA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_34"
-  },
-  {
-    "route_id": "404",
-    "service_id": "T62LJ_NAV_T62A02",
-    "trip_id": "T62LJ_NAV_T62A02_2",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_46"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_NAV_T62A02",
-    "trip_id": "T62LJ_NAV_T62A02_8",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_31"
-  },
-  {
-    "route_id": "22",
-    "service_id": "T62LJ_NAV_T62A03",
-    "trip_id": "T62LJ_NAV_T62A03_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "26",
-    "service_id": "T62LJ_NAV_T62A03",
-    "trip_id": "T62LJ_NAV_T62A03_3",
-    "trip_headsign": "COL. S. J. DIOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_41"
-  },
-  {
-    "route_id": "26",
-    "service_id": "T62LJ_NAV_T62A03",
-    "trip_id": "T62LJ_NAV_T62A03_7",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_42"
   },
   {
     "route_id": "402",
@@ -38698,5 +39319,329 @@
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_151"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1400_F1A1",
+    "trip_id": "F1A1_1400_F1A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1400_F1A1",
+    "trip_id": "F1A1_1400_F1A1_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1400_F1A2",
+    "trip_id": "F1A1_1400_F1A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1400_F1A2",
+    "trip_id": "F1A1_1400_F1A2_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1400_F1A3",
+    "trip_id": "F1A1_1400_F1A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_69"
+  },
+  {
+    "route_id": "81",
+    "service_id": "F1A1_1400_F1A3",
+    "trip_id": "F1A1_1400_F1A3_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_70"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1400_F2A1",
+    "trip_id": "F2A1_1400_F2A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_71"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1400_F2A1",
+    "trip_id": "F2A1_1400_F2A1_3",
+    "trip_headsign": "DELIC-CISTER",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_72"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1400_F2A2",
+    "trip_id": "F2A1_1400_F2A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_177"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1400_F2A2",
+    "trip_id": "F2A1_1400_F2A2_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_178"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1400_F2A3",
+    "trip_id": "F2A1_1400_F2A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_177"
+  },
+  {
+    "route_id": "82",
+    "service_id": "F2A1_1400_F2A3",
+    "trip_id": "F2A1_1400_F2A3_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_178"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1400_F3A1",
+    "trip_id": "F3A1_1400_F3A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1400_F3A1",
+    "trip_id": "F3A1_1400_F3A1_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1400_F3A2",
+    "trip_id": "F3A1_1400_F3A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1400_F3A2",
+    "trip_id": "F3A1_1400_F3A2_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1400_F3A3",
+    "trip_id": "F3A1_1400_F3A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_73"
+  },
+  {
+    "route_id": "83",
+    "service_id": "F3A1_1400_F3A3",
+    "trip_id": "F3A1_1400_F3A3_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_74"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1400_F4A1",
+    "trip_id": "F4A1_1400_F4A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1400_F4A1",
+    "trip_id": "F4A1_1400_F4A1_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1400_F4A2",
+    "trip_id": "F4A1_1400_F4A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1400_F4A2",
+    "trip_id": "F4A1_1400_F4A2_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1400_F4A3",
+    "trip_id": "F4A1_1400_F4A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_75"
+  },
+  {
+    "route_id": "84",
+    "service_id": "F4A1_1400_F4A3",
+    "trip_id": "F4A1_1400_F4A3_3",
+    "trip_headsign": "LOS SANTOS P",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_76"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1400_F5A1",
+    "trip_id": "F5A1_1400_F5A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1400_F5A1",
+    "trip_id": "F5A1_1400_F5A1_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1400_F5A2",
+    "trip_id": "F5A1_1400_F5A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1400_F5A2",
+    "trip_id": "F5A1_1400_F5A2_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1400_F5A3",
+    "trip_id": "F5A1_1400_F5A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_77"
+  },
+  {
+    "route_id": "85",
+    "service_id": "F5A1_1400_F5A3",
+    "trip_id": "F5A1_1400_F5A3_3",
+    "trip_headsign": "B. BELEN",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_78"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1400_F6A1",
+    "trip_id": "F6A1_1400_F6A1_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1400_F6A1",
+    "trip_id": "F6A1_1400_F6A1_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1400_F6A2",
+    "trip_id": "F6A1_1400_F6A2_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1400_F6A2",
+    "trip_id": "F6A1_1400_F6A2_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1400_F6A3",
+    "trip_id": "F6A1_1400_F6A3_2",
+    "trip_headsign": "ESTAD. FUTBOL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_79"
+  },
+  {
+    "route_id": "86",
+    "service_id": "F6A1_1400_F6A3",
+    "trip_id": "F6A1_1400_F6A3_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_80"
   }
 ]
