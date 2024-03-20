@@ -1,6 +1,13 @@
 const express = require('express');
 const routes = express.Router();
-const { getParada, getParadas, getBusPosition, getShapesForTrip, getStopsForTrip } = require('../../lib/v2');
+const {
+  getParada,
+  getParadas,
+  getBusPosition,
+  getShapesForTrip,
+  getStopsForTrip,
+  getSuspendedStops,
+} = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
 // Imports de alertas de v1
@@ -39,6 +46,11 @@ routes.get('/parada/:stopCode/:routeShortName', async (req, res) => {
 routes.get('/parada/:stopCode/:routeShortName/:date', async (req, res) => {
   const { stopCode, routeShortName, date } = req.params;
   const response = await getParada(stopCode, routeShortName, date);
+  return res.json(response);
+});
+
+routes.get('/paradas/suprimidas', async (req, res) => {
+  const response = await getSuspendedStops();
   return res.json(response);
 });
 
