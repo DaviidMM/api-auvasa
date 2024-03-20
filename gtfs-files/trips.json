@@ -14890,7 +14890,7 @@
     "service_id": "T50LV_T50_05",
     "trip_id": "T50LV_T50_05_9",
     "trip_headsign": "LA OVERUELA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_145"
   },
@@ -37431,11 +37431,20 @@
     "shape_id": "Route_55"
   },
   {
+    "route_id": "22",
+    "service_id": "T50LVSU_T50_05",
+    "trip_id": "T50LVSU_T50_05_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_181"
+  },
+  {
     "route_id": "24",
     "service_id": "T50LVSU_T50_05",
     "trip_id": "T50LVSU_T50_05_7",
     "trip_headsign": "LA OVERUELA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_145"
   },
@@ -37849,7 +37858,7 @@
     "service_id": "T50LV_NAV_T50_05",
     "trip_id": "T50LV_NAV_T50_05_9",
     "trip_headsign": "LA OVERUELA",
-    "direction_id": "0",
+    "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_145"
   },
