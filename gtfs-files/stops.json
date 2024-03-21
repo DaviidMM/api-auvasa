@@ -2953,7 +2953,7 @@
   {
     "stop_id": "1",
     "stop_code": "550",
-    "stop_name": "Calle Hernando de Acuña 1 esquina Mateo Seoane Sobral",
+    "stop_name": "Calle Hernando de Acuña 1 esquina Mateo Seoane S.",
     "stop_desc": "Parada",
     "stop_lat": "41.6379983836047",
     "stop_lon": "-4.75574461249468",
@@ -3148,7 +3148,7 @@
   {
     "stop_id": "16",
     "stop_code": "569",
-    "stop_name": "Avenida Miguel Ángel Blanco frente 23 esquina Pío RíoHortega",
+    "stop_name": "Avenida Miguel Ángel Blanco frente 23 esq. Pío Río Hortega",
     "stop_desc": "Parada",
     "stop_lat": "41.6516720414533",
     "stop_lon": "-4.74118199906222",

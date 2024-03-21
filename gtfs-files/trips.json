@@ -6957,6 +6957,51 @@
     "shape_id": "Route_82"
   },
   {
+    "route_id": "61",
+    "service_id": "T60LJ_L60A4",
+    "trip_id": "T60LJ_L60A4_2",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_56"
+  },
+  {
+    "route_id": "61",
+    "service_id": "T60LJ_L60A4",
+    "trip_id": "T60LJ_L60A4_3",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_56"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T60LJ_L60A4",
+    "trip_id": "T60LJ_L60A4_4",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "8",
+    "service_id": "T60LJ_L60A5",
+    "trip_id": "T60LJ_L60A5_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "9",
+    "service_id": "T60LJ_L60A5",
+    "trip_id": "T60LJ_L60A5_4",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_29"
+  },
+  {
     "route_id": "6",
     "service_id": "L6A9_L6A1",
     "trip_id": "L6A9_L6A1_2",
@@ -14868,6 +14913,15 @@
     "shape_id": "Route_55"
   },
   {
+    "route_id": "22",
+    "service_id": "T50LV_T50_05",
+    "trip_id": "T50LV_T50_05_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_181"
+  },
+  {
     "route_id": "6",
     "service_id": "T50LV_T50_05",
     "trip_id": "T50LV_T50_05_7",
@@ -14893,51 +14947,6 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_145"
-  },
-  {
-    "route_id": "61",
-    "service_id": "T50LV_T50_06",
-    "trip_id": "T50LV_T50_06_2",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_56"
-  },
-  {
-    "route_id": "61",
-    "service_id": "T50LV_T50_06",
-    "trip_id": "T50LV_T50_06_3",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_56"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T50LV_T50_06",
-    "trip_id": "T50LV_T50_06_4",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_33"
-  },
-  {
-    "route_id": "8",
-    "service_id": "T50LV_T50_07",
-    "trip_id": "T50LV_T50_07_3",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_4"
-  },
-  {
-    "route_id": "9",
-    "service_id": "T50LV_T50_07",
-    "trip_id": "T50LV_T50_07_4",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_29"
   },
   {
     "route_id": "13",
