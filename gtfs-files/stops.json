@@ -1237,7 +1237,7 @@
   {
     "stop_id": "2944",
     "stop_code": "12226",
-    "stop_name": "Vázquez de Menchaca 1 esq. Daniel del Olmo",
+    "stop_name": "Calle Vázquez de Menchaca 1 esq. Daniel del Olmo",
     "stop_desc": "Parada",
     "stop_lat": "41.626836583026",
     "stop_lon": "-4.73087696014544",
@@ -1250,7 +1250,7 @@
   {
     "stop_id": "2945",
     "stop_code": "12227",
-    "stop_name": "Vázquez de Menchaca 4 esq. Daniel del Olmo",
+    "stop_name": "Calle Vázquez de Menchaca 4 esq. Daniel del Olmo",
     "stop_desc": "Parada",
     "stop_lat": "41.6267878628572",
     "stop_lon": "-4.73095398701794",
@@ -1263,7 +1263,7 @@
   {
     "stop_id": "2971",
     "stop_code": "12228",
-    "stop_name": "Vázquez de Menchaca 34",
+    "stop_name": "Calle Vázquez de Menchaca 34",
     "stop_desc": "Parada",
     "stop_lat": "41.6205250533928",
     "stop_lon": "-4.73477047124863",
@@ -2316,7 +2316,7 @@
   {
     "stop_id": "528",
     "stop_code": "1352",
-    "stop_name": "Cometa esq. Cosmologia",
+    "stop_name": "Calle Cometa esq. Cosmologia",
     "stop_desc": "Parada",
     "stop_lat": "41.6551863573248",
     "stop_lon": "-4.6997721211106",
@@ -2329,10 +2329,10 @@
   {
     "stop_id": "530",
     "stop_code": "1354",
-    "stop_name": "Cometa esq. Pº Juan carlos 1",
+    "stop_name": "Calle Cometa esq. Pº Juan carlos 1",
     "stop_desc": "Parada",
-    "stop_lat": "41.6553522187515",
-    "stop_lon": "-4.70355192133213",
+    "stop_lat": "41.6553522187516",
+    "stop_lon": "-4.70355192133212",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=530",
     "location_type": "",
@@ -2342,10 +2342,10 @@
   {
     "stop_id": "532",
     "stop_code": "1356",
-    "stop_name": "Cometa 4",
+    "stop_name": "Calle Cometa 4",
     "stop_desc": "Parada",
     "stop_lat": "41.6547041336125",
-    "stop_lon": "-4.70339579309973",
+    "stop_lon": "-4.70339579309974",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=532",
     "location_type": "",
@@ -2810,9 +2810,9 @@
   {
     "stop_id": "572",
     "stop_code": "1400",
-    "stop_name": "Calle C/ Ciudad de La Habana 17",
+    "stop_name": "Calle Ciudad de La Habana 17",
     "stop_desc": "Parada",
-    "stop_lat": "41.6345235068727",
+    "stop_lat": "41.6345235068728",
     "stop_lon": "-4.76255197489168",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=572",
@@ -2875,7 +2875,7 @@
   {
     "stop_id": "2922",
     "stop_code": "1406",
-    "stop_name": "Adolfo Miaja de la Muela frente Nuñez de Guzman",
+    "stop_name": "Calle Adolfo Miaja de la Muela frente Nuñez de Guzman",
     "stop_desc": "Parada",
     "stop_lat": "41.6349868187605",
     "stop_lon": "-4.75552812273529",
@@ -2914,7 +2914,7 @@
   {
     "stop_id": "2919",
     "stop_code": "1409",
-    "stop_name": "Andrómeda esquina Orden de Malta",
+    "stop_name": "Calle Andrómeda esquina Orden de Malta",
     "stop_desc": "Parada",
     "stop_lat": "41.6551270078788",
     "stop_lon": "-4.70514614640447",
@@ -2927,7 +2927,7 @@
   {
     "stop_id": "2920",
     "stop_code": "1410",
-    "stop_name": "Andrómeda frente Orden de Malta",
+    "stop_name": "Calle Andrómeda frente Orden de Malta",
     "stop_desc": "Parada",
     "stop_lat": "41.6552348751786",
     "stop_lon": "-4.70521430163913",
@@ -2940,7 +2940,7 @@
   {
     "stop_id": "2923",
     "stop_code": "1411",
-    "stop_name": "Madre de Dios 6",
+    "stop_name": "Calle Madre de Dios 6",
     "stop_desc": "Parada",
     "stop_lat": "41.6580863355115",
     "stop_lon": "-4.71734880738889",
@@ -6606,7 +6606,7 @@
   {
     "stop_id": "302",
     "stop_code": "935",
-    "stop_name": "Carretera Soria esq Paramo San Isidro",
+    "stop_name": "Carretera Soria esquina Paramo San Isidro",
     "stop_desc": "Parada",
     "stop_lat": "41.635021092715",
     "stop_lon": "-4.70615302809513",
