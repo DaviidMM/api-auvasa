@@ -2314,19 +2314,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "528",
-    "stop_code": "1352",
-    "stop_name": "Calle Cometa esq. Cosmologia",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6551863573248",
-    "stop_lon": "-4.6997721211106",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=528",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "530",
     "stop_code": "1354",
     "stop_name": "Calle Cometa esq. Pº Juan carlos 1",
@@ -2855,6 +2842,19 @@
     "stop_lon": "-4.68186796267344",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=575",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "528",
+    "stop_code": "1404",
+    "stop_name": "Calle Cometa esq. Cosmologia",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6551863573248",
+    "stop_lon": "-4.6997721211106",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=528",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
