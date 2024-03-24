@@ -177,7 +177,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 525,1348,Calle Embajadores esquina Padre Benito Menni,Parada,41.6293103591552,-4.72334613837822,,http://www.auvasa.es/mapa-de-servicios/?parada=525,,,Europe/Madrid
 526,1350,Camino Viejo Simancas frente Puente,Parada,41.5878073066325,-4.82159819326585,,http://www.auvasa.es/mapa-de-servicios/?parada=526,,,Europe/Madrid
 527,1351,Carretera Segovia frente Víctimas del Terrorismo,Parada,41.6285292547692,-4.71889231432775,,http://www.auvasa.es/mapa-de-servicios/?parada=527,,,Europe/Madrid
-528,1352,Calle Cometa esq. Cosmologia,Parada,41.6551863573248,-4.6997721211106,,http://www.auvasa.es/mapa-de-servicios/?parada=528,,,Europe/Madrid
 530,1354,Calle Cometa esq. Pº Juan carlos 1,Parada,41.6553522187516,-4.70355192133212,,http://www.auvasa.es/mapa-de-servicios/?parada=530,,,Europe/Madrid
 532,1356,Calle Cometa 4,Parada,41.6547041336125,-4.70339579309974,,http://www.auvasa.es/mapa-de-servicios/?parada=532,,,Europe/Madrid
 534,1358,Paseo Belén Campus Miguel Delibes,Parada,41.6614292944419,-4.70722316574041,,http://www.auvasa.es/mapa-de-servicios/?parada=534,,,Europe/Madrid
@@ -219,6 +218,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 573,1401,Calle Cuesta Redonda esq. Azuela,Parada,41.6103529113006,-4.67905522229675,,http://www.auvasa.es/mapa-de-servicios/?parada=573,,,Europe/Madrid
 574,1402,Camino de Las Yeseras Polideportivo Municipal,Parada,41.6117180410459,-4.6801169941645,,http://www.auvasa.es/mapa-de-servicios/?parada=574,,,Europe/Madrid
 575,1403,Calle Cuesta Redonda Piscinas Municipales,Parada,41.6104349379463,-4.68186796267344,,http://www.auvasa.es/mapa-de-servicios/?parada=575,,,Europe/Madrid
+528,1404,Calle Cometa esq. Cosmologia,Parada,41.6551863573248,-4.6997721211106,,http://www.auvasa.es/mapa-de-servicios/?parada=528,,,Europe/Madrid
 2411,1405,Plaza Doctor Quemada frente Iglesia Santo Domingo de Guzmán,Parada,41.6328100684792,-4.74135814894217,,http://www.auvasa.es/mapa-de-servicios/?parada=2411,,,Europe/Madrid
 2922,1406,Calle Adolfo Miaja de la Muela frente Nuñez de Guzman,Parada,41.6349868187605,-4.75552812273529,,http://www.auvasa.es/mapa-de-servicios/?parada=2922,,,Europe/Madrid
 2915,1407,Paseo del Obregón esq Brezo,Parada,41.6723886563079,-4.72932840722739,,http://www.auvasa.es/mapa-de-servicios/?parada=2915,,,Europe/Madrid
