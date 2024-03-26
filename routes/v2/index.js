@@ -45,12 +45,16 @@ const dateSchema = Joi.string()
     'any.required': 'La fecha es un campo obligatorio.',
   });
 
-// Esquema para tripId
-const tripIdSchema = Joi.string().alphanum().required().messages({
-  'string.base': 'El tripId debe ser una cadena de texto.',
-  'string.alphanum': 'El tripId solo puede contener caracteres alfanuméricos.',
-  'any.required': 'El tripId es un campo obligatorio.',
-});
+// Esquema para tripID
+const tripIdSchema = Joi.string()
+  .regex(/^[a-zA-Z0-9_-]+$/)
+  .required()
+  .messages({
+    'string.base': 'El tripID debe ser una cadena de texto.',
+    'string.pattern.base':
+      'El tripID solo puede contener caracteres alfanuméricos, guiones medios (-) y barras bajas (_).',
+    'any.required': 'El tripID es un campo obligatorio.',
+  });
 
 routes.get('/', (req, res) => {
   return res.send(
