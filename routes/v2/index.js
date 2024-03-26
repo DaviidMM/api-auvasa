@@ -11,10 +11,50 @@ const {
 const { getAllCacheKeys } = require('../../lib/utils');
 
 // Imports de alertas de v1
-// Migrar a alertas v2
+// TODO: Migrar a alertas v2
 const apicache = require('apicache');
 const { getAlertsFromGtfs } = require('../../lib/v1/gtfs');
 const cache = apicache.middleware;
+
+// Data validation
+const Joi = require('joi');
+
+// Esquema para stopCode
+const stopCodeSchema = Joi.string().alphanum().required().messages({
+  'string.base': 'El número de parada debe ser una cadena de texto.',
+  'string.alphanum':
+    'El número de parada solo puede contener caracteres alfanuméricos.',
+  'any.required': 'El número de parada es un campo obligatorio.',
+});
+
+// Esquema para routeShortName
+const routeShortNameSchema = Joi.string().alphanum().required().messages({
+  'string.base': 'El código de la línea debe ser una cadena de texto.',
+  'string.alphanum':
+    'El código de la línea solo puede contener caracteres alfanuméricos.',
+  'any.required': 'El código de la línea es un campo obligatorio.',
+});
+
+// Esquema para date en formato YYYYMMDD
+const dateSchema = Joi.string()
+  .pattern(/^\d{4}\d{2}\d{2}$/)
+  .required()
+  .messages({
+    'string.base': 'La fecha debe ser una cadena de texto.',
+    'string.pattern.base': 'La fecha debe tener el formato YYYYMMDD.',
+    'any.required': 'La fecha es un campo obligatorio.',
+  });
+
+// Esquema para tripID
+const tripIdSchema = Joi.string()
+  .regex(/^[a-zA-Z0-9_-]+$/)
+  .required()
+  .messages({
+    'string.base': 'El tripID debe ser una cadena de texto.',
+    'string.pattern.base':
+      'El tripID solo puede contener caracteres alfanuméricos, guiones medios (-) y barras bajas (_).',
+    'any.required': 'El tripID es un campo obligatorio.',
+  });
 
 routes.get('/', (req, res) => {
   return res.send(
@@ -33,18 +73,61 @@ routes.get('/getAllCache', (req, res) => {
 
 routes.get('/parada/:stopCode', async (req, res) => {
   const { stopCode } = req.params;
+
+  // Valida stopCode
+  const stopCodeValidation = stopCodeSchema.validate(stopCode);
+  if (stopCodeValidation.error) {
+    return res.status(400).send(stopCodeValidation.error.details[0].message);
+  }
+
   const response = await getParada(stopCode);
   return res.json(response);
 });
 
 routes.get('/parada/:stopCode/:routeShortName', async (req, res) => {
   const { stopCode, routeShortName } = req.params;
+
+  // Valida stopCode
+  const stopCodeValidation = stopCodeSchema.validate(stopCode);
+  if (stopCodeValidation.error) {
+    return res.status(400).send(stopCodeValidation.error.details[0].message);
+  }
+
+  // Valida routeShortName
+  const routeShortNameValidation = routeShortNameSchema.validate(routeShortName);
+  if (routeShortNameValidation.error) {
+    return res
+      .status(400)
+      .send(routeShortNameValidation.error.details[0].message);
+  }
+
   const response = await getParada(stopCode, routeShortName);
   return res.json(response);
 });
 
 routes.get('/parada/:stopCode/:routeShortName/:date', async (req, res) => {
   const { stopCode, routeShortName, date } = req.params;
+
+  // Valida stopCode
+  const stopCodeValidation = stopCodeSchema.validate(stopCode);
+  if (stopCodeValidation.error) {
+    return res.status(400).send(stopCodeValidation.error.details[0].message);
+  }
+
+  // Valida routeShortName
+  const routeShortNameValidation = routeShortNameSchema.validate(routeShortName);
+  if (routeShortNameValidation.error) {
+    return res
+      .status(400)
+      .send(routeShortNameValidation.error.details[0].message);
+  }
+
+  // Valida date
+  const dateValidation = dateSchema.validate(date);
+  if (dateValidation.error) {
+    return res.status(400).send(dateValidation.error.details[0].message);
+  }
+
   const response = await getParada(stopCode, routeShortName, date);
   return res.json(response);
 });
@@ -61,18 +144,39 @@ routes.get('/paradas', async (req, res) => {
 
 routes.get('/busPosition/:tripId', async (req, res) => {
   const { tripId } = req.params;
+
+  // Valida tripId
+  const tripIdValidation = tripIdSchema.validate(tripId);
+  if (tripIdValidation.error) {
+    return res.status(400).send(tripIdValidation.error.details[0].message);
+  }
+
   const response = await getBusPosition(tripId);
   return res.json(response);
 });
 
 routes.get('/geojson/paradas/:tripId', async (req, res) => {
   const { tripId } = req.params;
+
+  // Valida tripId
+  const tripIdValidation = tripIdSchema.validate(tripId);
+  if (tripIdValidation.error) {
+    return res.status(400).send(tripIdValidation.error.details[0].message);
+  }
+
   const response = await getStopsForTrip(tripId);
   return res.send(response);
 });
 
 routes.get('/geojson/:tripId', async (req, res) => {
   const { tripId } = req.params;
+
+  // Valida tripId
+  const tripIdValidation = tripIdSchema.validate(tripId);
+  if (tripIdValidation.error) {
+    return res.status(400).send(tripIdValidation.error.details[0].message);
+  }
+
   const response = await getShapesForTrip(tripId);
   return res.send(response);
 });
