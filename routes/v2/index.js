@@ -4,6 +4,7 @@ const {
   getParada,
   getParadas,
   getBusPosition,
+  getOccupancy,
   getShapesForTrip,
   getStopsForTrip,
   getSuspendedStops,
@@ -152,6 +153,19 @@ routes.get('/busPosition/:tripId', async (req, res) => {
   }
 
   const response = await getBusPosition(tripId);
+  return res.json(response);
+});
+
+routes.get('/busOccupancy/:tripId', async (req, res) => {
+  const { tripId } = req.params;
+
+  // Valida tripId
+  const tripIdValidation = tripIdSchema.validate(tripId);
+  if (tripIdValidation.error) {
+    return res.status(400).send(tripIdValidation.error.details[0].message);
+  }
+
+  const response = await getOccupancy(tripId);
   return res.json(response);
 });
 

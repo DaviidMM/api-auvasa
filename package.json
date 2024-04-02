@@ -24,10 +24,10 @@
     "dotenv": "^16.3.1",
     "express": "^4.19.2",
     "gtfs": "4.5.1",
-    "gtfs-realtime-bindings": "1.1.1",
+    "gtfs-realtime-bindings": "^1.1.1",
     "joi": "^17.12.2",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.43",
+    "moment-timezone": "^0.5.45",
     "node-cache": "^5.1.2",
     "swagger-jsdoc": "6.2.8",
     "swagger-ui-express": "4.6.2"
