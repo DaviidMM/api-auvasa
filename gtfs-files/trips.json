@@ -3396,10 +3396,10 @@
     "route_id": "24",
     "service_id": "L24A1_L24A1",
     "trip_id": "L24A1_L24A1_32",
-    "trip_headsign": "PZA. PONIENTE",
+    "trip_headsign": "Feria Vll",
     "direction_id": "0",
     "block_id": "",
-    "shape_id": "Route_13"
+    "shape_id": "Route_182"
   },
   {
     "route_id": "26",
