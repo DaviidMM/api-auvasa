@@ -129,15 +129,7 @@ curl -X GET http://localhost:3000/v2/busPosition/:tripId
 
 Reemplaza `:tripId` con el ID del viaje del autobús que deseas consultar, por ejemplo `L4A2_L4A1_13`.
 
-### Consulta de posicocupación de un autobús
-
-Para obtener la ocupación (cuánto sitio libre hay) de un autobús en tiempo real, utiliza el siguiente endpoint:
-
-```
-curl -X GET http://localhost:3000/v2/busOccupancy/:tripId
-```
-
-Reemplaza `:tripId` con el ID del viaje del autobús que deseas consultar, por ejemplo `L4A2_L4A1_13`.
+Este endpoint también incluye un campo `ocupacion`  y `velocidad` con el estado actual del vehículo.
 
 ### Consulta de geojson de ubicación de paradas para un viaje
 
