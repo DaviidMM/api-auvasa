@@ -355,6 +355,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 136,737,Calle Vázquez de Menchaca 5,Parada,41.6246200372996,-4.73174899854382,,http://www.auvasa.es/mapa-de-servicios/?parada=136,,,Europe/Madrid
 137,738,Calle Vázquez de Menchaca 9,Parada,41.6225430366382,-4.73347400459987,,http://www.auvasa.es/mapa-de-servicios/?parada=137,,,Europe/Madrid
 138,742,Calle Adolfo Miaja de la Muela esquina Remigio Cabello Toral,Parada,41.6354016807519,-4.75476236815371,,http://www.auvasa.es/mapa-de-servicios/?parada=138,,,Europe/Madrid
+139,743,Calle Adolfo Miaja de la Muela 6 esquina Hernando de Acuña,Parada,41.6375940654986,-4.75407993336975,,http://www.auvasa.es/mapa-de-servicios/?parada=139,,,Europe/Madrid
 140,744,Calle Mieses frente 40,Parada,41.6535031526874,-4.74427096024068,,http://www.auvasa.es/mapa-de-servicios/?parada=140,,,Europe/Madrid
 141,747,Calle Mieses frente 16,Parada,41.6593980380105,-4.74069999907677,,http://www.auvasa.es/mapa-de-servicios/?parada=141,,,Europe/Madrid
 142,749,Calle Mieses 40,Parada,41.6534774405601,-4.74458484372339,,http://www.auvasa.es/mapa-de-servicios/?parada=142,,,Europe/Madrid
@@ -540,6 +541,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 333,972,Paseo San Vicente 35 esquina Sevilla,Parada,41.6431765073005,-4.71823537754961,,http://www.auvasa.es/mapa-de-servicios/?parada=333,,,Europe/Madrid
 334,973,Calle La Victoria frente 31 esquina San Sebastián,Parada,41.6636644670462,-4.73264487363698,,http://www.auvasa.es/mapa-de-servicios/?parada=334,,,Europe/Madrid
 335,976,Calle Villabáñez 131 esquina Camino Viejo del Polvorín,Parada,41.6473910375475,-4.70179899747423,,http://www.auvasa.es/mapa-de-servicios/?parada=335,,,Europe/Madrid
+336,978,Calle Villabáñez 19 Iglesia San Ignacio de Loyola,Parada,41.6493276839746,-4.70907248590463,,http://www.auvasa.es/mapa-de-servicios/?parada=336,,,Europe/Madrid
 337,982,Calle Villabáñez 55 esquina Golondrina,Parada,41.6480730442412,-4.70539700168663,,http://www.auvasa.es/mapa-de-servicios/?parada=337,,,Europe/Madrid
 338,984,Calle Doctor Villacián frente 5 frente Mariano de los Cobos,Parada,41.6386198289753,-4.74973874517403,,http://www.auvasa.es/mapa-de-servicios/?parada=338,,,Europe/Madrid
 339,985,Calle Doctor Villacián Monasterio de Prado,Parada,41.6393450668374,-4.74675268652964,,http://www.auvasa.es/mapa-de-servicios/?parada=339,,,Europe/Madrid

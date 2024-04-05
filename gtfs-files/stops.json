@@ -4628,6 +4628,19 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
+    "stop_id": "139",
+    "stop_code": "743",
+    "stop_name": "Calle Adolfo Miaja de la Muela 6 esquina Hernando de Acuña",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6375940654986",
+    "stop_lon": "-4.75407993336975",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=139",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
     "stop_id": "140",
     "stop_code": "744",
     "stop_name": "Calle Mieses frente 40",
@@ -7028,6 +7041,19 @@
     "stop_lon": "-4.70179899747423",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=335",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "336",
+    "stop_code": "978",
+    "stop_name": "Calle Villabáñez 19 Iglesia San Ignacio de Loyola",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6493276839746",
+    "stop_lon": "-4.70907248590463",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=336",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
