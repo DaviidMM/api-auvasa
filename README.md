@@ -129,6 +129,8 @@ curl -X GET http://localhost:3000/v2/busPosition/:tripId
 
 Reemplaza `:tripId` con el ID del viaje del autobús que deseas consultar, por ejemplo `L4A2_L4A1_13`.
 
+Este endpoint también incluye un campo `ocupacion`  y `velocidad` con el estado actual del vehículo.
+
 ### Consulta de geojson de ubicación de paradas para un viaje
 
 Para obtener el geojson de las paradas de un viaje, utiliza el siguiente endpoint:
