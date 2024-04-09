@@ -3396,7 +3396,7 @@
     "route_id": "24",
     "service_id": "L24A1_L24A1",
     "trip_id": "L24A1_L24A1_32",
-    "trip_headsign": "Feria Vall",
+    "trip_headsign": "FERIA VALL",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_182"
@@ -25589,29 +25589,11 @@
   {
     "route_id": "18",
     "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_16",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
     "trip_id": "L18A1_L18A1_17",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_90"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_18",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
   },
   {
     "route_id": "18",
@@ -25625,29 +25607,11 @@
   {
     "route_id": "18",
     "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_20",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
     "trip_id": "L18A1_L18A1_21",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_90"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_22",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
   },
   {
     "route_id": "18",
@@ -25661,29 +25625,11 @@
   {
     "route_id": "18",
     "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_24",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
     "trip_id": "L18A1_L18A1_25",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_90"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_26",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
   },
   {
     "route_id": "18",
@@ -25697,29 +25643,11 @@
   {
     "route_id": "18",
     "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_28",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
     "trip_id": "L18A1_L18A1_29",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_90"
-  },
-  {
-    "route_id": "18",
-    "service_id": "L18A1_L18A1",
-    "trip_id": "L18A1_L18A1_30",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_89"
   },
   {
     "route_id": "18",

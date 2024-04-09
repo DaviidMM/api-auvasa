@@ -4342,19 +4342,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "116",
-    "stop_code": "708",
-    "stop_name": "Calle Labradores 45 esquina Niña Guapa",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6453730450718",
-    "stop_lon": "-4.72062899764126",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=116",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "118",
     "stop_code": "711",
     "stop_name": "Paseo Arco Ladrillo 31 esquina Paseo Farnesio",
@@ -5217,8 +5204,8 @@
     "stop_code": "807",
     "stop_name": "Plaza Caño Argales",
     "stop_desc": "Parada",
-    "stop_lat": "41.6460331821677",
-    "stop_lon": "-4.72291371456922",
+    "stop_lat": "41.6460115272296",
+    "stop_lon": "-4.7228913010056",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=188",
     "location_type": "",
@@ -6131,19 +6118,6 @@
     "stop_lon": "-4.72165988849013",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=259",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
-    "stop_id": "260",
-    "stop_code": "887",
-    "stop_name": "Avenida Segovia esquina Trabajo",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6417580450052",
-    "stop_lon": "-4.72075400508395",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=260",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
