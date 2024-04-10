@@ -15009,7 +15009,7 @@
     "trip_headsign": "PZA. ESPAÑA",
     "direction_id": "1",
     "block_id": "",
-    "shape_id": "Route_93"
+    "shape_id": "Route_185"
   },
   {
     "route_id": "23",
@@ -15545,65 +15545,11 @@
   {
     "route_id": "74",
     "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_3",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_4",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
     "trip_id": "LB4_LB4A1C1_5",
     "trip_headsign": "PUENTE DUERO",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_2",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_3",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_4",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_5",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
   },
   {
     "route_id": "75",
@@ -15738,7 +15684,7 @@
     "trip_headsign": "PZA. ESPAÑA",
     "direction_id": "1",
     "block_id": "",
-    "shape_id": "Route_93"
+    "shape_id": "Route_185"
   },
   {
     "route_id": "23",

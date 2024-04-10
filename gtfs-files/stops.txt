@@ -56,8 +56,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 408,1163,Calle Estación del Norte RENFE,Parada,41.643250885542,-4.7269143209713,,http://www.auvasa.es/mapa-de-servicios/?parada=408,,,Europe/Madrid
 409,1164,Paseo Jardín Botánico esquina Brezo,Parada,41.672766433045,-4.73055000396716,,http://www.auvasa.es/mapa-de-servicios/?parada=409,,,Europe/Madrid
 410,1165,Calle Jara esquina Hierbabuena,Parada,41.6709069776056,-4.73053126918975,,http://www.auvasa.es/mapa-de-servicios/?parada=410,,,Europe/Madrid
-411,1166,Avenida Salamanca esquina Doctor Villacián,Parada,41.6384995728461,-4.74621293257122,,http://www.auvasa.es/mapa-de-servicios/?parada=411,,,Europe/Madrid
-412,1167,Calle Vinos de Rueda esquina Cañada Real,Parada,41.6165613402156,-4.75277307188823,,http://www.auvasa.es/mapa-de-servicios/?parada=412,,,Europe/Madrid
 413,1168,Camino Viejo Simancas 15 esquina Vereda,Parada,41.6273438123642,-4.74564367716578,,http://www.auvasa.es/mapa-de-servicios/?parada=413,,,Europe/Madrid
 414,1169,Avenida Salamanca esquina Puente Juan de Austria,Parada,41.6392319620445,-4.74515937618469,,http://www.auvasa.es/mapa-de-servicios/?parada=414,,,Europe/Madrid
 415,1170,Calle Santa María de la Cabeza frente 39,Parada,41.6466013009608,-4.69960331734697,,http://www.auvasa.es/mapa-de-servicios/?parada=415,,,Europe/Madrid
