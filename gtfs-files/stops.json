@@ -78,6 +78,19 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
+    "stop_id": "357",
+    "stop_code": "1025",
+    "stop_name": "Plaza Poniente frente San Lorenzo",
+    "stop_desc": "Parada",
+    "stop_lat": "41.652707040874",
+    "stop_lon": "-4.73115100392404",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=357",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
     "stop_id": "358",
     "stop_code": "1038",
     "stop_name": "Paseo Zorrilla 187 esquina Vinos Vega Sicilia",
@@ -736,6 +749,32 @@
     "stop_lon": "-4.73053126918975",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=410",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "411",
+    "stop_code": "1166",
+    "stop_name": "Avenida Salamanca esquina Doctor Villacián",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6384995728461",
+    "stop_lon": "-4.74621293257122",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=411",
+    "location_type": "",
+    "parent_station": "",
+    "stop_timezone": "Europe/Madrid"
+  },
+  {
+    "stop_id": "412",
+    "stop_code": "1167",
+    "stop_name": "Calle Vinos de Rueda esquina Cañada Real",
+    "stop_desc": "Parada",
+    "stop_lat": "41.6165613402156",
+    "stop_lon": "-4.75277307188823",
+    "zone_id": "",
+    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=412",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
