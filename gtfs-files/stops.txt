@@ -5,6 +5,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 353,1003,Paseo Zorrilla 52 esquina Paseo Hospital Militar,Parada,41.6437868696237,-4.73556142304993,,http://www.auvasa.es/mapa-de-servicios/?parada=353,,,Europe/Madrid
 355,1006,Calle Lucio Zumel esquina Avenida Soria,Parada,41.613388139184,-4.68877305291374,,http://www.auvasa.es/mapa-de-servicios/?parada=355,,,Europe/Madrid
 356,1007,Calle Doctrinos 12 esquina María de Molina,Parada,41.64940703773,-4.73116000429171,,http://www.auvasa.es/mapa-de-servicios/?parada=356,,,Europe/Madrid
+357,1025,Plaza Poniente frente San Lorenzo,Parada,41.652707040874,-4.73115100392404,,http://www.auvasa.es/mapa-de-servicios/?parada=357,,,Europe/Madrid
 358,1038,Paseo Zorrilla 187 esquina Vinos Vega Sicilia,Parada,41.6196465271162,-4.74790558854684,,http://www.auvasa.es/mapa-de-servicios/?parada=358,,,Europe/Madrid
 359,1039,Paseo Zorrilla 346 esquina Vinos Ribera de Duero,Parada,41.6194764746951,-4.74826800226399,,http://www.auvasa.es/mapa-de-servicios/?parada=359,,,Europe/Madrid
 360,1043,Paseo Zorrilla 203 esquina Vinos de Cigales,Parada,41.6170100490037,-4.74814126863808,,http://www.auvasa.es/mapa-de-servicios/?parada=360,,,Europe/Madrid
@@ -333,7 +334,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 113,703,Paseo Juan Carlos I 109,Parada,41.6513646984341,-4.70434235456534,,http://www.auvasa.es/mapa-de-servicios/?parada=113,,,Europe/Madrid
 114,706,Calle Labradores 1 esquina Plaza Cruz Verde,Parada,41.648057914477,-4.72052141254072,,http://www.auvasa.es/mapa-de-servicios/?parada=114,,,Europe/Madrid
 115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6454713607064,-4.72250372180281,,http://www.auvasa.es/mapa-de-servicios/?parada=115,,,Europe/Madrid
-116,708,Calle Labradores 45 esquina Niña Guapa,Parada,41.6453730450718,-4.72062899764126,,http://www.auvasa.es/mapa-de-servicios/?parada=116,,,Europe/Madrid
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,Parada,41.6378181073737,-4.73001918004244,,http://www.auvasa.es/mapa-de-servicios/?parada=118,,,Europe/Madrid
 119,715,Avenida Julián Merino Lápice Piscinas Municipales,Parada,41.6102179562615,-4.68229356601798,,http://www.auvasa.es/mapa-de-servicios/?parada=119,,,Europe/Madrid
 120,716,Calle Bajada de La Libertad 10 frente Teatro Calderón,Parada,41.6535601831311,-4.72442701838852,,http://www.auvasa.es/mapa-de-servicios/?parada=120,,,Europe/Madrid
@@ -400,7 +400,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 185,803,Plaza Juan de Austria frente Centro Comercial,Parada,41.6379620332542,-4.74022327105473,,http://www.auvasa.es/mapa-de-servicios/?parada=185,,,Europe/Madrid
 186,804,Plaza Juan de Austria Centro Comercial,Parada,41.6376910142079,-4.74034196211913,,http://www.auvasa.es/mapa-de-servicios/?parada=186,,,Europe/Madrid
 187,805,Avenida Gijón 1 esquina Plaza San Bartolomé,Parada,41.660415500507,-4.73498650892178,,http://www.auvasa.es/mapa-de-servicios/?parada=187,,,Europe/Madrid
-188,807,Plaza Caño Argales,Parada,41.6460331821677,-4.72291371456922,,http://www.auvasa.es/mapa-de-servicios/?parada=188,,,Europe/Madrid
+188,807,Plaza Caño Argales,Parada,41.6460115272296,-4.7228913010056,,http://www.auvasa.es/mapa-de-servicios/?parada=188,,,Europe/Madrid
 189,808,Plaza Circular 11 Iglesia Corazón de María,Parada,41.646771378011,-4.71714061880288,,http://www.auvasa.es/mapa-de-servicios/?parada=189,,,Europe/Madrid
 190,809,Plaza Circular 7 esquina Industrias,Parada,41.6473440386642,-4.71641899559366,,http://www.auvasa.es/mapa-de-servicios/?parada=190,,,Europe/Madrid
 191,811,Plaza Cruz Verde 5,Parada,41.6481013731797,-4.71999806858758,,http://www.auvasa.es/mapa-de-servicios/?parada=191,,,Europe/Madrid
@@ -471,7 +471,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 257,884,Carretera Segovia frente Colegio Hijas de Jesús,Parada,41.626324092917,-4.71814513215201,,http://www.auvasa.es/mapa-de-servicios/?parada=257,,,Europe/Madrid
 258,885,Avenida Segovia frente 57,Parada,41.6412049762127,-4.72070068488161,,http://www.auvasa.es/mapa-de-servicios/?parada=258,,,Europe/Madrid
 259,886,Avenida Segovia Iglesia del Carmen,Parada,41.6376558598928,-4.72165988849013,,http://www.auvasa.es/mapa-de-servicios/?parada=259,,,Europe/Madrid
-260,887,Avenida Segovia esquina Trabajo,Parada,41.6417580450052,-4.72075400508395,,http://www.auvasa.es/mapa-de-servicios/?parada=260,,,Europe/Madrid
 261,888,Carretera Segovia Colegio Hijas de Jesús,Parada,41.6268904114045,-4.71774386046916,,http://www.auvasa.es/mapa-de-servicios/?parada=261,,,Europe/Madrid
 262,889,Avenida Segovia 161 frente Hornija,Parada,41.6327707221137,-4.72073211108914,,http://www.auvasa.es/mapa-de-servicios/?parada=262,,,Europe/Madrid
 263,890,Avenida Segovia 57 esquina Paseo San Vicente,Parada,41.6409939668529,-4.72033521479802,,http://www.auvasa.es/mapa-de-servicios/?parada=263,,,Europe/Madrid
