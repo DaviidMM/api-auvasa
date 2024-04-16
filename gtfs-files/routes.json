@@ -559,16 +559,5 @@
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=952",
     "route_color": "FF3067",
     "route_text_color": "000000"
-  },
-  {
-    "route_id": "1011",
-    "agency_id": "101",
-    "route_short_name": "SL",
-    "route_long_name": "Lanzadera Monoloco Fest",
-    "route_desc": "",
-    "route_type": "3",
-    "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=1011",
-    "route_color": "000000",
-    "route_text_color": "FFFFFF"
   }
 ]

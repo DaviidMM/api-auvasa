@@ -14554,8 +14554,8 @@
   },
   {
     "route_id": "18",
-    "service_id": "RR_SA_RL18_1437",
-    "trip_id": "RR_SA_RL18_1437_2",
+    "service_id": "RR_SA_RL18_1400",
+    "trip_id": "RR_SA_RL18_1400_3",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
@@ -15760,8 +15760,8 @@
   },
   {
     "route_id": "18",
-    "service_id": "RR_SAV_RL18_1437",
-    "trip_id": "RR_SAV_RL18_1437_2",
+    "service_id": "RR_SAV_RL18_1400",
+    "trip_id": "RR_SAV_RL18_1400_3",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
