@@ -5,6 +5,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 353,1003,Paseo Zorrilla 52 esquina Paseo Hospital Militar,Parada,41.6437868696237,-4.73556142304993,,http://www.auvasa.es/mapa-de-servicios/?parada=353,,,Europe/Madrid
 355,1006,Calle Lucio Zumel esquina Avenida Soria,Parada,41.613388139184,-4.68877305291374,,http://www.auvasa.es/mapa-de-servicios/?parada=355,,,Europe/Madrid
 356,1007,Calle Doctrinos 12 esquina María de Molina,Parada,41.64940703773,-4.73116000429171,,http://www.auvasa.es/mapa-de-servicios/?parada=356,,,Europe/Madrid
+357,1025,Plaza Poniente frente San Lorenzo,Parada,41.652707040874,-4.73115100392404,,http://www.auvasa.es/mapa-de-servicios/?parada=357,,,Europe/Madrid
 358,1038,Paseo Zorrilla 187 esquina Vinos Vega Sicilia,Parada,41.6196465271162,-4.74790558854684,,http://www.auvasa.es/mapa-de-servicios/?parada=358,,,Europe/Madrid
 359,1039,Paseo Zorrilla 346 esquina Vinos Ribera de Duero,Parada,41.6194764746951,-4.74826800226399,,http://www.auvasa.es/mapa-de-servicios/?parada=359,,,Europe/Madrid
 360,1043,Paseo Zorrilla 203 esquina Vinos de Cigales,Parada,41.6170100490037,-4.74814126863808,,http://www.auvasa.es/mapa-de-servicios/?parada=360,,,Europe/Madrid
