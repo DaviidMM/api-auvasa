@@ -1164,7 +1164,7 @@
     "route_id": "18",
     "service_id": "L18A6_L18A4",
     "trip_id": "L18A6_L18A4_12",
-    "trip_headsign": "CIRCULAR",
+    "trip_headsign": "PZA CIRCULAR",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_187"
@@ -16752,7 +16752,7 @@
     "route_id": "18",
     "service_id": "L18A6S_L18A4",
     "trip_id": "L18A6S_L18A4_12",
-    "trip_headsign": "CIRCULAR",
+    "trip_headsign": "PZA CIRCULAR",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_187"
@@ -26148,7 +26148,7 @@
     "route_id": "19",
     "service_id": "L19A3_L19A1",
     "trip_id": "L19A3_L19A1_12",
-    "trip_headsign": "CIRCULAR",
+    "trip_headsign": "PZA CIRCULAR",
     "direction_id": "0",
     "block_id": "",
     "shape_id": "Route_190"

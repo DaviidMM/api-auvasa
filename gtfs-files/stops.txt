@@ -409,7 +409,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 194,814,Plaza España 12 Iglesia Capuchinos,Parada,41.6487147575976,-4.72486888224501,,http://www.auvasa.es/mapa-de-servicios/?parada=194,,,Europe/Madrid
 195,815,Plaza España 13 frente Bola del Mundo,Parada,41.6486789883344,-4.72522043393598,,http://www.auvasa.es/mapa-de-servicios/?parada=195,,,Europe/Madrid
 196,816,Plaza Carmen Ferreiro,Parada,41.6676742321334,-4.70687015279278,,http://www.auvasa.es/mapa-de-servicios/?parada=196,,,Europe/Madrid
-197,817,Plaza Doctor Jiménez Díaz esquina Penitencia,Parada,41.6594593596245,-4.71553223619398,,http://www.auvasa.es/mapa-de-servicios/?parada=197,,,Europe/Madrid
 198,818,Plaza Madrid 2,Parada,41.6481450383894,-4.72548199479114,,http://www.auvasa.es/mapa-de-servicios/?parada=198,,,Europe/Madrid
 199,819,Plaza Mayor frente 29 (La Cistérniga),Parada,41.6120791710353,-4.68617923875876,,http://www.auvasa.es/mapa-de-servicios/?parada=199,,,Europe/Madrid
 200,820,Plaza Mayor 29 (La Cistérniga),Parada,41.6119516782602,-4.6862865564907,,http://www.auvasa.es/mapa-de-servicios/?parada=200,,,Europe/Madrid
