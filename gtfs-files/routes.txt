@@ -30,11 +30,11 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 61,101,PSC1,Parquesol - Polígono Argales - Polígono San Cristóbal,,3,http://www.auvasa.es/mapa-de-servicios/?linea=61,792B37,FFFFFF
 62,101,PSC2,Rondilla - Pajarillos - Polígono San Cristóbal,,3,http://www.auvasa.es/mapa-de-servicios/?linea=62,792B37,FFFFFF
 63,101,PSC3,Las Flores - Delicias - Polígono Argales - Parquesol,,3,http://www.auvasa.es/mapa-de-servicios/?linea=63,792B37,FFFFFF
-71,101,B1,Covaresa - Fuente Dorada - San Pedro Regalado,,3,http://www.auvasa.es/mapa-de-servicios/?linea=71,2B2B2D,FFFFFF
-72,101,B2,Delicias - Doctrinos - La Victoria,,3,http://www.auvasa.es/mapa-de-servicios/?linea=72,2B2B2D,FFFFFF
-73,101,B3,Parquesol - Fuente Dorada - Las Flores,,3,http://www.auvasa.es/mapa-de-servicios/?linea=73,2B2B2D,FFFFFF
-74,101,B4,Plaza Zorrilla - Camino Viejo Simancas,,3,http://www.auvasa.es/mapa-de-servicios/?linea=74,2B2B2D,FFFFFF
-75,101,B5,Duque de la Victoria - La Cistérniga,,3,http://www.auvasa.es/mapa-de-servicios/?linea=75,2B2B2D,FFFFFF
+71,101,B1,Covaresa - Fuente Dorada - San Pedro Regalado,,3,http://www.auvasa.es/mapa-de-servicios/?linea=71,236B1F,FFFFFF
+72,101,B2,Delicias - Doctrinos - La Victoria,,3,http://www.auvasa.es/mapa-de-servicios/?linea=72,9A7708,FFFFFF
+73,101,B3,Parquesol - Fuente Dorada - Las Flores,,3,http://www.auvasa.es/mapa-de-servicios/?linea=73,A84400,FFFFFF
+74,101,B4,Plaza Zorrilla - Camino Viejo Simancas,,3,http://www.auvasa.es/mapa-de-servicios/?linea=74,175D5B,FFFFFF
+75,101,B5,Duque de la Victoria - La Cistérniga,,3,http://www.auvasa.es/mapa-de-servicios/?linea=75,910D55,FFFFFF
 81,101,F1,Covaresa - Rubia - Arturo Eyries - Estadio,,3,http://www.auvasa.es/mapa-de-servicios/?linea=81,006D38,FFFFFF
 82,101,F2,Cister-Delici-Circular-Estaciones-Pza. Juan  Austria-Estadio,,3,http://www.auvasa.es/mapa-de-servicios/?linea=82,006D38,FFFFFF
 83,101,F3,Las Flores - Pajarillos - Doctrinos - Estadio,,3,http://www.auvasa.es/mapa-de-servicios/?linea=83,006D38,FFFFFF
@@ -50,4 +50,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 407,101,M7,La Cistérniga - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=407,532FA2,FFFFFF
 951,101,U1,Covaresa - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/mapa-de-servicios/?linea=951,FF3067,000000
 952,101,U8,Parquesol - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/mapa-de-servicios/?linea=952,FF3067,000000
-1011,101,AH,Lanzadera Antigua Hípica,,3,http://www.auvasa.es/mapa-de-servicios/?linea=1011,000000,FFFFFF
+1011,101,SL,Lanzadera Monoloco Fest,,3,http://www.auvasa.es/mapa-de-servicios/?linea=1011,000000,FFFFFF
