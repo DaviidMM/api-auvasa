@@ -3403,8 +3403,8 @@
   },
   {
     "route_id": "26",
-    "service_id": "L26LJA1_L26_0830",
-    "trip_id": "L26LJA1_L26_0830_2",
+    "service_id": "L26VA1_L26_0830",
+    "trip_id": "L26VA1_L26_0830_2",
     "trip_headsign": "COL. S. J. DIOS",
     "direction_id": "0",
     "block_id": "",
@@ -3412,8 +3412,8 @@
   },
   {
     "route_id": "26",
-    "service_id": "L26LJA1_L26_0930",
-    "trip_id": "L26LJA1_L26_0930_2",
+    "service_id": "L26VA1_L26_0930",
+    "trip_id": "L26VA1_L26_0930_2",
     "trip_headsign": "COL. S. J. DIOS",
     "direction_id": "0",
     "block_id": "",
@@ -3421,8 +3421,8 @@
   },
   {
     "route_id": "26",
-    "service_id": "L26LJA1_L26_1700",
-    "trip_id": "L26LJA1_L26_1700_2",
+    "service_id": "L26VA1_L26_1500",
+    "trip_id": "L26VA1_L26_1500_2",
     "trip_headsign": "PZA. ESPAÑA",
     "direction_id": "1",
     "block_id": "",
@@ -3430,8 +3430,8 @@
   },
   {
     "route_id": "26",
-    "service_id": "L26LJA1_L26_1800",
-    "trip_id": "L26LJA1_L26_1800_2",
+    "service_id": "L26VA1_L26_1600",
+    "trip_id": "L26VA1_L26_1600_2",
     "trip_headsign": "PZA. ESPAÑA",
     "direction_id": "1",
     "block_id": "",
@@ -12276,6 +12276,366 @@
     "shape_id": "Route_30"
   },
   {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_98"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_59"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_60"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_5",
+    "trip_headsign": "OVERUELA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_97"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_59"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_60"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_59"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_60"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_2",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_99"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_62"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_4",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_61"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_5",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_100"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_2",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_102"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_3",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_61"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_4",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_62"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_5",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_101"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_2",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_4",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_4",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_5",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_104"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_3",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_65"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_4",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_66"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_5",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_103"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_2",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_65"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_3",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_66"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_4",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_65"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_5",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_66"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_2",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_4",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_6",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_8",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
     "route_id": "21",
     "service_id": "LC1B9_LC1A1",
     "trip_id": "LC1B9_LC1A1_2",
@@ -14509,8 +14869,8 @@
   },
   {
     "route_id": "1",
-    "service_id": "RR_SA_RL1_1345",
-    "trip_id": "RR_SA_RL1_1345_2",
+    "service_id": "RR_SAV_RL1_1345",
+    "trip_id": "RR_SAV_RL1_1345_2",
     "trip_headsign": "COVARESA",
     "direction_id": "0",
     "block_id": "",
@@ -14518,8 +14878,8 @@
   },
   {
     "route_id": "1",
-    "service_id": "RR_SA_RL1_1355",
-    "trip_id": "RR_SA_RL1_1355_2",
+    "service_id": "RR_SAV_RL1_1355",
+    "trip_id": "RR_SAV_RL1_1355_2",
     "trip_headsign": "COVARESA",
     "direction_id": "0",
     "block_id": "",
@@ -14527,8 +14887,8 @@
   },
   {
     "route_id": "1",
-    "service_id": "RR_SA_RL1_1405",
-    "trip_id": "RR_SA_RL1_1405_2",
+    "service_id": "RR_SAV_RL1_1405",
+    "trip_id": "RR_SAV_RL1_1405_2",
     "trip_headsign": "COVARESA",
     "direction_id": "0",
     "block_id": "",
@@ -14536,8 +14896,8 @@
   },
   {
     "route_id": "18",
-    "service_id": "RR_SA_RL18_1358",
-    "trip_id": "RR_SA_RL18_1358_2",
+    "service_id": "RR_SAV_RL18_1358",
+    "trip_id": "RR_SAV_RL18_1358_2",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
@@ -14545,8 +14905,8 @@
   },
   {
     "route_id": "18",
-    "service_id": "RR_SA_RL18_1400",
-    "trip_id": "RR_SA_RL18_1400_2",
+    "service_id": "RR_SAV_RL18_1400",
+    "trip_id": "RR_SAV_RL18_1400_2",
     "trip_headsign": "PUENTE DUERO",
     "direction_id": "1",
     "block_id": "",
@@ -14554,8 +14914,8 @@
   },
   {
     "route_id": "18",
-    "service_id": "RR_SA_RL18_1400",
-    "trip_id": "RR_SA_RL18_1400_3",
+    "service_id": "RR_SAV_RL18_1400",
+    "trip_id": "RR_SAV_RL18_1400_3",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
@@ -14563,8 +14923,8 @@
   },
   {
     "route_id": "19",
-    "service_id": "RR_SA_RL19_1430",
-    "trip_id": "RR_SA_RL19_1430_2",
+    "service_id": "RR_SAV_RL19_1430",
+    "trip_id": "RR_SAV_RL19_1430_2",
     "trip_headsign": "CISTERNIGA",
     "direction_id": "0",
     "block_id": "",
@@ -14572,8 +14932,8 @@
   },
   {
     "route_id": "22",
-    "service_id": "RR_SA_RL22_1405",
-    "trip_id": "RR_SA_RL22_1405_2",
+    "service_id": "RR_SAV_RL22_1405",
+    "trip_id": "RR_SAV_RL22_1405_2",
     "trip_headsign": "CIRCULAR 2",
     "direction_id": "0",
     "block_id": "",
@@ -14581,8 +14941,8 @@
   },
   {
     "route_id": "23",
-    "service_id": "RR_SA_RL23_1605",
-    "trip_id": "RR_SA_RL23_1605_2",
+    "service_id": "RR_SAV_RL23_1605",
+    "trip_id": "RR_SAV_RL23_1605_2",
     "trip_headsign": "COVARESA-CAN",
     "direction_id": "0",
     "block_id": "",
@@ -14590,8 +14950,8 @@
   },
   {
     "route_id": "23",
-    "service_id": "RR_SA_RL23_1605",
-    "trip_id": "RR_SA_RL23_1605_3",
+    "service_id": "RR_SAV_RL23_1605",
+    "trip_id": "RR_SAV_RL23_1605_3",
     "trip_headsign": "ZORRILLA 71",
     "direction_id": "1",
     "block_id": "",
@@ -14599,8 +14959,8 @@
   },
   {
     "route_id": "23",
-    "service_id": "RR_SA_RL23_2120",
-    "trip_id": "RR_SA_RL23_2120_2",
+    "service_id": "RR_SAV_RL23_2120",
+    "trip_id": "RR_SAV_RL23_2120_2",
     "trip_headsign": "COVARESA-CAN",
     "direction_id": "0",
     "block_id": "",
@@ -14608,35 +14968,17 @@
   },
   {
     "route_id": "23",
-    "service_id": "RR_SA_RL23_2120",
-    "trip_id": "RR_SA_RL23_2120_3",
+    "service_id": "RR_SAV_RL23_2120",
+    "trip_id": "RR_SAV_RL23_2120_3",
     "trip_headsign": "ZORRILLA 71",
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_40"
-  },
-  {
-    "route_id": "26",
-    "service_id": "RR_SA_RL26_1700",
-    "trip_id": "RR_SA_RL26_1700_2",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_42"
-  },
-  {
-    "route_id": "26",
-    "service_id": "RR_SA_RL26_1800",
-    "trip_id": "RR_SA_RL26_1800_2",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_42"
   },
   {
     "route_id": "3",
-    "service_id": "RR_SA_RL3_1405",
-    "trip_id": "RR_SA_RL3_1405_2",
+    "service_id": "RR_SAV_RL3_1405",
+    "trip_id": "RR_SAV_RL3_1405_2",
     "trip_headsign": "LAS FLORES",
     "direction_id": "1",
     "block_id": "",
@@ -14644,8 +14986,8 @@
   },
   {
     "route_id": "8",
-    "service_id": "RR_SA_RL8_1303",
-    "trip_id": "RR_SA_RL8_1303_2",
+    "service_id": "RR_SAV_RL8_1303",
+    "trip_id": "RR_SAV_RL8_1303_2",
     "trip_headsign": "PARQUESOL",
     "direction_id": "1",
     "block_id": "",
@@ -14653,8 +14995,8 @@
   },
   {
     "route_id": "8",
-    "service_id": "RR_SA_RL8_1400",
-    "trip_id": "RR_SA_RL8_1400_2",
+    "service_id": "RR_SAV_RL8_1400",
+    "trip_id": "RR_SAV_RL8_1400_2",
     "trip_headsign": "PARQUESOL",
     "direction_id": "1",
     "block_id": "",
@@ -14662,8 +15004,8 @@
   },
   {
     "route_id": "9",
-    "service_id": "RR_SA_RL9_1410",
-    "trip_id": "RR_SA_RL9_1410_2",
+    "service_id": "RR_SAV_RL9_1410",
+    "trip_id": "RR_SAV_RL9_1410_2",
     "trip_headsign": "PARQUESOL",
     "direction_id": "1",
     "block_id": "",
@@ -14671,8 +15013,8 @@
   },
   {
     "route_id": "9",
-    "service_id": "RR_SA_RL9_1430",
-    "trip_id": "RR_SA_RL9_1430_2",
+    "service_id": "RR_SAV_RL9_1430",
+    "trip_id": "RR_SAV_RL9_1430_2",
     "trip_headsign": "PARQUESOL",
     "direction_id": "1",
     "block_id": "",
@@ -14680,8 +15022,8 @@
   },
   {
     "route_id": "35",
-    "service_id": "RR_SA_RLH_2212",
-    "trip_id": "RR_SA_RLH_2212_2",
+    "service_id": "RR_SAV_RLH_2212",
+    "trip_id": "RR_SAV_RLH_2212_2",
     "trip_headsign": "ZORRILLA 71",
     "direction_id": "0",
     "block_id": "",
@@ -14749,33 +15091,6 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_180"
-  },
-  {
-    "route_id": "401",
-    "service_id": "T41LJ_T41A1",
-    "trip_id": "T41LJ_T41A1_2",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_43"
-  },
-  {
-    "route_id": "3",
-    "service_id": "T41LJ_T41A1",
-    "trip_id": "T41LJ_T41A1_3",
-    "trip_headsign": "GIRON",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_108"
-  },
-  {
-    "route_id": "21",
-    "service_id": "T41LJ_T41A1",
-    "trip_id": "T41LJ_T41A1_4",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
   },
   {
     "route_id": "41",
@@ -14983,888 +15298,6 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_145"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T61LJ_T61_01",
-    "trip_id": "T61LJ_T61_01_3",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_32"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T61LJ_T61_01",
-    "trip_id": "T61LJ_T61_01_4",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_31"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T61LJ_T61_01",
-    "trip_id": "T61LJ_T61_01_5",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_32"
-  },
-  {
-    "route_id": "21",
-    "service_id": "T61LJ_T61_01",
-    "trip_id": "T61LJ_T61_01_8",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "407",
-    "service_id": "T61LJ_T61_02",
-    "trip_id": "T61LJ_T61_02_2",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_49"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T61LJ_T61_02",
-    "trip_id": "T61LJ_T61_02_3",
-    "trip_headsign": "PGNO. LA MORA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_87"
-  },
-  {
-    "route_id": "19",
-    "service_id": "T61LJ_T61_02",
-    "trip_id": "T61LJ_T61_02_4",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_185"
-  },
-  {
-    "route_id": "23",
-    "service_id": "T61LJ_T61_02",
-    "trip_id": "T61LJ_T61_02_5",
-    "trip_headsign": "COVARESA-CAN",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_39"
-  },
-  {
-    "route_id": "23",
-    "service_id": "T61LJ_T61_02",
-    "trip_id": "T61LJ_T61_02_6",
-    "trip_headsign": "ZORRILLA 71",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_40"
-  },
-  {
-    "route_id": "405",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_3",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_47"
-  },
-  {
-    "route_id": "23",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_4",
-    "trip_headsign": "ZORRILLA 71",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_40"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_5",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_33"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_6",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_32"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_9",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_33"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_10",
-    "trip_headsign": "RONDILLA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_34"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T61LJ_T61_03",
-    "trip_id": "T61LJ_T61_03_11",
-    "trip_headsign": "PGNO. S. CRIST",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_33"
-  },
-  {
-    "route_id": "21",
-    "service_id": "T61LJ_T61_04",
-    "trip_id": "T61LJ_T61_04_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "951",
-    "service_id": "T61LJ_T61_05",
-    "trip_id": "T61LJ_T61_05_3",
-    "trip_headsign": "UNIVERSIDAD",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_81"
-  },
-  {
-    "route_id": "406",
-    "service_id": "T62LJ_T62A01",
-    "trip_id": "T62LJ_T62A01_2",
-    "trip_headsign": "FUENTE DORADA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_48"
-  },
-  {
-    "route_id": "5",
-    "service_id": "T62LJ_T62A01",
-    "trip_id": "T62LJ_T62A01_3",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_18"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_T62A01",
-    "trip_id": "T62LJ_T62A01_7",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_31"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_T62A01",
-    "trip_id": "T62LJ_T62A01_8",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_32"
-  },
-  {
-    "route_id": "17",
-    "service_id": "T62LJ_T62A01",
-    "trip_id": "T62LJ_T62A01_9",
-    "trip_headsign": "RONDILLA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_34"
-  },
-  {
-    "route_id": "404",
-    "service_id": "T62LJ_T62A02",
-    "trip_id": "T62LJ_T62A02_2",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_46"
-  },
-  {
-    "route_id": "5",
-    "service_id": "T62LJ_T62A02",
-    "trip_id": "T62LJ_T62A02_5",
-    "trip_headsign": "SANTA ANA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_180"
-  },
-  {
-    "route_id": "8",
-    "service_id": "T62LJ_T62A02",
-    "trip_id": "T62LJ_T62A02_8",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_4"
-  },
-  {
-    "route_id": "5",
-    "service_id": "T62LJ_T62A02",
-    "trip_id": "T62LJ_T62A02_9",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_18"
-  },
-  {
-    "route_id": "22",
-    "service_id": "T62LJ_T62A03",
-    "trip_id": "T62LJ_T62A03_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "26",
-    "service_id": "T62LJ_T62A03",
-    "trip_id": "T62LJ_T62A03_3",
-    "trip_headsign": "COL. S. J. DIOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_41"
-  },
-  {
-    "route_id": "26",
-    "service_id": "T62LJ_T62A03",
-    "trip_id": "T62LJ_T62A03_4",
-    "trip_headsign": "COL. S. J. DIOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_41"
-  },
-  {
-    "route_id": "21",
-    "service_id": "T62LJ_T62A04",
-    "trip_id": "T62LJ_T62A04_5",
-    "trip_headsign": "CIRCULAR 1",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_152"
-  },
-  {
-    "route_id": "402",
-    "service_id": "T62LJ_T62A05",
-    "trip_id": "T62LJ_T62A05_2",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_44"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_T62A05",
-    "trip_id": "T62LJ_T62A05_3",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_32"
-  },
-  {
-    "route_id": "3",
-    "service_id": "T62LJ_T62A05",
-    "trip_id": "T62LJ_T62A05_4",
-    "trip_headsign": "C. CONTIENDAS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_106"
-  },
-  {
-    "route_id": "22",
-    "service_id": "T62LJ_T62A05",
-    "trip_id": "T62LJ_T62A05_7",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "13",
-    "service_id": "T62LJ_T62A05",
-    "trip_id": "T62LJ_T62A05_8",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_31"
-  },
-  {
-    "route_id": "26",
-    "service_id": "L26VA1_L26_0830",
-    "trip_id": "L26VA1_L26_0830_2",
-    "trip_headsign": "COL. S. J. DIOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_41"
-  },
-  {
-    "route_id": "26",
-    "service_id": "L26VA1_L26_0930",
-    "trip_id": "L26VA1_L26_0930_2",
-    "trip_headsign": "COL. S. J. DIOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_41"
-  },
-  {
-    "route_id": "26",
-    "service_id": "L26VA1_L26_1500",
-    "trip_id": "L26VA1_L26_1500_2",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_42"
-  },
-  {
-    "route_id": "26",
-    "service_id": "L26VA1_L26_1600",
-    "trip_id": "L26VA1_L26_1600_2",
-    "trip_headsign": "PZA. ESPAÑA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_42"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_2",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_98"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_3",
-    "trip_headsign": "SAN PEDRO R",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_59"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_4",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_60"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_5",
-    "trip_headsign": "OVERUELA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_97"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_2",
-    "trip_headsign": "SAN PEDRO R",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_59"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_3",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_60"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_4",
-    "trip_headsign": "SAN PEDRO R",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_59"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_5",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_60"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_2",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_99"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_3",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_62"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_4",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_61"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_5",
-    "trip_headsign": "PINAR JALON",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_100"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_2",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_102"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_3",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_61"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_4",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_62"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_5",
-    "trip_headsign": "FTE. BERROCAL",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_101"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_2",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_3",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_4",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_5",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_3",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_4",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_5",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_2",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_3",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_65"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_4",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_66"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_5",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_2",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_65"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_3",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_66"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_4",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_65"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_5",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_66"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_2",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_3",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_4",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_5",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_6",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_7",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_8",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_9",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "1",
-    "service_id": "RR_SAV_RL1_1345",
-    "trip_id": "RR_SAV_RL1_1345_2",
-    "trip_headsign": "COVARESA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_23"
-  },
-  {
-    "route_id": "1",
-    "service_id": "RR_SAV_RL1_1355",
-    "trip_id": "RR_SAV_RL1_1355_2",
-    "trip_headsign": "COVARESA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_23"
-  },
-  {
-    "route_id": "1",
-    "service_id": "RR_SAV_RL1_1405",
-    "trip_id": "RR_SAV_RL1_1405_2",
-    "trip_headsign": "COVARESA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_23"
-  },
-  {
-    "route_id": "18",
-    "service_id": "RR_SAV_RL18_1358",
-    "trip_id": "RR_SAV_RL18_1358_2",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_90"
-  },
-  {
-    "route_id": "18",
-    "service_id": "RR_SAV_RL18_1400",
-    "trip_id": "RR_SAV_RL18_1400_2",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_36"
-  },
-  {
-    "route_id": "18",
-    "service_id": "RR_SAV_RL18_1400",
-    "trip_id": "RR_SAV_RL18_1400_3",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_35"
-  },
-  {
-    "route_id": "19",
-    "service_id": "RR_SAV_RL19_1430",
-    "trip_id": "RR_SAV_RL19_1430_2",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_184"
-  },
-  {
-    "route_id": "22",
-    "service_id": "RR_SAV_RL22_1405",
-    "trip_id": "RR_SAV_RL22_1405_2",
-    "trip_headsign": "CIRCULAR 2",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_151"
-  },
-  {
-    "route_id": "23",
-    "service_id": "RR_SAV_RL23_1605",
-    "trip_id": "RR_SAV_RL23_1605_2",
-    "trip_headsign": "COVARESA-CAN",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_39"
-  },
-  {
-    "route_id": "23",
-    "service_id": "RR_SAV_RL23_1605",
-    "trip_id": "RR_SAV_RL23_1605_3",
-    "trip_headsign": "ZORRILLA 71",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_40"
-  },
-  {
-    "route_id": "23",
-    "service_id": "RR_SAV_RL23_2120",
-    "trip_id": "RR_SAV_RL23_2120_2",
-    "trip_headsign": "COVARESA-CAN",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_39"
-  },
-  {
-    "route_id": "23",
-    "service_id": "RR_SAV_RL23_2120",
-    "trip_id": "RR_SAV_RL23_2120_3",
-    "trip_headsign": "ZORRILLA 71",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_40"
-  },
-  {
-    "route_id": "3",
-    "service_id": "RR_SAV_RL3_1405",
-    "trip_id": "RR_SAV_RL3_1405_2",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_109"
-  },
-  {
-    "route_id": "8",
-    "service_id": "RR_SAV_RL8_1303",
-    "trip_id": "RR_SAV_RL8_1303_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_4"
-  },
-  {
-    "route_id": "8",
-    "service_id": "RR_SAV_RL8_1400",
-    "trip_id": "RR_SAV_RL8_1400_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_4"
-  },
-  {
-    "route_id": "9",
-    "service_id": "RR_SAV_RL9_1410",
-    "trip_id": "RR_SAV_RL9_1410_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_86"
-  },
-  {
-    "route_id": "9",
-    "service_id": "RR_SAV_RL9_1430",
-    "trip_id": "RR_SAV_RL9_1430_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_86"
-  },
-  {
-    "route_id": "35",
-    "service_id": "RR_SAV_RLH_2212",
-    "trip_id": "RR_SAV_RLH_2212_2",
-    "trip_headsign": "ZORRILLA 71",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_149"
   },
   {
     "route_id": "13",
@@ -30454,5 +29887,572 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_86"
+  },
+  {
+    "route_id": "26",
+    "service_id": "L26LJA1_L26_0830",
+    "trip_id": "L26LJA1_L26_0830_2",
+    "trip_headsign": "COL. S. J. DIOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_41"
+  },
+  {
+    "route_id": "26",
+    "service_id": "L26LJA1_L26_0930",
+    "trip_id": "L26LJA1_L26_0930_2",
+    "trip_headsign": "COL. S. J. DIOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_41"
+  },
+  {
+    "route_id": "26",
+    "service_id": "L26LJA1_L26_1700",
+    "trip_id": "L26LJA1_L26_1700_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_42"
+  },
+  {
+    "route_id": "26",
+    "service_id": "L26LJA1_L26_1800",
+    "trip_id": "L26LJA1_L26_1800_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_42"
+  },
+  {
+    "route_id": "1",
+    "service_id": "RR_SA_RL1_1345",
+    "trip_id": "RR_SA_RL1_1345_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_23"
+  },
+  {
+    "route_id": "1",
+    "service_id": "RR_SA_RL1_1355",
+    "trip_id": "RR_SA_RL1_1355_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_23"
+  },
+  {
+    "route_id": "1",
+    "service_id": "RR_SA_RL1_1405",
+    "trip_id": "RR_SA_RL1_1405_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_23"
+  },
+  {
+    "route_id": "18",
+    "service_id": "RR_SA_RL18_1358",
+    "trip_id": "RR_SA_RL18_1358_2",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_90"
+  },
+  {
+    "route_id": "18",
+    "service_id": "RR_SA_RL18_1400",
+    "trip_id": "RR_SA_RL18_1400_2",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_36"
+  },
+  {
+    "route_id": "18",
+    "service_id": "RR_SA_RL18_1400",
+    "trip_id": "RR_SA_RL18_1400_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_35"
+  },
+  {
+    "route_id": "19",
+    "service_id": "RR_SA_RL19_1430",
+    "trip_id": "RR_SA_RL19_1430_2",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_184"
+  },
+  {
+    "route_id": "22",
+    "service_id": "RR_SA_RL22_1405",
+    "trip_id": "RR_SA_RL22_1405_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "23",
+    "service_id": "RR_SA_RL23_1605",
+    "trip_id": "RR_SA_RL23_1605_2",
+    "trip_headsign": "COVARESA-CAN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_39"
+  },
+  {
+    "route_id": "23",
+    "service_id": "RR_SA_RL23_1605",
+    "trip_id": "RR_SA_RL23_1605_3",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
+  },
+  {
+    "route_id": "23",
+    "service_id": "RR_SA_RL23_2120",
+    "trip_id": "RR_SA_RL23_2120_2",
+    "trip_headsign": "COVARESA-CAN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_39"
+  },
+  {
+    "route_id": "23",
+    "service_id": "RR_SA_RL23_2120",
+    "trip_id": "RR_SA_RL23_2120_3",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
+  },
+  {
+    "route_id": "26",
+    "service_id": "RR_SA_RL26_1700",
+    "trip_id": "RR_SA_RL26_1700_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_42"
+  },
+  {
+    "route_id": "26",
+    "service_id": "RR_SA_RL26_1800",
+    "trip_id": "RR_SA_RL26_1800_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_42"
+  },
+  {
+    "route_id": "3",
+    "service_id": "RR_SA_RL3_1405",
+    "trip_id": "RR_SA_RL3_1405_2",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_109"
+  },
+  {
+    "route_id": "8",
+    "service_id": "RR_SA_RL8_1303",
+    "trip_id": "RR_SA_RL8_1303_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "8",
+    "service_id": "RR_SA_RL8_1400",
+    "trip_id": "RR_SA_RL8_1400_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "9",
+    "service_id": "RR_SA_RL9_1410",
+    "trip_id": "RR_SA_RL9_1410_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_86"
+  },
+  {
+    "route_id": "9",
+    "service_id": "RR_SA_RL9_1430",
+    "trip_id": "RR_SA_RL9_1430_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_86"
+  },
+  {
+    "route_id": "35",
+    "service_id": "RR_SA_RLH_2212",
+    "trip_id": "RR_SA_RLH_2212_2",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_149"
+  },
+  {
+    "route_id": "401",
+    "service_id": "T41LJ_T41A1",
+    "trip_id": "T41LJ_T41A1_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_43"
+  },
+  {
+    "route_id": "3",
+    "service_id": "T41LJ_T41A1",
+    "trip_id": "T41LJ_T41A1_3",
+    "trip_headsign": "GIRON",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_108"
+  },
+  {
+    "route_id": "21",
+    "service_id": "T41LJ_T41A1",
+    "trip_id": "T41LJ_T41A1_4",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_T61_01",
+    "trip_id": "T61LJ_T61_01_3",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_T61_01",
+    "trip_id": "T61LJ_T61_01_4",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_31"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_T61_01",
+    "trip_id": "T61LJ_T61_01_5",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "21",
+    "service_id": "T61LJ_T61_01",
+    "trip_id": "T61LJ_T61_01_8",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "407",
+    "service_id": "T61LJ_T61_02",
+    "trip_id": "T61LJ_T61_02_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_49"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_T61_02",
+    "trip_id": "T61LJ_T61_02_3",
+    "trip_headsign": "PGNO. LA MORA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_87"
+  },
+  {
+    "route_id": "19",
+    "service_id": "T61LJ_T61_02",
+    "trip_id": "T61LJ_T61_02_4",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_185"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T61LJ_T61_02",
+    "trip_id": "T61LJ_T61_02_5",
+    "trip_headsign": "COVARESA-CAN",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_39"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T61LJ_T61_02",
+    "trip_id": "T61LJ_T61_02_6",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
+  },
+  {
+    "route_id": "405",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_3",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_47"
+  },
+  {
+    "route_id": "23",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_4",
+    "trip_headsign": "ZORRILLA 71",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_40"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_5",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_6",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_9",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_10",
+    "trip_headsign": "RONDILLA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_34"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T61LJ_T61_03",
+    "trip_id": "T61LJ_T61_03_11",
+    "trip_headsign": "PGNO. S. CRIST",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_33"
+  },
+  {
+    "route_id": "21",
+    "service_id": "T61LJ_T61_04",
+    "trip_id": "T61LJ_T61_04_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "951",
+    "service_id": "T61LJ_T61_05",
+    "trip_id": "T61LJ_T61_05_3",
+    "trip_headsign": "UNIVERSIDAD",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_81"
+  },
+  {
+    "route_id": "406",
+    "service_id": "T62LJ_T62A01",
+    "trip_id": "T62LJ_T62A01_2",
+    "trip_headsign": "FUENTE DORADA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_48"
+  },
+  {
+    "route_id": "5",
+    "service_id": "T62LJ_T62A01",
+    "trip_id": "T62LJ_T62A01_3",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_T62A01",
+    "trip_id": "T62LJ_T62A01_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_31"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_T62A01",
+    "trip_id": "T62LJ_T62A01_8",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "17",
+    "service_id": "T62LJ_T62A01",
+    "trip_id": "T62LJ_T62A01_9",
+    "trip_headsign": "RONDILLA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_34"
+  },
+  {
+    "route_id": "404",
+    "service_id": "T62LJ_T62A02",
+    "trip_id": "T62LJ_T62A02_2",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_46"
+  },
+  {
+    "route_id": "5",
+    "service_id": "T62LJ_T62A02",
+    "trip_id": "T62LJ_T62A02_5",
+    "trip_headsign": "SANTA ANA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_180"
+  },
+  {
+    "route_id": "8",
+    "service_id": "T62LJ_T62A02",
+    "trip_id": "T62LJ_T62A02_8",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_4"
+  },
+  {
+    "route_id": "5",
+    "service_id": "T62LJ_T62A02",
+    "trip_id": "T62LJ_T62A02_9",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_18"
+  },
+  {
+    "route_id": "22",
+    "service_id": "T62LJ_T62A03",
+    "trip_id": "T62LJ_T62A03_2",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "26",
+    "service_id": "T62LJ_T62A03",
+    "trip_id": "T62LJ_T62A03_3",
+    "trip_headsign": "COL. S. J. DIOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_41"
+  },
+  {
+    "route_id": "26",
+    "service_id": "T62LJ_T62A03",
+    "trip_id": "T62LJ_T62A03_4",
+    "trip_headsign": "COL. S. J. DIOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_41"
+  },
+  {
+    "route_id": "21",
+    "service_id": "T62LJ_T62A04",
+    "trip_id": "T62LJ_T62A04_5",
+    "trip_headsign": "CIRCULAR 1",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_152"
+  },
+  {
+    "route_id": "402",
+    "service_id": "T62LJ_T62A05",
+    "trip_id": "T62LJ_T62A05_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_44"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_T62A05",
+    "trip_id": "T62LJ_T62A05_3",
+    "trip_headsign": "PZA. ESPAÑA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_32"
+  },
+  {
+    "route_id": "3",
+    "service_id": "T62LJ_T62A05",
+    "trip_id": "T62LJ_T62A05_4",
+    "trip_headsign": "C. CONTIENDAS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_106"
+  },
+  {
+    "route_id": "22",
+    "service_id": "T62LJ_T62A05",
+    "trip_id": "T62LJ_T62A05_7",
+    "trip_headsign": "CIRCULAR 2",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_151"
+  },
+  {
+    "route_id": "13",
+    "service_id": "T62LJ_T62A05",
+    "trip_id": "T62LJ_T62A05_8",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_31"
   }
 ]
