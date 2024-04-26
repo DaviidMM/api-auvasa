@@ -348,7 +348,7 @@
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=71",
-    "route_color": "2B2B2D",
+    "route_color": "236B1F",
     "route_text_color": "FFFFFF"
   },
   {
@@ -359,7 +359,7 @@
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=72",
-    "route_color": "2B2B2D",
+    "route_color": "9A7708",
     "route_text_color": "FFFFFF"
   },
   {
@@ -370,7 +370,7 @@
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=73",
-    "route_color": "2B2B2D",
+    "route_color": "A84400",
     "route_text_color": "FFFFFF"
   },
   {
@@ -381,7 +381,7 @@
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=74",
-    "route_color": "2B2B2D",
+    "route_color": "175D5B",
     "route_text_color": "FFFFFF"
   },
   {
@@ -392,7 +392,7 @@
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=75",
-    "route_color": "2B2B2D",
+    "route_color": "910D55",
     "route_text_color": "FFFFFF"
   },
   {
@@ -563,8 +563,8 @@
   {
     "route_id": "1011",
     "agency_id": "101",
-    "route_short_name": "AH",
-    "route_long_name": "Lanzadera Antigua Hípica",
+    "route_short_name": "SL",
+    "route_long_name": "Lanzadera Monoloco Fest",
     "route_desc": "",
     "route_type": "3",
     "route_url": "http://www.auvasa.es/mapa-de-servicios/?linea=1011",

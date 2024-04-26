@@ -5330,19 +5330,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "197",
-    "stop_code": "817",
-    "stop_name": "Plaza Doctor Jiménez Díaz esquina Penitencia",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6594593596245",
-    "stop_lon": "-4.71553223619398",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=197",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "198",
     "stop_code": "818",
     "stop_name": "Plaza Madrid 2",
