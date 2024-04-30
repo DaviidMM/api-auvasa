@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+L01,ECSA,L01,Laguna - Valladolid,3,23B4CA
+L02,ECSA,L02,Laguna - Valladolid (Nocturno),3,40af64
