@@ -78,19 +78,6 @@
     "stop_timezone": "Europe/Madrid"
   },
   {
-    "stop_id": "357",
-    "stop_code": "1025",
-    "stop_name": "Plaza Poniente frente San Lorenzo",
-    "stop_desc": "Parada",
-    "stop_lat": "41.652707040874",
-    "stop_lon": "-4.73115100392404",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=357",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
     "stop_id": "358",
     "stop_code": "1038",
     "stop_name": "Paseo Zorrilla 187 esquina Vinos Vega Sicilia",
@@ -1282,19 +1269,6 @@
     "stop_lon": "-4.73477047124863",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=2971",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
-    "stop_id": "3048",
-    "stop_code": "12234",
-    "stop_name": "Avenida Mundial 82 frente Estadio José Zorrilla",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6443028217118",
-    "stop_lon": "-4.75972205410771",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=3048",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -2777,32 +2751,6 @@
     "stop_lon": "-4.71683999793761",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=569",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
-    "stop_id": "570",
-    "stop_code": "1398",
-    "stop_name": "Calle Recondo 23 esq. Acera Recoletos",
-    "stop_desc": "Parada",
-    "stop_lat": "41.643384476909",
-    "stop_lon": "-4.72595410176338",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=570",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
-    "stop_id": "571",
-    "stop_code": "1399",
-    "stop_name": "Calle General Ruiz 4",
-    "stop_desc": "Parada",
-    "stop_lat": "41.6466590423232",
-    "stop_lon": "-4.72426700318313",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=571",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
@@ -4753,19 +4701,6 @@
     "stop_lon": "-4.73660300429376",
     "zone_id": "",
     "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=148",
-    "location_type": "",
-    "parent_station": "",
-    "stop_timezone": "Europe/Madrid"
-  },
-  {
-    "stop_id": "149",
-    "stop_code": "761",
-    "stop_name": "Avenida Mundial 82 Estadio José Zorrilla",
-    "stop_desc": "Parada",
-    "stop_lat": "41.644685706236",
-    "stop_lon": "-4.76014991894024",
-    "zone_id": "",
-    "stop_url": "http://www.auvasa.es/mapa-de-servicios/?parada=149",
     "location_type": "",
     "parent_station": "",
     "stop_timezone": "Europe/Madrid"
