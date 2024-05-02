@@ -20,12 +20,15 @@ const cache = apicache.middleware;
 const Joi = require('joi');
 
 // Esquema para stopCode
-const stopCodeSchema = Joi.string().alphanum().required().messages({
-  'string.base': 'El número de parada debe ser una cadena de texto.',
-  'string.alphanum':
-    'El número de parada solo puede contener caracteres alfanuméricos.',
-  'any.required': 'El número de parada es un campo obligatorio.',
-});
+const stopCodeSchema = Joi.string()
+  .regex(/^[a-zA-Z0-9:]+$/)
+  .required()
+  .messages({
+    'string.base': 'El número de parada debe ser una cadena de texto.',
+    'string.pattern.base':
+      'El número de parada solo puede contener caracteres alfanuméricos y dos puntos (:).',
+    'any.required': 'El número de parada es un campo obligatorio.',
+  });
 
 // Esquema para routeShortName
 const routeShortNameSchema = Joi.string().alphanum().required().messages({
