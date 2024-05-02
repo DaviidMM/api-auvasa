@@ -7,7 +7,7 @@ ECSA:5,ECSA:5,Avenida La Libertad frente nº 16 – Laguna,41.590242,-4.723879
 ECSA:6,ECSA:6,Avenida La Libertad (Banco) – Laguna,41.588208,-4.723196
 ECSA:7,ECSA:7,Frente Colegio San Juan de Dios (N-601),41.60275145166232,-4.723917107205107
 ECSA:8,ECSA:8,Frente colegio San Agustín (Gasolinera),41.6186412855257,-4.726066686372121
-ECSA:9,ECSA:9,Paseo Arco Ladrillo esq. Transición,41.62992,-4.72745
+ECSA:9,ECSA:9,Paseo Arco Ladrillo esq. Arca Real (Gasolinera),41.62992,-4.72745
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,41.6378181073737,-4.73001918004244
 ECSA:11,ECSA:11,Paseo Filipinos,41.64459, -4.73272
 VA:1,VA:1,Estación de Autobuses,41.6416523,-4.7325916
