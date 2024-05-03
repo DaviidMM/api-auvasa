@@ -25,9 +25,9 @@ ECSA:24,ECSA:24,Colegio San Agustín,41.61689647244557, -4.726486470057119
 ECSA:26,ECSA:26,Avenida del Nogal 1 (Residencia) – Laguna,41.59349358717319, -4.725391025255672
 ECSA:29,ECSA:29,Avenida del Estadio 27 - Laguna,41.58655697691972, -4.7264066417241475
 ECSA:30,ECSA:30,Avenida La Laguna 33 esq. Huertas – Laguna,41.58382616833087, -4.724184926710757
-ECSA:31,ECSA:31,Avenida Madrid (frente Centro de Salud) - Laguna,41.58529,-4.71922
+ECSA:31,ECSA:31,Avenida Madrid (Centro de Salud) - Laguna,41.58529,-4.71922
 ECSA:32,ECSA:32,Avenida Madrid 48 (La Caixa) – Laguna,41.580061069150524, -4.719529549744806
 ECSA:33,ECSA:33,Plaza de las Comunidades - Laguna,41.577336553756645, -4.716789742110782
 ECSA:34,ECSA:34,Avenida La Laguna (rotonda salida a Valladolid) – Laguna,41.58807223852561,-4.720022158350461
 ECSA:35,ECSA:35,Paseo Hospital Militar esq. Paseo de Zorrilla ,41.64395664683434,-4.734490718730132
-ECSA:36,ECSA:36,Avenida Gloria Fuertes 1 (frente cafetería Fragata),41.65354389814701,-4.736606056216417
+147,757,Avenida Gloria Fuertes 1 esquina Joaquín Velasco Martín,41.6533800423541,-4.73661799849766
