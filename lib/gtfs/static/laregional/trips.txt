@@ -1,0 +1,108 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+Azul,A1,A1,CC Rioshopping,0,Azul_0
+Azul,A10,A10,CC Rioshopping,0,Azul_0
+Azul,A11,A11,CC Rioshopping,0,Azul_0
+Azul,A12,A12,CC Rioshopping,0,Azul_0
+Azul,A13,A13,CC Rioshopping,0,Azul_0
+Azul,A14,A14,CC Rioshopping,0,Azul_0
+Azul,A15,A15,CC Rioshopping,0,Azul_0
+Azul,A16,A16,CC Rioshopping,0,Azul_0
+Azul,A17,A17,CC Rioshopping,0,Azul_0
+Azul,A18,A18,CC Rioshopping,0,Azul_0
+Azul,A19,A19,CC Rioshopping,0,Azul_0
+Azul,A2,A2,CC Rioshopping,0,Azul_0
+Azul,A20,A20,CC Rioshopping,0,Azul_0
+Azul,A21,A21,CC Rioshopping,0,Azul_0
+Azul,A22,A22,CC Rioshopping,0,Azul_0
+Azul,A23,A23,CC Rioshopping,0,Azul_0
+Azul,A24,A24,CC Rioshopping,0,Azul_0
+Azul,A25,A25,CC Rioshopping,0,Azul_0
+Azul,A26,A26,CC Rioshopping,0,Azul_0
+Azul,A27,A27,CC Rioshopping,0,Azul_0
+Azul,A28,A28,CC Rioshopping,0,Azul_0
+Azul,A29,A29,CC Rioshopping,0,Azul_0
+Azul,A3,A3,CC Rioshopping,0,Azul_0
+Azul,A30,A30,CC Rioshopping,0,Azul_0
+Azul,A31,A31,CC Rioshopping,0,Azul_0
+Azul,A32,A32,CC Rioshopping,0,Azul_0
+Azul,A33,A33,CC Rioshopping,0,Azul_0
+Azul,A34,A34,CC Rioshopping,0,Azul_0
+Azul,A35,A35,CC Rioshopping,0,Azul_0
+Azul,A36,A36,CC Rioshopping,0,Azul_0
+Azul,A37,A37,CC Rioshopping,0,Azul_0
+Azul,A38,A38,CC Rioshopping,0,Azul_0
+Azul,A39,A39,CC Rioshopping,0,Azul_0
+Azul,A4,A4,CC Rioshopping,0,Azul_0
+Azul,A40,A40,CC Rioshopping,0,Azul_0
+Azul,A41,A41,CC Rioshopping,0,Azul_0
+Azul,A42,A42,CC Rioshopping,0,Azul_0
+Azul,A43,A43,CC Rioshopping,0,Azul_0
+Azul,A44,A44,CC Rioshopping,0,Azul_0
+Azul,A45,A45,CC Rioshopping,0,Azul_0
+Azul,A46,A46,CC Rioshopping,0,Azul_0
+Azul,A5,A5,CC Rioshopping,0,Azul_0
+Azul,A6,A6,CC Rioshopping,0,Azul_0
+Azul,A7,A7,CC Rioshopping,0,Azul_0
+Azul,A8,A8,CC Rioshopping,0,Azul_0
+Azul,A9,A9,CC Rioshopping,0,Azul_0
+Buho,B1,B1,Plaza de Poniente,0,Buho_0
+Buho,B2,B2,Plaza de Poniente,0,Buho_0
+Buho,B2,B2,Plaza de Poniente,0,Buho_0
+Buho,B3,B3,Plaza de Poniente,0,Buho_0
+Buho,B4,B4,Plaza de Poniente,0,Buho_0
+Buho,B4,B4,Plaza de Poniente,0,Buho_0
+Buho,B5,B5,Plaza de Poniente,0,Buho_0
+Buho,B6,B6,Plaza de Poniente,0,Buho_0
+Buho,B7,B7,Plaza de Poniente,0,Buho_0
+Buho,B8,B8,Plaza de Poniente,0,Buho_0
+Buho,B9,B9,Plaza de Poniente,0,Buho_0
+Roja,R1,R1,CC Rioshopping,0,Roja_0
+Roja,R10,R10,CC Rioshopping,0,Roja_0
+Roja,R11,R11,CC Rioshopping,0,Roja_0
+Roja,R12,R12,CC Rioshopping,0,Roja_0
+Roja,R13,R13,CC Rioshopping,0,Roja_0
+Roja,R14,R14,CC Rioshopping,0,Roja_0
+Roja,R15,R15,CC Rioshopping,0,Roja_0
+Roja,R16,R16,CC Rioshopping,0,Roja_0
+Roja,R17,R17,CC Rioshopping,0,Roja_0
+Roja,R18,R18,CC Rioshopping,0,Roja_0
+Roja,R19,R19,CC Rioshopping,0,Roja_0
+Roja,R2,R2,CC Rioshopping,0,Roja_0
+Roja,R20,R20,CC Rioshopping,0,Roja_0
+Roja,R21,R21,CC Rioshopping,0,Roja_0
+Roja,R22,R22,CC Rioshopping,0,Roja_0
+Roja,R23,R23,CC Rioshopping,0,Roja_0
+Roja,R24,R24,CC Rioshopping,0,Roja_0
+Roja,R25,R25,CC Rioshopping,0,Roja_0
+Roja,R26,R26,CC Rioshopping,0,Roja_0
+Roja,R27,R27,CC Rioshopping,0,Roja_0
+Roja,R28,R28,CC Rioshopping,0,Roja_0
+Roja,R29,R29,CC Rioshopping,0,Roja_0
+Roja,R3,R3,CC Rioshopping,0,Roja_0
+Roja,R30,R30,CC Rioshopping,0,Roja_0
+Roja,R31,R31,CC Rioshopping,0,Roja_0
+Roja,R32,R32,CC Rioshopping,0,Roja_0
+Roja,R33,R33,CC Rioshopping,0,Roja_0
+Roja,R34,R34,CC Rioshopping,0,Roja_0
+Roja,R35,R35,CC Rioshopping,0,Roja_0
+Roja,R36,R36,CC Rioshopping,0,Roja_0
+Roja,R37,R37,CC Rioshopping,0,Roja_0
+Roja,R38,R38,CC Rioshopping,0,Roja_0
+Roja,R39,R39,CC Rioshopping,0,Roja_0
+Roja,R4,R4,CC Rioshopping,0,Roja_0
+Roja,R40,R40,CC Rioshopping,0,Roja_0
+Roja,R41,R41,CC Rioshopping,0,Roja_0
+Roja,R42,R42,CC Rioshopping,0,Roja_0
+Roja,R43,R43,CC Rioshopping,0,Roja_0
+Roja,R44,R44,CC Rioshopping,0,Roja_0
+Roja,R45,R45,CC Rioshopping,0,Roja_0
+Roja,R46,R46,CC Rioshopping,0,Roja_0
+Roja,R47,R47,CC Rioshopping,0,Roja_0
+Roja,R48,R48,CC Rioshopping,0,Roja_0
+Roja,R5,R5,CC Rioshopping,0,Roja_0
+Roja,R6,R6,CC Rioshopping,0,Roja_0
+Roja,R7,R7,CC Rioshopping,0,Roja_0
+Roja,R8,R8,CC Rioshopping,0,Roja_0
+Roja,R9,R9,CC Rioshopping,0,Roja_0
+Verde,V1I,V1I,Plaza de la Magdalena (Facultad de F y L) Valladolid,0,Verde_0
+Verde,V1V,V1V,Avenida de Colón 175,0,Verde_0
