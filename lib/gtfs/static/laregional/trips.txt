@@ -47,9 +47,7 @@ Azul,A8,A8,CC Rioshopping,0,Azul_0
 Azul,A9,A9,CC Rioshopping,0,Azul_0
 Buho,B1,B1,Plaza de Poniente,0,Buho_0
 Buho,B2,B2,Plaza de Poniente,0,Buho_0
-Buho,B2,B2,Plaza de Poniente,0,Buho_0
 Buho,B3,B3,Plaza de Poniente,0,Buho_0
-Buho,B4,B4,Plaza de Poniente,0,Buho_0
 Buho,B4,B4,Plaza de Poniente,0,Buho_0
 Buho,B5,B5,Plaza de Poniente,0,Buho_0
 Buho,B6,B6,Plaza de Poniente,0,Buho_0
@@ -105,4 +103,75 @@ Roja,R7,R7,CC Rioshopping,0,Roja_0
 Roja,R8,R8,CC Rioshopping,0,Roja_0
 Roja,R9,R9,CC Rioshopping,0,Roja_0
 Verde,V1I,V1I,Plaza de la Magdalena (Facultad de F y L) Valladolid,0,Verde_0
-Verde,V1V,V1V,Avenida de Colón 175,0,Verde_0
+Verde,V1V,V1V,Avenida de Colón 175,1,
+Roja,R49,R49,CC Rioshopping,0,Roja_0
+Roja,R50,R50,CC Rioshopping,0,Roja_0
+Roja,R51,R51,CC Rioshopping,0,Roja_0
+Roja,R52,R52,CC Rioshopping,0,Roja_0
+Roja,R53,R53,CC Rioshopping,0,Roja_0
+Azul,A47,A47,CC Rioshopping,0,Azul_0
+Azul,A48,A48,CC Rioshopping,0,Azul_0
+Azul,A49,A49,CC Rioshopping,0,Azul_0
+Azul,A50,A50,CC Rioshopping,0,Azul_0
+Azul,A51,A51,CC Rioshopping,0,Azul_0
+RioSh,RS1,RS1,CC Rioshopping,0,RioSh_0
+RioSh,RS2,RS2,CC Rioshopping,0,RioSh_0
+RioSh,RS3,RS3,CC Rioshopping,0,RioSh_0
+RioSh,RS4,RS4,CC Rioshopping,0,RioSh_0
+RioSh,RS5,RS5,CC Rioshopping,0,RioSh_0
+RioSh,RS6,RS6,CC Rioshopping,0,RioSh_0
+RioSh,RS7,RS7,CC Rioshopping,0,RioSh_0
+RioSh,RS8,RS8,CC Rioshopping,0,RioSh_0
+RioSh,RS9,RS9,CC Rioshopping,0,RioSh_0
+RioSh,RS10,RS10,CC Rioshopping,0,RioSh_0
+RioSh,RS11,RS11,CC Rioshopping,0,RioSh_0
+RioSh,RS12,RS12,CC Rioshopping,0,RioSh_0
+RioSh,RS13,RS13,CC Rioshopping,0,RioSh_0
+RioSh,RS14,RS14,CC Rioshopping,0,RioSh_0
+RioSh,RS15,RS15,Paseo Filipinos,1,RioSh_1
+RioSh,RS16,RS16,Paseo Filipinos,1,RioSh_1
+RioSh,RS17,RS17,Paseo Filipinos,1,RioSh_1
+RioSh,RS18,RS18,Paseo Filipinos,1,RioSh_1
+RioSh,RS19,RS19,Paseo Filipinos,1,RioSh_1
+RioSh,RS20,RS20,Paseo Filipinos,1,RioSh_1
+RioSh,RS21,RS21,Paseo Filipinos,1,RioSh_1
+RioSh,RS22,RS22,Paseo Filipinos,1,RioSh_1
+RioSh,RS23,RS23,Paseo Filipinos,1,RioSh_1
+RioSh,RS24,RS24,Paseo Filipinos,1,RioSh_1
+RioSh,RS25,RS25,Paseo Filipinos,1,RioSh_1
+RioSh,RS26,RS26,Paseo Filipinos,1,RioSh_1
+RioSh,RS27,RS27,Paseo Filipinos,1,RioSh_1
+RioSh,RS28,RS28,Paseo Filipinos,1,RioSh_1
+RioSh,RS29,RS29,Paseo Filipinos,1,RioSh_1
+RioSh,RS30,RS30,CC Rioshopping,0,RioSh_0
+RioSh,RS31,RS31,CC Rioshopping,0,RioSh_0
+RioSh,RS32,RS32,CC Rioshopping,0,RioSh_0
+RioSh,RS33,RS33,CC Rioshopping,0,RioSh_0
+RioSh,RS34,RS34,CC Rioshopping,0,RioSh_0
+RioSh,RS35,RS35,CC Rioshopping,0,RioSh_0
+RioSh,RS36,RS36,CC Rioshopping,0,RioSh_0
+RioSh,RS37,RS37,CC Rioshopping,0,RioSh_0
+RioSh,RS38,RS38,CC Rioshopping,0,RioSh_0
+RioSh,RS39,RS39,CC Rioshopping,0,RioSh_0
+RioSh,RS40,RS40,CC Rioshopping,0,RioSh_0
+RioSh,RS41,RS41,CC Rioshopping,0,RioSh_0
+RioSh,RS42,RS42,CC Rioshopping,0,RioSh_0
+RioSh,RS43,RS43,CC Rioshopping,0,RioSh_0
+RioSh,RS44,RS44,Paseo Filipinos,1,RioSh_1
+RioSh,RS45,RS45,Paseo Filipinos,1,RioSh_1
+RioSh,RS46,RS46,Paseo Filipinos,1,RioSh_1
+RioSh,RS47,RS47,Paseo Filipinos,1,RioSh_1
+RioSh,RS48,RS48,Paseo Filipinos,1,RioSh_1
+RioSh,RS49,RS49,Paseo Filipinos,1,RioSh_1
+RioSh,RS50,RS50,Paseo Filipinos,1,RioSh_1
+RioSh,RS51,RS51,Paseo Filipinos,1,RioSh_1
+RioSh,RS52,RS52,Paseo Filipinos,1,RioSh_1
+RioSh,RS53,RS53,Paseo Filipinos,1,RioSh_1
+RioSh,RS54,RS54,Paseo Filipinos,1,RioSh_1
+RioSh,RS55,RS55,Paseo Filipinos,1,RioSh_1
+RioSh,RS56,RS56,Paseo Filipinos,1,RioSh_1
+RioSh,RS57,RS57,Paseo Filipinos,1,RioSh_1
+RioSh,RS58,RS58,Paseo Filipinos,1,RioSh_1
+RioSh,RS59,RS59,Paseo Filipinos,1,RioSh_1
+RioSh,RS60,RS60,Paseo Filipinos,1,RioSh_1
+RioSh,RS61,RS61,Paseo Filipinos,1,RioSh_1

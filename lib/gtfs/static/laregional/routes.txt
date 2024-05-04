@@ -1,5 +1,6 @@
-agency_id,route_id,route_type,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-LaRegional,Azul,3,Azul,Azul,,,0000FF,FFFFFF,,,
-LaRegional,Buho,3,Buho,Buho,,,000000,FFFFFF,,,
-LaRegional,Roja,3,Roja,Roja,,,FF0000,FFFFFF,,,
-LaRegional,Verde,3,Verde,Verde,,,008000,FFFFFF,,,
+agency_id,route_id,route_type,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color
+LaRegional,Azul,3,Azul,Valladolid - La Vega - Sotoverde,,,0000FF,FFFFFF
+LaRegional,Buho,3,Buho,Arroyo (Buho),,,000000,FFFFFF
+LaRegional,Roja,3,Roja,Valladolid - La Flecha - Rio Shopping,,,FF0000,FFFFFF
+LaRegional,Verde,3,Verde,Arroyo (Universitaria),,,40AF64,FFFFFF
+LaRegional,RioSh,3,RioSh,C.C Rio Shopping,,,E20613,FFFFFF
