@@ -1,8 +1,8 @@
 services:
-  apiauvasa:
+  apiauvasareg:
     build: .
-    container_name: apiauvasa
-    image: apiauvasa:latest
+    container_name: apiauvasareg
+    image: apiauvasareg:latest
     ports:
       - 3000:3000
     restart: unless-stopped
