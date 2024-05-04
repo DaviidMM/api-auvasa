@@ -4,7 +4,7 @@ services:
     container_name: apiauvasareg
     image: apiauvasareg:latest
     ports:
-      - 3000:3000
+      - 3030:3000
     restart: unless-stopped
     environment:
       - NODE_ENV=production
