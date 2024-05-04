@@ -66,4 +66,4 @@ REGI:67,Camino del Cementerio nº 35 (Campus universitario) - Arroyo,41.665092,-
 REGI:7,Avenida de Colón f 132 - Arroyo,41.617090,-4.779314,,,,,,,,REGI:7,,
 REGI:8,Avenida de Colón (f Multiusos de la Vega) - Arroyo,41.612630,-4.783056,,,,,,,,REGI:8,,
 REGI:9,Plaza de Juan Carlos I - Arroyo,41.613403,-4.785303,,,,,,,,REGI:9,,
-VA:1,Estación de Autobuses - Arroyo,41.641652,-4.732592,,,,,,,,VA:1,,
+VA:1,Estación de Autobuses - Valladolid,41.641652,-4.732592,,,,,,,,VA:1,,
