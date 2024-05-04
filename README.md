@@ -4,6 +4,7 @@ API RESTful para devolver la información de paradas y líneas de:
 
 - [AUVASA](https://auvasa.es/), empresa municipal de transportes de Valladolid, España
 - [ECSA](https://www.ecsa.es/), Empresa Cabrero S.A
+- [La Regional](https://www.autocareslaregional.com/) Vallisoletana S.A
 
 Usando los datos abiertos GTFS, revisa la sección [Licencia](#licencia) para más información sobre su reutilización.
 
@@ -314,9 +315,12 @@ server {
 
 Las colaboraciones para mejorar el código son bienvenidas. Por favor, asegúrate de seguir las pautas de contribución y de abrir un issue antes de enviar un pull request.
 
+Si deseas añadir la información de un nuevo municipio o empresa de transportes, deberás crear los archivos necesarios en formato GTFS. Revisa nuestra documentación sobre [cómo crear un nuevo GTFS para una nueva empresa de transporte)[GTFS.md]
+
 ## Licencia
 
 Este proyecto está licenciado bajo la [AGPL v3](LICENSE.md), los datos GTFS son:
 
 - [AUVASA](https://www.auvasa.es/datos-abiertos/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/es/)
 - ECSA - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
+- La Regional - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
