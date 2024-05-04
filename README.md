@@ -315,7 +315,7 @@ server {
 
 Las colaboraciones para mejorar el código son bienvenidas. Por favor, asegúrate de seguir las pautas de contribución y de abrir un issue antes de enviar un pull request.
 
-Si deseas añadir la información de un nuevo municipio o empresa de transportes, deberás crear los archivos necesarios en formato GTFS. Revisa nuestra documentación sobre [cómo crear un nuevo GTFS para una nueva empresa de transporte)[GTFS.md]
+Si deseas añadir la información de un nuevo municipio o empresa de transportes, deberás crear los archivos necesarios en formato GTFS. Revisa nuestra documentación sobre [cómo crear un nuevo GTFS para una nueva empresa de transporte](GTFS.md)
 
 ## Licencia
 

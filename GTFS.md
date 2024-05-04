@@ -1,5 +1,4 @@
 # Cómo crear un nuevo GTFS para una nueva empresa de transporte
-=====================================================
 
 **Introducción**
 ---------------
@@ -167,5 +166,4 @@ El archivo `shapes.txt` es opcional, pero es útil para proporcionar informació
 -------------------------
 
 * [GTFS Specification](https://gtfs.org/reference/static/) (en inglés): La documentación oficial del formato GTFS.
-* [GTFS Editor](https://gtfsgenerator.com/) (en inglés): Una herramienta en línea para crear y editar archivos GTFS.
-* [Transit Feeds](https://transitfeeds.com/) (en inglés): Un repositorio de archivos GTFS para diferentes sistemas de transporte público.
+* [Punto de Acceso Nacionalde datos del transporte](https://nap.transportes.gob.es/): Un repositorio de archivos GTFS para diferentes sistemas de transporte público del Ministerior de Transporte de España.
