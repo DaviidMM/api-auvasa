@@ -10,7 +10,7 @@ ECSA:8,ECSA:8,Frente colegio San Agustín (Gasolinera),41.6186412855257,-4.72606
 ECSA:9,ECSA:9,Paseo Arco Ladrillo esq. Arca Real (Gasolinera),41.62992,-4.72745
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,41.6378181073737,-4.73001918004244
 424,1185,Paseo Filipinos esquina Paseo Zorrilla,41.6446993777185,-4.73290763723593
-VA:1,VA:1,Estación de Autobuses,41.6416523,-4.7325916
+VA:1,VA:1,Estación de Autobuses - Valladolid,41.6416523,-4.7325916
 ECSA:13,ECSA:13,Plaza Colón,41.64415545132198,-4.727519182107743
 ECSA:14,ECSA:14,Plaza Santa Cruz,41.651062711852596,-4.719838649299969
 ECSA:15,ECSA:15,Avenida Ramon y Cajal (próximo Hospital Clínico),41.65411, -4.71737
