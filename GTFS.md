@@ -165,5 +165,6 @@ El archivo `shapes.txt` es opcional, pero es útil para proporcionar informació
 **Recursos adicionales**
 -------------------------
 
+* [GTFS Schedule Validator](https://gtfs-validator.mobilitydata.org/): Validador online de archivo GTFS
 * [GTFS Specification](https://gtfs.org/reference/static/) (en inglés): La documentación oficial del formato GTFS.
 * [Punto de Acceso Nacionalde datos del transporte](https://nap.transportes.gob.es/): Un repositorio de archivos GTFS para diferentes sistemas de transporte público del Ministerior de Transporte de España.
