@@ -223,6 +223,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2919,1409,Calle Andrómeda esquina Orden de Malta,Parada,41.6551270078788,-4.70514614640447,,http://www.auvasa.es/mapa-de-servicios/?parada=2919,,,Europe/Madrid
 2920,1410,Calle Andrómeda frente Orden de Malta,Parada,41.6552348751786,-4.70521430163913,,http://www.auvasa.es/mapa-de-servicios/?parada=2920,,,Europe/Madrid
 2923,1411,Calle Madre de Dios 6,Parada,41.6580863355115,-4.71734880738889,,http://www.auvasa.es/mapa-de-servicios/?parada=2923,,,Europe/Madrid
+2938,1413,Calle Víctimas del Terrorismo fte. Hospital Río Hortega,Parada,41.631830298188,-4.71352659888684,,http://www.auvasa.es/mapa-de-servicios/?parada=2938,,,Europe/Madrid
+3089,1414,Calle Arribes del Duero esq. Cañón del Río Lobos,Parada,41.6266097951516,-4.71180036672507,,http://www.auvasa.es/mapa-de-servicios/?parada=3089,,,Europe/Madrid
+3090,1415,Calle Picos de Europa esq. Sierra de Gredos,Parada,41.6248283959958,-4.71376642593365,,http://www.auvasa.es/mapa-de-servicios/?parada=3090,,,Europe/Madrid
+3091,1416,Calle Picos de Europa esq. Arribes del Duero,Parada,41.6246178728662,-4.71359074124312,,http://www.auvasa.es/mapa-de-servicios/?parada=3091,,,Europe/Madrid
+3092,1417,Calle Arribes del Duero fte. Cañón del Río Lobos,Parada,41.6270538841816,-4.71132025131124,,http://www.auvasa.es/mapa-de-servicios/?parada=3092,,,Europe/Madrid
+3093,1418,Calle Carabela fte. Galeón,Parada,41.6790683104883,-4.74560692916131,,http://www.auvasa.es/mapa-de-servicios/?parada=3093,,,Europe/Madrid
 1,550,Calle Hernando de Acuña 1 esquina Mateo Seoane S.,Parada,41.6379983836047,-4.75574461249468,,http://www.auvasa.es/mapa-de-servicios/?parada=1,,,Europe/Madrid
 2,551,Calle Hernando de Acuña 13 esquina Manuel Silvela,Parada,41.637992139995,-4.75843566197342,,http://www.auvasa.es/mapa-de-servicios/?parada=2,,,Europe/Madrid
 3,552,Calle Hernando de Acuña 18 esquina Manuel Silvela,Parada,41.6381753268001,-4.75855368880795,,http://www.auvasa.es/mapa-de-servicios/?parada=3,,,Europe/Madrid
