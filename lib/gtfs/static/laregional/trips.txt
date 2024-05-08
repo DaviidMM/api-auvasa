@@ -103,7 +103,7 @@ Roja,R7,R7,CC Rioshopping,0,Roja_0
 Roja,R8,R8,CC Rioshopping,0,Roja_0
 Roja,R9,R9,CC Rioshopping,0,Roja_0
 Verde,V1I,V1I,Plaza de la Magdalena (Facultad de F y L) Valladolid,0,Verde_0
-Verde,V1V,V1V,Avenida de Colón 175,1,
+Verde,V1V,V1V,Avenida de Colón 175,1,Verde_1
 Roja,R49,R49,CC Rioshopping,0,Roja_0
 Roja,R50,R50,CC Rioshopping,0,Roja_0
 Roja,R51,R51,CC Rioshopping,0,Roja_0
