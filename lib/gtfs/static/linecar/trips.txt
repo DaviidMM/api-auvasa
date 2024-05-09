@@ -1,0 +1,33 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+Aerop,1,AEROP_1,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_10,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_11,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_12,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_13,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_14,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_15,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_16,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_17,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_18,Valladolid,,1,,AEROP_1,0,0
+Aerop,2,AEROP_19,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_2,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_20,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_21,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_22,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_23,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_24,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_25,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_26,Valladolid,,1,,AEROP_1,0,0
+Aerop,2,AEROP_27,Valladolid,,1,,AEROP_1,0,0
+Aerop,2,AEROP_28,Valladolid,,1,,AEROP_1,0,0
+Aerop,2,AEROP_29,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_3,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,2,AEROP_30,Valladolid,,1,,AEROP_1,0,0
+Aerop,2,AEROP_31,Valladolid,,1,,AEROP_1,0,0
+Aerop,2,AEROP_32,Valladolid,,1,,AEROP_1,0,0
+Aerop,1,AEROP_4,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_5,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_6,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_7,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_8,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
+Aerop,1,AEROP_9,Aeropuerto de Valladolid,,0,,AEROP_0,0,0
