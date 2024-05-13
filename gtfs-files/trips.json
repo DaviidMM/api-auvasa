@@ -8109,366 +8109,6 @@
     "shape_id": "Route_86"
   },
   {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_2",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_98"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_3",
-    "trip_headsign": "SAN PEDRO R",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_59"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_4",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_60"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A1",
-    "trip_id": "LB1_LB1A1_5",
-    "trip_headsign": "OVERUELA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_97"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_2",
-    "trip_headsign": "SAN PEDRO R",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_59"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_3",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_60"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_4",
-    "trip_headsign": "SAN PEDRO R",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_59"
-  },
-  {
-    "route_id": "71",
-    "service_id": "LB1_LB1A2",
-    "trip_id": "LB1_LB1A2_5",
-    "trip_headsign": "COVARESA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_60"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_2",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_99"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_3",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_62"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_4",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_61"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A1",
-    "trip_id": "LB2_LB2A1_5",
-    "trip_headsign": "PINAR JALON",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_100"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_2",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_102"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_3",
-    "trip_headsign": "LA VICTORIA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_61"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_4",
-    "trip_headsign": "DELICIAS",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_62"
-  },
-  {
-    "route_id": "72",
-    "service_id": "LB2_LB2A2",
-    "trip_id": "LB2_LB2A2_5",
-    "trip_headsign": "FTE. BERROCAL",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_101"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_2",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_3",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_4",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A1",
-    "trip_id": "LB3_LB3A1_5",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_2",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_3",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_4",
-    "trip_headsign": "PARQUESOL",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_64"
-  },
-  {
-    "route_id": "73",
-    "service_id": "LB3_LB3A2",
-    "trip_id": "LB3_LB3A2_5",
-    "trip_headsign": "LAS FLORES",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_63"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_2",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_104"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_3",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_65"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_4",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_66"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C1",
-    "trip_id": "LB4_LB4A1C1_5",
-    "trip_headsign": "PUENTE DUERO",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_103"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_2",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_65"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_3",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_66"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_4",
-    "trip_headsign": "ENTREPINOS",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_65"
-  },
-  {
-    "route_id": "74",
-    "service_id": "LB4_LB4A1C2",
-    "trip_id": "LB4_LB4A1C2_5",
-    "trip_headsign": "FTE. DORADA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_66"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_2",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_3",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_4",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_5",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_6",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_7",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_8",
-    "trip_headsign": "DUQ. VICTORIA",
-    "direction_id": "1",
-    "block_id": "",
-    "shape_id": "Route_68"
-  },
-  {
-    "route_id": "75",
-    "service_id": "LB5_LB5A1",
-    "trip_id": "LB5_LB5A1_9",
-    "trip_headsign": "CISTERNIGA",
-    "direction_id": "0",
-    "block_id": "",
-    "shape_id": "Route_67"
-  },
-  {
     "route_id": "21",
     "service_id": "LC1D6_LC1A1",
     "trip_id": "LC1D6_LC1A1_2",
@@ -24424,6 +24064,366 @@
     "direction_id": "1",
     "block_id": "",
     "shape_id": "Route_42"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_2",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_98"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_3",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_59"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_4",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_60"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A1",
+    "trip_id": "LB1_LB1A1_5",
+    "trip_headsign": "OVERUELA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_97"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_2",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_59"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_3",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_60"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_4",
+    "trip_headsign": "SAN PEDRO R",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_59"
+  },
+  {
+    "route_id": "71",
+    "service_id": "LB1_LB1A2",
+    "trip_id": "LB1_LB1A2_5",
+    "trip_headsign": "COVARESA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_60"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_2",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_99"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_3",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_62"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_4",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_61"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A1",
+    "trip_id": "LB2_LB2A1_5",
+    "trip_headsign": "PINAR JALON",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_100"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_2",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_102"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_3",
+    "trip_headsign": "LA VICTORIA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_61"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_4",
+    "trip_headsign": "DELICIAS",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_62"
+  },
+  {
+    "route_id": "72",
+    "service_id": "LB2_LB2A2",
+    "trip_id": "LB2_LB2A2_5",
+    "trip_headsign": "FTE. BERROCAL",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_101"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_2",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_3",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_4",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A1",
+    "trip_id": "LB3_LB3A1_5",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_2",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_3",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_4",
+    "trip_headsign": "PARQUESOL",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_64"
+  },
+  {
+    "route_id": "73",
+    "service_id": "LB3_LB3A2",
+    "trip_id": "LB3_LB3A2_5",
+    "trip_headsign": "LAS FLORES",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_63"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_2",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_104"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_3",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_65"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_4",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_66"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C1",
+    "trip_id": "LB4_LB4A1C1_5",
+    "trip_headsign": "PUENTE DUERO",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_103"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_2",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_65"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_3",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_66"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_4",
+    "trip_headsign": "ENTREPINOS",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_65"
+  },
+  {
+    "route_id": "74",
+    "service_id": "LB4_LB4A1C2",
+    "trip_id": "LB4_LB4A1C2_5",
+    "trip_headsign": "FTE. DORADA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_66"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_2",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_3",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_4",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_5",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_6",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_7",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_8",
+    "trip_headsign": "DUQ. VICTORIA",
+    "direction_id": "1",
+    "block_id": "",
+    "shape_id": "Route_68"
+  },
+  {
+    "route_id": "75",
+    "service_id": "LB5_LB5A1",
+    "trip_id": "LB5_LB5A1_9",
+    "trip_headsign": "CISTERNIGA",
+    "direction_id": "0",
+    "block_id": "",
+    "shape_id": "Route_67"
   },
   {
     "route_id": "1",
