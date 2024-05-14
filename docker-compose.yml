@@ -1,10 +1,10 @@
 services:
-  apiauvasaline:
+  apiauvasa:
     build: .
-    container_name: apiauvasaline
-    image: apiauvasaline:latest
+    container_name: apiauvasa
+    image: apiauvasa:latest
     ports:
-      - 3030:3000
+      - 3000:3000
     restart: unless-stopped
     environment:
       - NODE_ENV=production
