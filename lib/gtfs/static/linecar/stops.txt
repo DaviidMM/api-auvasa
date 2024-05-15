@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+VA:1,VA:1,Estación de Autobuses - Valladolid,,41.641652,-4.732592,,,0,,Europe/Madrid,0
+49,621,Paseo Isabel La Católica Plaza Poniente,,41.6533270395783,-4.73208799966472,,,0,,Europe/Madrid,0
+109,697,Avenida Gijón 6 Plaza San Bartolomé,,41.6605910406246,-4.73496500275955,,,0,,Europe/Madrid,0
+LINE:2,LINE:2,Carretera Adanero 4 - Villanubla,,41.7007771724086,-4.834654927253723,,,0,,Europe/Madrid,0
+LINE:1,LINE:1,Aeropuerto de Valladolid,,41.70610791379402,-4.844525456428528,,,0,,Europe/Madrid,0
+LINE:3,LINE:3,Calle del Parador 9 - Villanubla,,41.70135792826974,-4.835625886917114,,,0,,Europe/Madrid,0
+176,796,Avenida Ramón Pradera (Feria de Valladolid),,41.65425203921,-4.73843400470349,,,0,,Europe/Madrid,0
+147,757,Avenida Gloria Fuertes 1 esq. Joaquín Velasco Martín,,41.6533800423541,-4.73661799849766,,,0,,Europe/Madrid,0
+220,844,Calle Estación del Norte esquina Recondo,,41.6431807810087,-4.7272540156632,,,0,,Europe/Madrid,0
