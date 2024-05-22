@@ -3,17 +3,15 @@ const routes = express.Router();
 const {
   getParada,
   getParadas,
+  getAlerts,
   getBusPosition,
   getShapesForTrip,
-  getStopsForTrip,
+  getStopsElementsForTrip,
   getSuspendedStops,
 } = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
-// Imports de alertas de v1
-// TODO: Migrar a alertas v2
 const apicache = require('apicache');
-const { getAlertsFromGtfs } = require('../../lib/v1/gtfs');
 const cache = apicache.middleware;
 
 // Data validation
@@ -66,7 +64,7 @@ routes.get('/', (req, res) => {
 });
 
 routes.get('/alertas', cache('15 minutes'), async (req, res) => {
-  const alerts = await getAlertsFromGtfs();
+  const alerts = await getAlerts();
   return res.status(200).send(alerts);
 });
 
@@ -167,7 +165,7 @@ routes.get('/geojson/paradas/:tripId', async (req, res) => {
     return res.status(400).send(tripIdValidation.error.details[0].message);
   }
 
-  const response = await getStopsForTrip(tripId);
+  const response = await getStopsElementsForTrip(tripId);
   return res.send(response);
 });
 
