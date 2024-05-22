@@ -88,74 +88,9 @@ La aplicación se actualiza automáticamente con los datos en tiempo real de GTF
 
 ## Documentación de la API
 
-En esta sección listamos los endpoints de la versión más modera del API, que usa los datos abiertos GTFS de las empresas configuradas.
+Puedes consultar todos los endpoints y parámetros del API accediendo a la documentación en:
 
-### Consulta el listado de paradas
-
-Información de las líneas que van a pasar por una parada.
-
-```
-curl -X GET http://localhost:3000/v2/paradas/
-```
-
-### Consulta de información de una parada
-
-Información de las líneas que van a pasar por una parada.
-
-```
-curl -X GET http://localhost:3000/v2/parada/811
-```
-
-
-### Consulta de una línea en una parada
-
-Información de una línea en una parada.
-
-```
-curl -X GET http://localhost:3000/v2/parada/811/3
-```
-
-
-### Consulta de alertas
-
-Para obtener las alertas activas, utiliza el siguiente endpoint:
-
-```
-curl -X GET http://localhost:3000/alertas
-```
-
-
-### Consulta de posición de un autobús
-
-Para obtener la posición de un autobús en tiempo real, utiliza el siguiente endpoint:
-
-```
-curl -X GET http://localhost:3000/v2/busPosition/:tripId
-```
-
-Reemplaza `:tripId` con el ID del viaje del autobús que deseas consultar, por ejemplo `L4A2_L4A1_13`.
-
-Este endpoint también incluye un campo `ocupacion`  y `velocidad` con el estado actual del vehículo.
-
-### Consulta de geojson de ubicación de paradas para un viaje
-
-Para obtener el geojson de las paradas de un viaje, utiliza el siguiente endpoint:
-
-```
-curl -X GET http://localhost:3000/v2/geojson/paradas/:tripId
-```
-
-Reemplaza `:tripId` con el ID del viaje del autobús que deseas consultar, por ejemplo `L4A2_L4A1_13`.
-
-### Consulta de geojson de la ruta un viaje
-
-Para obtener el geojson de un viaje, utiliza el siguiente endpoint:
-
-```
-curl -X GET http://localhost:3000/v2/geojson/:tripId
-```
-
-Reemplaza `:tripId` con el ID del viaje del autobús que deseas consultar, por ejemplo `L4A2_L4A1_13`.
+``http://localhost:3000/api-docs``
 
 ## Actualización de archivos estáticos de GTFS en GitHub Pages
 
