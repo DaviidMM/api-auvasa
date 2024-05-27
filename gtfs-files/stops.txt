@@ -97,7 +97,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2944,12226,Calle Vázquez de Menchaca 1 esq. Daniel del Olmo,Parada,41.626836583026,-4.73087696014544,,http://www.auvasa.es/mapa-de-servicios/?parada=2944,,,Europe/Madrid
 2945,12227,Calle Vázquez de Menchaca 4 esq. Daniel del Olmo,Parada,41.6267878628572,-4.73095398701794,,http://www.auvasa.es/mapa-de-servicios/?parada=2945,,,Europe/Madrid
 2971,12228,Calle Vázquez de Menchaca 34,Parada,41.6205250533928,-4.73477047124863,,http://www.auvasa.es/mapa-de-servicios/?parada=2971,,,Europe/Madrid
-3048,12234,Avenida Mundial 82 frente Estadio José Zorrilla,Parada,41.6443028217118,-4.75972205410771,,http://www.auvasa.es/mapa-de-servicios/?parada=3048,,,Europe/Madrid
 450,1227,Avenida Entrepinos 52 esquina Tirso de Molina,Parada,41.5702819094993,-4.836736232627,,http://www.auvasa.es/mapa-de-servicios/?parada=450,,,Europe/Madrid
 451,1228,Paseo Zorrilla 10,Parada,41.6469689357638,-4.73146350413824,,http://www.auvasa.es/mapa-de-servicios/?parada=451,,,Europe/Madrid
 452,1233,Camino Viejo Simancas 167 esquina José Velicia,Parada,41.617995718243,-4.76133270456419,,http://www.auvasa.es/mapa-de-servicios/?parada=452,,,Europe/Madrid
@@ -211,7 +210,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 567,1395,Cañada Real Vivero,Parada,41.5989882251273,-4.76515525865095,,http://www.auvasa.es/mapa-de-servicios/?parada=567,,,Europe/Madrid
 568,1396,Cañada Real frente Vivero,Parada,41.5990036977572,-4.76504587622251,,http://www.auvasa.es/mapa-de-servicios/?parada=568,,,Europe/Madrid
 569,1397,Calle Kilimanjaro fte. Plaza Everest,Parada,41.6149340442411,-4.71683999793761,,http://www.auvasa.es/mapa-de-servicios/?parada=569,,,Europe/Madrid
-571,1399,Calle General Ruiz 4,Parada,41.6466590423232,-4.72426700318313,,http://www.auvasa.es/mapa-de-servicios/?parada=571,,,Europe/Madrid
 572,1400,Calle Ciudad de La Habana 17,Parada,41.6345235068728,-4.76255197489168,,http://www.auvasa.es/mapa-de-servicios/?parada=572,,,Europe/Madrid
 573,1401,Calle Cuesta Redonda esq. Azuela,Parada,41.6103529113006,-4.67905522229675,,http://www.auvasa.es/mapa-de-servicios/?parada=573,,,Europe/Madrid
 574,1402,Camino de Las Yeseras Polideportivo Municipal,Parada,41.6117180410459,-4.6801169941645,,http://www.auvasa.es/mapa-de-servicios/?parada=574,,,Europe/Madrid
@@ -373,7 +371,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 146,755,Calle La Morena 3 Bloque 2,Parada,41.6568260437464,-4.74244599636636,,http://www.auvasa.es/mapa-de-servicios/?parada=146,,,Europe/Madrid
 147,757,Avenida Gloria Fuertes 1 esquina Joaquín Velasco Martín,Parada,41.6533800423541,-4.73661799849766,,http://www.auvasa.es/mapa-de-servicios/?parada=147,,,Europe/Madrid
 148,759,Avenida Gloria Fuertes 4 esquina Avenida Salamanca,Parada,41.6535420387106,-4.73660300429376,,http://www.auvasa.es/mapa-de-servicios/?parada=148,,,Europe/Madrid
-149,761,Avenida Mundial 82 Estadio José Zorrilla,Parada,41.644685706236,-4.76014991894024,,http://www.auvasa.es/mapa-de-servicios/?parada=149,,,Europe/Madrid
 151,767,Calle Daniel del Olmo esquina Paseo Zorrilla,Parada,41.6298741942053,-4.74034344509989,,http://www.auvasa.es/mapa-de-servicios/?parada=151,,,Europe/Madrid
 155,771,Calle Títulos esquina Guindal,Parada,41.6913679146325,-4.71279619246588,,http://www.auvasa.es/mapa-de-servicios/?parada=155,,,Europe/Madrid
 156,772,Calle Títulos frente Guindal,Parada,41.6914425509529,-4.71279791908859,,http://www.auvasa.es/mapa-de-servicios/?parada=156,,,Europe/Madrid
