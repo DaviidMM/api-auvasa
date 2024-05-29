@@ -5,6 +5,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 353,1003,Paseo Zorrilla 52 esquina Paseo Hospital Militar,Parada,41.6437868696237,-4.73556142304993,,http://www.auvasa.es/mapa-de-servicios/?parada=353,,,Europe/Madrid
 355,1006,Calle Lucio Zumel esquina Avenida Soria,Parada,41.613388139184,-4.68877305291374,,http://www.auvasa.es/mapa-de-servicios/?parada=355,,,Europe/Madrid
 356,1007,Calle Doctrinos 12 esquina María de Molina,Parada,41.64940703773,-4.73116000429171,,http://www.auvasa.es/mapa-de-servicios/?parada=356,,,Europe/Madrid
+357,1025,Plaza Poniente frente San Lorenzo,Parada,41.652707040874,-4.73115100392404,,http://www.auvasa.es/mapa-de-servicios/?parada=357,,,Europe/Madrid
 358,1038,Paseo Zorrilla 187 esquina Vinos Vega Sicilia,Parada,41.6196465271162,-4.74790558854684,,http://www.auvasa.es/mapa-de-servicios/?parada=358,,,Europe/Madrid
 359,1039,Paseo Zorrilla 346 esquina Vinos Ribera de Duero,Parada,41.6194764746951,-4.74826800226399,,http://www.auvasa.es/mapa-de-servicios/?parada=359,,,Europe/Madrid
 360,1043,Paseo Zorrilla 203 esquina Vinos de Cigales,Parada,41.6170100490037,-4.74814126863808,,http://www.auvasa.es/mapa-de-servicios/?parada=360,,,Europe/Madrid
@@ -188,7 +189,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 543,1368,Calle Verbena esquina Nicasio Pérez,Parada,41.6513910402983,-4.71675100483311,,http://www.auvasa.es/mapa-de-servicios/?parada=543,,,Europe/Madrid
 544,1369,Calle Júpiter frente 12  esquina Comuneros de Castilla,Parada,41.6629374628376,-4.73629821780062,,http://www.auvasa.es/mapa-de-servicios/?parada=544,,,Europe/Madrid
 545,1370,Plaza Castilla y León 4  esquina Miguel Delibes,Parada,41.6104550411938,-4.75194100098138,,http://www.auvasa.es/mapa-de-servicios/?parada=545,,,Europe/Madrid
-546,1371,Plaza San Pablo 2 esquina San Quirce,Parada,41.6571720434158,-4.72584900575211,,http://www.auvasa.es/mapa-de-servicios/?parada=546,,,Europe/Madrid
 547,1372,Calle Miguel Delibes 14,Parada,41.6117751476761,-4.75578910065759,,http://www.auvasa.es/mapa-de-servicios/?parada=547,,,Europe/Madrid
 548,1373,Calle Miguel Delibes 1,Parada,41.6120116915324,-4.75609267681794,,http://www.auvasa.es/mapa-de-servicios/?parada=548,,,Europe/Madrid
 549,1374,Avenida Las Contiendas 97,Parada,41.6585294016704,-4.74759965359955,,http://www.auvasa.es/mapa-de-servicios/?parada=549,,,Europe/Madrid
@@ -342,7 +342,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6454713607064,-4.72250372180281,,http://www.auvasa.es/mapa-de-servicios/?parada=115,,,Europe/Madrid
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,Parada,41.6378181073737,-4.73001918004244,,http://www.auvasa.es/mapa-de-servicios/?parada=118,,,Europe/Madrid
 119,715,Avenida Julián Merino Lápice Piscinas Municipales,Parada,41.6102179562615,-4.68229356601798,,http://www.auvasa.es/mapa-de-servicios/?parada=119,,,Europe/Madrid
-120,716,Calle Bajada de La Libertad 10 frente Teatro Calderón,Parada,41.6535601831311,-4.72442701838852,,http://www.auvasa.es/mapa-de-servicios/?parada=120,,,Europe/Madrid
 121,717,Calle López Gómez 13 esquina Fray Luis de León,Parada,41.6507902960155,-4.72339893524874,,http://www.auvasa.es/mapa-de-servicios/?parada=121,,,Europe/Madrid
 122,719,Calle Antonio Machado esquina Pío Baroja,Parada,41.613874199514,-4.75312396817091,,http://www.auvasa.es/mapa-de-servicios/?parada=122,,,Europe/Madrid
 123,720,Calle Antonio Machado esquina José María Pemán,Parada,41.6142226461006,-4.75368427463568,,http://www.auvasa.es/mapa-de-servicios/?parada=123,,,Europe/Madrid
