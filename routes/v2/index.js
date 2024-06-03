@@ -8,6 +8,7 @@ const {
   getShapesForTrip,
   getStopsElementsForTrip,
   getSuspendedStops,
+  getTripSequence,
 } = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
@@ -371,6 +372,19 @@ routes.get('/geojson/:tripId', async (req, res) => {
 
   const response = await getShapesForTrip(tripId);
   return res.send(response);
+});
+
+routes.get('/tripSequence/:tripId', async (req, res) => {
+  const { tripId } = req.params;
+
+  // Valida tripId
+  const tripIdValidation = tripIdSchema.validate(tripId);
+  if (tripIdValidation.error) {
+    return res.status(400).send(tripIdValidation.error.details[0].message);
+  }
+
+  const response = await getTripSequence(tripId);
+  return res.json(response);
 });
 
 module.exports = routes;
