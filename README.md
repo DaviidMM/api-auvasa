@@ -47,34 +47,42 @@ Resultado:
 {
   "parada": [
     {
-      "parada": "Plaza Cruz Verde 5",
-      "numeroParada": "811",
-      "latitud": 41.6481013731797,
-      "longitud": -4.71999806858758,
-      "url": "http://www.auvasa.es/parada.asp?codigo=811"
+      "parada": "Calle Cigüeña 21",
+      "numeroParada": "634",
+      "latitud": 41.6455079438975,
+      "longitud": -4.71118544705553,
+      "url": "http://www.auvasa.es/mapa-de-servicios/?parada=61",
+      "datosFecha": null
     }
   ],
   "lineas": [
     {
       "linea": "3",
-      "destino": "LAS FLORES",
+      "destino": "C. CONTIENDAS",
       "horarios": [
         {
-          "trip_id": "L3A5_L3A5_2",
-          "llegada": "07:32",
-          "tiempoRestante": -660,
-          "destino": "LAS FLORES"
+          "trip_id": "L3A7_L3A4_14",
+          "stop_sequence": 11,
+          "llegada": "18:22:45",
+          "tiempoRestante": -25,
+          "destino": "C. CONTIENDAS",
+          "fechaHoraLlegada": "2024-06-04T18:22:45+02:00"
         }
 ],
       "realtime": [
         {
-          "trip_id": "L3A5_L3A4_13",
-          "llegada": "17:21",
-          "tiempoRestante": -70,
-          "desfase": 3,
-          "latitud": null,
-          "longitud": null,
-          "velocidad": null
+          "trip_id": "L3A7_L3A4_14",
+          "vehicleId": "73",
+          "matricula": "4799GPN",
+          "stop_sequence": 11,
+          "desfase": -4,
+          "latitud": 41.65528106689453,
+          "longitud": -4.747669219970703,
+          "velocidad": 7.5,
+          "ocupacion": "MANY_SEATS_AVAILABLE",
+          "propagated_delay": "true",
+          "fechaHoraLlegada": "2024-06-04T18:26:41+02:00",
+          "schedule_relationship": "SCHEDULED"
         }
       ]
     }
