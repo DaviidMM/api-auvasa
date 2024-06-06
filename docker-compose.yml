@@ -1,8 +1,8 @@
 services:
-  apiauvasa:
+  apivallabus:
     build: .
-    container_name: apiauvasa
-    image: apiauvasa:latest
+    container_name: apivallabus
+    image: vallabus/apivallabus:latest
     ports:
       - 3000:3000
     restart: unless-stopped
