@@ -12,7 +12,7 @@ Usando los datos abiertos GTFS, revisa la sección [Licencia](#licencia) para m�
 
 Antes de ejecutar la aplicación, asegúrate de tener instalado [Node.js](https://nodejs.org/). También necesitarás configurar las variables de entorno en un archivo `.env` basado en el archivo `.env.example` proporcionado.
 
-Para desplegar en producción revisa [cómo ejecutarlo con Docker y Nginx](#despliegue-en-producción).
+Si no quieres hacer cambios al código y sólo desplegar en producción revisa [cómo ejecutarlo con Docker y Nginx](#despliegue-en-producción).
 
 ## Instalación de dependencias
 
@@ -108,17 +108,24 @@ La actualización de los archivos estáticos de GTFS se realiza automáticamente
 
 Se ha añadido la posibilidad de ejecutar esta api en un contenedor docker con las dependencias necesarias. 
 
-Aasegúrate de tener instalado [Docker](https://www.docker.com/). También necesitarás configurar las variables de entorno en un archivo `.env` basado en el archivo `.env.example` proporcionado.
+Asegúrate de tener instalado [Docker](https://www.docker.com/).
 
 Para ejecutar la api en un contenedor docker se debe ejecutar el siguiente comando:
 
 ```bash
+git clone https://github.com/VallaBus/api-auvasa.git
+cd api-auvasa
 docker compose up -d
 ```
 
-Si se han bajado nuevos cambios, debemos siempre re-crear el contendor
+Si quieres cambiar los parámetros de configuración deberas editar el archivo `.env` basado en el archivo `.env.example` proporcionado antes de lanzar el contenedor.
+
+Si estas realizando cambios al código local y quieres verlos reflejados en el contenedor, debemos siempre re-crear el contendor
+
 ```bash
+docker compose stop
 docker compose up --build -d
+docker compose up -d
 ```
 
 Por defecto, la api se ejecuta en el puerto 3000 de `localhost`. Si es necesario hacer alguna modificación, habrá que editar el archivo `docker-compose.yml`.
