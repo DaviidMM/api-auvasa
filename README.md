@@ -47,34 +47,42 @@ Resultado:
 {
   "parada": [
     {
-      "parada": "Plaza Cruz Verde 5",
-      "numeroParada": "811",
-      "latitud": 41.6481013731797,
-      "longitud": -4.71999806858758,
-      "url": "http://www.auvasa.es/parada.asp?codigo=811"
+      "parada": "Calle Cigüeña 21",
+      "numeroParada": "634",
+      "latitud": 41.6455079438975,
+      "longitud": -4.71118544705553,
+      "url": "http://www.auvasa.es/mapa-de-servicios/?parada=61",
+      "datosFecha": null
     }
   ],
   "lineas": [
     {
       "linea": "3",
-      "destino": "LAS FLORES",
+      "destino": "C. CONTIENDAS",
       "horarios": [
         {
-          "trip_id": "L3A5_L3A5_2",
-          "llegada": "07:32",
-          "tiempoRestante": -660,
-          "destino": "LAS FLORES"
+          "trip_id": "L3A7_L3A4_14",
+          "stop_sequence": 11,
+          "llegada": "18:22:45",
+          "tiempoRestante": -25,
+          "destino": "C. CONTIENDAS",
+          "fechaHoraLlegada": "2024-06-04T18:22:45+02:00"
         }
 ],
       "realtime": [
         {
-          "trip_id": "L3A5_L3A4_13",
-          "llegada": "17:21",
-          "tiempoRestante": -70,
-          "desfase": 3,
-          "latitud": null,
-          "longitud": null,
-          "velocidad": null
+          "trip_id": "L3A7_L3A4_14",
+          "vehicleId": "73",
+          "matricula": "4799GPN",
+          "stop_sequence": 11,
+          "desfase": -4,
+          "latitud": 41.65528106689453,
+          "longitud": -4.747669219970703,
+          "velocidad": 7.5,
+          "ocupacion": "MANY_SEATS_AVAILABLE",
+          "propagated_delay": "true",
+          "fechaHoraLlegada": "2024-06-04T18:26:41+02:00",
+          "schedule_relationship": "SCHEDULED"
         }
       ]
     }
@@ -132,7 +140,8 @@ server {
 
     access_log /var/log/nginx/api.yourdomain.com.access.log;
     error_log /var/log/nginx/api.yourdomain.com.error.log;
-	  return 301 https://$host$request_uri;
+	  # Nunca deberíamos responder por HTTP
+    return 403;
 }
 
 server {
@@ -172,9 +181,9 @@ server {
     location /paradas/suprimidas/ {
             proxy_pass http://localhost:3000;
             proxy_cache my_cache;
-            proxy_cache_valid 200 302 1h;
-            proxy_set_header Cache-Control "max-age=3600";
-            add_header Cache-Control "max-age=3600";
+            proxy_cache_valid 200 302 10m;
+            proxy_set_header Cache-Control "max-age=600";
+            add_header Cache-Control "max-age=600";
     }
 
     location /paradas/ {
@@ -188,9 +197,9 @@ server {
     location /v2/paradas/suprimidas/ {
             proxy_pass http://localhost:3000;
             proxy_cache my_cache;
-            proxy_cache_valid 200 302 1h;
-            proxy_set_header Cache-Control "max-age=3600";
-            add_header Cache-Control "max-age=3600";
+            proxy_cache_valid 200 302 10m;
+            proxy_set_header Cache-Control "max-age=600";
+            add_header Cache-Control "max-age=600";
     }
     
     location /v2/paradas/ {
@@ -204,9 +213,9 @@ server {
     location /alertas/ {
             proxy_pass http://localhost:3000;
             proxy_cache my_cache;
-            proxy_cache_valid 200 302 1h;
-            proxy_set_header Cache-Control "max-age=3600";
-            add_header Cache-Control "max-age=3600";
+            proxy_cache_valid 200 302 10m;
+            proxy_set_header Cache-Control "max-age=600";
+            add_header Cache-Control "max-age=600";
     }
 
    # Cacheamos ubicación del bus 10s y 15s en clientes
@@ -231,7 +240,7 @@ server {
             add_header Cache-Control "max-age=3600";
     }
 
-    # El resto de la info debería actualizarse a menudo, cada 20-30s
+    # El resto de la info debería actualizarse a menudo, cada 25s
     location / {
         proxy_pass http://localhost:3000/;
 	      proxy_http_version 1.1;
@@ -258,4 +267,4 @@ Este proyecto está licenciado bajo la [AGPL v3](LICENSE.md), los datos GTFS son
 
 - [AUVASA](https://www.auvasa.es/datos-abiertos/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/es/)
 - ECSA - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
-- La Regional - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
+- La Regional - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md) 
