@@ -140,7 +140,8 @@ server {
 
     access_log /var/log/nginx/api.yourdomain.com.access.log;
     error_log /var/log/nginx/api.yourdomain.com.error.log;
-	  return 301 https://$host$request_uri;
+	  # Nunca deberíamos responder por HTTP
+    return 403;
 }
 
 server {
@@ -180,9 +181,9 @@ server {
     location /paradas/suprimidas/ {
             proxy_pass http://localhost:3000;
             proxy_cache my_cache;
-            proxy_cache_valid 200 302 1h;
-            proxy_set_header Cache-Control "max-age=3600";
-            add_header Cache-Control "max-age=3600";
+            proxy_cache_valid 200 302 10m;
+            proxy_set_header Cache-Control "max-age=600";
+            add_header Cache-Control "max-age=600";
     }
 
     location /paradas/ {
@@ -196,9 +197,9 @@ server {
     location /v2/paradas/suprimidas/ {
             proxy_pass http://localhost:3000;
             proxy_cache my_cache;
-            proxy_cache_valid 200 302 1h;
-            proxy_set_header Cache-Control "max-age=3600";
-            add_header Cache-Control "max-age=3600";
+            proxy_cache_valid 200 302 10m;
+            proxy_set_header Cache-Control "max-age=600";
+            add_header Cache-Control "max-age=600";
     }
     
     location /v2/paradas/ {
@@ -212,9 +213,9 @@ server {
     location /alertas/ {
             proxy_pass http://localhost:3000;
             proxy_cache my_cache;
-            proxy_cache_valid 200 302 1h;
-            proxy_set_header Cache-Control "max-age=3600";
-            add_header Cache-Control "max-age=3600";
+            proxy_cache_valid 200 302 10m;
+            proxy_set_header Cache-Control "max-age=600";
+            add_header Cache-Control "max-age=600";
     }
 
    # Cacheamos ubicación del bus 10s y 15s en clientes
@@ -239,7 +240,7 @@ server {
             add_header Cache-Control "max-age=3600";
     }
 
-    # El resto de la info debería actualizarse a menudo, cada 20-30s
+    # El resto de la info debería actualizarse a menudo, cada 25s
     location / {
         proxy_pass http://localhost:3000/;
 	      proxy_http_version 1.1;
