@@ -15,8 +15,5 @@ RUN apt-get update && apt-get install -y \
 # Instalar dependencias
 RUN npm install
 
-# Importar GTFS
-RUN npm run gtfsImport
-
-# Iniciar Cron, generar lista de carreras y ejecutar el scrapper
+# Iniciar app
 CMD npm start

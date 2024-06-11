@@ -80,7 +80,7 @@ routes.get('/', function (req, res) {
  *               items:
  *                 $ref: '#/components/schemas/Alerta'
  */
-routes.get('/alertas', cache('15 minutes'), async (req, res) => {
+routes.get('/alertas', async (req, res) => {
   const alerts = await getAlerts();
   return res.status(200).send(alerts);
 });
