@@ -1,0 +1,11 @@
+services:
+  apivallabus:
+    build: .
+    container_name: apivallabusdev
+    image: apivallabusdev
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
