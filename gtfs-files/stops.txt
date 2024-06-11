@@ -115,12 +115,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 466,1258,Calle Mon.SanLorenzoEscorial frenteC.CulturalMiguelDelibes,Parada,41.6437828535966,-4.75414689417165,,http://www.auvasa.es/mapa-de-servicios/?parada=466,,,Europe/Madrid
 467,1259,Calle Joaquín Velasco Martín 108 frente col. María Molina,Parada,41.6450636313973,-4.74082734422194,,http://www.auvasa.es/mapa-de-servicios/?parada=467,,,Europe/Madrid
 468,1261,Calle Martín Santos Romero 60,Parada,41.6378458888006,-4.77170162137242,,http://www.auvasa.es/mapa-de-servicios/?parada=468,,,Europe/Madrid
-469,1262,Calle Martín Santos Romero 186,Parada,41.6342711551204,-4.77215811621041,,http://www.auvasa.es/mapa-de-servicios/?parada=469,,,Europe/Madrid
+469,1262,Calle Martín Santos Romero esq. José María Castilviejo,Parada,41.63331090373,-4.77023765455494,,http://www.auvasa.es/mapa-de-servicios/?parada=469,,,Europe/Madrid
 471,1264,Calle Felipe Ruiz Martín 6,Parada,41.6320841535944,-4.76298068751019,,http://www.auvasa.es/mapa-de-servicios/?parada=471,,,Europe/Madrid
 472,1265,Calle Felipe Ruiz Martín esquina Manuel Canesí Acevedo,Parada,41.6306851285685,-4.75982629559518,,http://www.auvasa.es/mapa-de-servicios/?parada=472,,,Europe/Madrid
 473,1266,Avenida Salamanca Puente de La Hispanidad,Parada,41.6272934976959,-4.75844427949183,,http://www.auvasa.es/mapa-de-servicios/?parada=473,,,Europe/Madrid
 474,1268,Calle Felipe Ruiz Martín frente Manuel Canesí Acevedo,Parada,41.630805464357,-4.75976759055013,,http://www.auvasa.es/mapa-de-servicios/?parada=474,,,Europe/Madrid
-475,1269,Calle Felipe Ruiz Martín fte. 6,Parada,41.6321762249845,-4.76303458224243,,http://www.auvasa.es/mapa-de-servicios/?parada=475,,,Europe/Madrid
+475,1269,Calle Felipe Ruiz Martín IES José Jimenez Lozano,Parada,41.632251403081,-4.76355224858252,,http://www.auvasa.es/mapa-de-servicios/?parada=475,,,Europe/Madrid
 478,1273,Puente Juan de Austria esquina Avenida Salamanca,Parada,41.6395112166939,-4.74467356056032,,http://www.auvasa.es/mapa-de-servicios/?parada=478,,,Europe/Madrid
 479,1276,Calle Martín Santos Romero frente 62,Parada,41.6378200942283,-4.77163510565405,,http://www.auvasa.es/mapa-de-servicios/?parada=479,,,Europe/Madrid
 480,1277,Calle Martín Santos Romero Campo José Luis Saso,Parada,41.6399013940308,-4.76902500123149,,http://www.auvasa.es/mapa-de-servicios/?parada=480,,,Europe/Madrid
@@ -552,3 +552,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 347,997,Paseo Zorrilla 1 antiguo Hospital Militar,Parada,41.6444810352843,-4.73420023719185,,http://www.auvasa.es/mapa-de-servicios/?parada=347,,,Europe/Madrid
 348,998,Paseo Zorrilla 130 Centro Comercial,Parada,41.6370320436707,-4.7393199970302,,http://www.auvasa.es/mapa-de-servicios/?parada=348,,,Europe/Madrid
 349,999,Paseo Zorrilla 133 La Rubia,Parada,41.6277797829535,-4.74327838843489,,http://www.auvasa.es/mapa-de-servicios/?parada=349,,,Europe/Madrid
+3105,PA12237,Calle Martín Santos Romero fte. José María Castilviejo,Parada,41.6334843113547,-4.77035567175164,,http://www.auvasa.es/mapa-de-servicios/?parada=3105,,,Europe/Madrid
