@@ -1,1 +1,4 @@
 node_modules
+lib/gtfs/static/**.txt
+!lib/gtfs/static/agency.txt
+lib/gtfs/database.sqlite
