@@ -12,7 +12,11 @@ Usando los datos abiertos GTFS, revisa la sección [Licencia](#licencia) para m�
 
 Antes de ejecutar la aplicación, asegúrate de tener instalado [Node.js](https://nodejs.org/). También necesitarás configurar las variables de entorno en un archivo `.env` basado en el archivo `.env.example` proporcionado.
 
-Si no quieres hacer cambios al código y sólo desplegar en producción revisa [cómo ejecutarlo con Docker y Nginx](#despliegue-en-producción).
+```
+cp .env.template .env
+```
+
+**Importante:** Si no quieres hacer cambios al código y sólo desplegar en producción revisa [cómo ejecutarlo con Docker y Nginx](#despliegue-en-producción).
 
 ## Instalación de dependencias
 
@@ -27,7 +31,6 @@ npm install
 Para ejecutar la aplicación localmente, utiliza el siguiente comando:
 
 ```
-npm run gtfsImport
 npm start
 ```
 
@@ -90,9 +93,9 @@ Resultado:
 }
 ```
 
-# Actualización automática de datos en tiempo real
+# Actualización automática de datos
 
-La aplicación se actualiza automáticamente con los datos en tiempo real de GTFS si están disponibles. Por defecto los datos GTFS estáticos remotos se actualizan dos veces al día.
+La aplicación se actualiza automáticamente con los datos estáticos y en tiempo real de GTFS si están disponibles. Los tiempos de actualización se pueden definir en el archivo ``.env``.
 
 ## Documentación de la API
 
@@ -102,7 +105,7 @@ Puedes consultar todos los endpoints y parámetros del API accediendo a la docum
 
 ## Actualización de archivos estáticos de GTFS en GitHub Pages
 
-La actualización de los archivos estáticos de GTFS se realiza automáticamente a través de un workflow de GitHub Actions que se ejecuta diariamente a las 7 AM. Puedes ver el archivo de configuración del workflow en [.github/workflows/static.yml](.github/workflows/static.yml).
+La carpeta [gtfs-files](/gtfs-files/) contiene una copia de los últimos archivos GTFS estáticos. Esta carpeta se actualiza en este repositorio automáticamente a través de un workflow de GitHub Actions que se ejecuta diariamente a las 6:40AM. Puedes ver el archivo de configuración del workflow en [.github/workflows/static.yml](.github/workflows/static.yml).
 
 ## Despliegue en producción
 
