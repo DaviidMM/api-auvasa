@@ -5,6 +5,7 @@ API RESTful para devolver la información de paradas y líneas de:
 - [AUVASA](https://auvasa.es/), empresa municipal de transportes de Valladolid, España
 - [ECSA](https://www.ecsa.es/), Empresa Cabrero S.A
 - [La Regional](https://www.autocareslaregional.com/) Vallisoletana S.A
+- [Linecar](https://www.linecar.es/) S.A
 
 Usando los datos abiertos GTFS, revisa la sección [Licencia](#licencia) para más información sobre su reutilización.
 
@@ -113,7 +114,7 @@ Se ha añadido la posibilidad de ejecutar esta api en un contenedor docker con l
 
 Asegúrate de tener instalado [Docker](https://www.docker.com/).
 
-Para ejecutar la api en un contenedor docker se debe ejecutar el siguiente comando:
+Para ejecutar la api en un contenedor docker se debe ejecutar los siguientes comandos:
 
 ```bash
 git clone https://github.com/VallaBus/api-auvasa.git
@@ -121,17 +122,24 @@ cd api-auvasa
 docker compose up -d
 ```
 
-Si quieres cambiar los parámetros de configuración deberas editar el archivo `.env` basado en el archivo `.env.example` proporcionado antes de lanzar el contenedor.
+Si quieres cambiar los parámetros de configuración deberás editar el archivo `.env` basado en el archivo `.env.example` antes de lanzar el contenedor.
 
-Si estas realizando cambios al código local y quieres verlos reflejados en el contenedor, debemos siempre re-crear el contendor
+Por defecto, la api se ejecuta en el puerto 3000 de `localhost`. Si es necesario hacer alguna modificación, habrá que editar el archivo `docker-compose.yml`.
+
+### Actualizar la imagen a la última versión
+
+Por defecto docker usará [la imagen apivallabus ya construida](https://hub.docker.com/r/vallabus/apivallabus), si en el futuro quieres bajar nuevas versiones de esta imagen puedes hacerlo con:
+
+```bash
+docker pull
+```
+
+Y reiniciar el contenedor
 
 ```bash
 docker compose stop
-docker compose up --build -d
 docker compose up -d
 ```
-
-Por defecto, la api se ejecuta en el puerto 3000 de `localhost`. Si es necesario hacer alguna modificación, habrá que editar el archivo `docker-compose.yml`.
 
 ### Servir el api con HTTPS via Nginx
 
@@ -265,6 +273,30 @@ server {
 }
 ```
 
+## Desarrollo local con Docker
+
+Si estas realizando cambios al código local y quieres verlos reflejados en el contenedor Docker deberás construir la imagen e iniciar el contendor usando la config que usa una imagen local:
+
+```bash
+docker-compose -f docker-compose-dev.yml build
+docker-compose -f docker-compose-dev.yml up -d
+```
+
+Si haces cambios debes siempre re-construir el contendor
+
+```bash
+docker-compose -f docker-compose-dev.yml stop
+docker-compose -f docker-compose-dev.yml build
+docker-compose -f docker-compose-dev.yml up -d
+```
+
+Importante: No debes tener levantado el contenedor Docker normal porque ambos usan el puesto 3000, puedes modificar el archivo ``docker-compose-dev.yml`` si quieres que el entorno de desarrollo use otro puerto, por ejemplo el 4000:
+
+```
+ports:
+      - 4000:3000
+```
+
 ## Colaborar en el desarrollo
 
 Las colaboraciones para mejorar el código son bienvenidas. Por favor, asegúrate de seguir las pautas de contribución y de abrir un issue antes de enviar un pull request.
@@ -277,4 +309,5 @@ Este proyecto está licenciado bajo la [AGPL v3](LICENSE.md), los datos GTFS son
 
 - [AUVASA](https://www.auvasa.es/datos-abiertos/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/es/)
 - ECSA - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
-- La Regional - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md) 
+- La Regional - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
+- LineCar - Elaboración propia por VallaBus - [AGPL v3](LICENSE.md)
