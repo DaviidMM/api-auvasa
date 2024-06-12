@@ -226,6 +226,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3091,1416,Calle Picos de Europa esq. Arribes del Duero,Parada,41.6246178728662,-4.71359074124312,,http://www.auvasa.es/mapa-de-servicios/?parada=3091,,,Europe/Madrid
 3092,1417,Calle Arribes del Duero fte. Cañón del Río Lobos,Parada,41.6270538841816,-4.71132025131124,,http://www.auvasa.es/mapa-de-servicios/?parada=3092,,,Europe/Madrid
 3093,1418,Calle Carabela fte. Galeón,Parada,41.6790683104883,-4.74560692916131,,http://www.auvasa.es/mapa-de-servicios/?parada=3093,,,Europe/Madrid
+3105,1419,Calle Martín Santos Romero fte. José María Castilviejo,Parada,41.6334843113548,-4.77035567175164,,http://www.auvasa.es/mapa-de-servicios/?parada=3105,,,Europe/Madrid
 1,550,Calle Hernando de Acuña 1 esquina Mateo Seoane S.,Parada,41.6379983836047,-4.75574461249468,,http://www.auvasa.es/mapa-de-servicios/?parada=1,,,Europe/Madrid
 2,551,Calle Hernando de Acuña 13 esquina Manuel Silvela,Parada,41.637992139995,-4.75843566197342,,http://www.auvasa.es/mapa-de-servicios/?parada=2,,,Europe/Madrid
 3,552,Calle Hernando de Acuña 18 esquina Manuel Silvela,Parada,41.6381753268001,-4.75855368880795,,http://www.auvasa.es/mapa-de-servicios/?parada=3,,,Europe/Madrid
@@ -552,4 +553,3 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 347,997,Paseo Zorrilla 1 antiguo Hospital Militar,Parada,41.6444810352843,-4.73420023719185,,http://www.auvasa.es/mapa-de-servicios/?parada=347,,,Europe/Madrid
 348,998,Paseo Zorrilla 130 Centro Comercial,Parada,41.6370320436707,-4.7393199970302,,http://www.auvasa.es/mapa-de-servicios/?parada=348,,,Europe/Madrid
 349,999,Paseo Zorrilla 133 La Rubia,Parada,41.6277797829535,-4.74327838843489,,http://www.auvasa.es/mapa-de-servicios/?parada=349,,,Europe/Madrid
-3105,PA12237,Calle Martín Santos Romero fte. José María Castilviejo,Parada,41.6334843113547,-4.77035567175164,,http://www.auvasa.es/mapa-de-servicios/?parada=3105,,,Europe/Madrid
