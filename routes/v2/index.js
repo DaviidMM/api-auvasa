@@ -9,6 +9,7 @@ const {
   getStopsElementsForTrip,
   getSuspendedStops,
   getTripSequence,
+  getGbfsParadas,
 } = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
@@ -384,6 +385,28 @@ routes.get('/tripSequence/:tripId', async (req, res) => {
   }
 
   const response = await getTripSequence(tripId);
+  return res.json(response);
+});
+
+/**
+ * @openapi
+ * /gbfs/paradas:
+ *   get:
+ *     tags:
+ *       - Paradas
+ *     summary: Obtiene información sobre todas las paradas GBFS disponibles
+ *     responses:
+ *       200:
+ *         description: Lista de todas las paradas GBFS
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 $ref: '#/components/schemas/Parada'
+ */
+routes.get('/gbfs/paradas', async (req, res) => {
+  const response = await getGbfsParadas();
   return res.json(response);
 });
 
