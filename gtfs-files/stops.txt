@@ -51,6 +51,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 402,1153,Calle Sotavento esquina Colombia,Parada,41.6329851607453,-4.74741866492433,,http://www.auvasa.es/mapa-de-servicios/?parada=402,,,Europe/Madrid
 403,1155,Calle Santa Clara 34 esquina Real de Burgos,Parada,41.6589050413767,-4.71931163024214,,http://www.auvasa.es/mapa-de-servicios/?parada=403,,,Europe/Madrid
 404,1156,Calle Acera Recoletos frente 2 esquina Pza Zorrilla,Parada,41.6477688650087,-4.72904940268662,,http://www.auvasa.es/mapa-de-servicios/?parada=404,,,Europe/Madrid
+405,1158,Calle Chancillería 5,Parada,41.6570370157701,-4.72005049992985,,http://www.auvasa.es/mapa-de-servicios/?parada=405,,,Europe/Madrid
 406,1159,Calle Colón 14,Parada,41.6532773141477,-4.71779350091781,,http://www.auvasa.es/mapa-de-servicios/?parada=406,,,Europe/Madrid
 408,1163,Calle Estación del Norte RENFE,Parada,41.643250885542,-4.7269143209713,,http://www.auvasa.es/mapa-de-servicios/?parada=408,,,Europe/Madrid
 409,1164,Paseo Jardín Botánico esquina Brezo,Parada,41.672766433045,-4.73055000396716,,http://www.auvasa.es/mapa-de-servicios/?parada=409,,,Europe/Madrid
@@ -79,7 +80,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 432,1195,Calle Topacio 2,Parada,41.6124066902789,-4.71092943743483,,http://www.auvasa.es/mapa-de-servicios/?parada=432,,,Europe/Madrid
 433,1196,Calle Topacio 39,Parada,41.6123165296192,-4.71054326389596,,http://www.auvasa.es/mapa-de-servicios/?parada=433,,,Europe/Madrid
 434,1201,Calle Cardenal Torquemada frente Polideportivo Rondilla,Parada,41.6657189126321,-4.71752799975424,,http://www.auvasa.es/mapa-de-servicios/?parada=434,,,Europe/Madrid
-435,1202,Calle Valle de Arán 48,Parada,41.6684261296726,-4.7147648712377,,http://www.auvasa.es/mapa-de-servicios/?parada=435,,,Europe/Madrid
 436,1203,Calle Valle de Arán 76 esquina Costa Brava,Parada,41.6706379468226,-4.71253555520776,,http://www.auvasa.es/mapa-de-servicios/?parada=436,,,Europe/Madrid
 437,1204,Calle Costa Brava Centro Comercial,Parada,41.6683861514544,-4.70959149703501,,http://www.auvasa.es/mapa-de-servicios/?parada=437,,,Europe/Madrid
 438,1205,Calle Costa Brava 1 esquina Costa Dorada,Parada,41.6707776427378,-4.71202499746007,,http://www.auvasa.es/mapa-de-servicios/?parada=438,,,Europe/Madrid
@@ -187,6 +187,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 543,1368,Calle Verbena esquina Nicasio Pérez,Parada,41.6513910402983,-4.71675100483311,,http://www.auvasa.es/mapa-de-servicios/?parada=543,,,Europe/Madrid
 544,1369,Calle Júpiter frente 12  esquina Comuneros de Castilla,Parada,41.6629374628376,-4.73629821780062,,http://www.auvasa.es/mapa-de-servicios/?parada=544,,,Europe/Madrid
 545,1370,Plaza Castilla y León 4  esquina Miguel Delibes,Parada,41.6104550411938,-4.75194100098138,,http://www.auvasa.es/mapa-de-servicios/?parada=545,,,Europe/Madrid
+546,1371,Plaza San Pablo 2 esquina San Quirce,Parada,41.6571720434158,-4.72584900575211,,http://www.auvasa.es/mapa-de-servicios/?parada=546,,,Europe/Madrid
 547,1372,Calle Miguel Delibes 14,Parada,41.6117751476761,-4.75578910065759,,http://www.auvasa.es/mapa-de-servicios/?parada=547,,,Europe/Madrid
 548,1373,Calle Miguel Delibes 1,Parada,41.6120116915324,-4.75609267681794,,http://www.auvasa.es/mapa-de-servicios/?parada=548,,,Europe/Madrid
 549,1374,Avenida Las Contiendas 97,Parada,41.6585294016704,-4.74759965359955,,http://www.auvasa.es/mapa-de-servicios/?parada=549,,,Europe/Madrid
@@ -219,6 +220,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2917,1408,El Pinar de Antequera hacia Pte Duero,Parada,41.5879349661796,-4.75586555196679,,http://www.auvasa.es/mapa-de-servicios/?parada=2917,,,Europe/Madrid
 2919,1409,Calle Andrómeda esquina Orden de Malta,Parada,41.6551270078788,-4.70514614640447,,http://www.auvasa.es/mapa-de-servicios/?parada=2919,,,Europe/Madrid
 2920,1410,Calle Andrómeda frente Orden de Malta,Parada,41.6552348751786,-4.70521430163913,,http://www.auvasa.es/mapa-de-servicios/?parada=2920,,,Europe/Madrid
+2923,1411,Calle Madre de Dios 6,Parada,41.6580863355115,-4.71734880738889,,http://www.auvasa.es/mapa-de-servicios/?parada=2923,,,Europe/Madrid
 2938,1413,Calle Víctimas del Terrorismo fte. Hospital Río Hortega,Parada,41.631830298188,-4.71352659888684,,http://www.auvasa.es/mapa-de-servicios/?parada=2938,,,Europe/Madrid
 3089,1414,Calle Arribes del Duero esq. Cañón del Río Lobos,Parada,41.6266097951516,-4.71180036672507,,http://www.auvasa.es/mapa-de-servicios/?parada=3089,,,Europe/Madrid
 3090,1415,Calle Picos de Europa esq. Sierra de Gredos,Parada,41.6248283959958,-4.71376642593365,,http://www.auvasa.es/mapa-de-servicios/?parada=3090,,,Europe/Madrid
@@ -233,6 +235,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5,554,Calle Padre Benito Menni esquina Caamaño,Parada,41.6289899742245,-4.72477903383175,,http://www.auvasa.es/mapa-de-servicios/?parada=5,,,Europe/Madrid
 6,555,Calle Aluminio frente 5,Parada,41.6258561769108,-4.70174239612756,,http://www.auvasa.es/mapa-de-servicios/?parada=6,,,Europe/Madrid
 7,556,Calle Aluminio 7 esquina Turquesa,Parada,41.6256225463685,-4.70194784234859,,http://www.auvasa.es/mapa-de-servicios/?parada=7,,,Europe/Madrid
+8,558,Calle Angustias 5 Teatro Calderón,Parada,41.6542742530787,-4.72399426139778,,http://www.auvasa.es/mapa-de-servicios/?parada=8,,,Europe/Madrid
 9,560,Calle Arca Real frente Centro Madrid,Parada,41.6285480622966,-4.72797821541739,,http://www.auvasa.es/mapa-de-servicios/?parada=9,,,Europe/Madrid
 10,561,Calle Arca Real Centro Madrid,Parada,41.6283989740151,-4.72784879227137,,http://www.auvasa.es/mapa-de-servicios/?parada=10,,,Europe/Madrid
 11,564,Calle Argales frente 21 Inst. Arca Real,Parada,41.6361640440971,-4.7251799961792,,http://www.auvasa.es/mapa-de-servicios/?parada=11,,,Europe/Madrid
@@ -274,6 +277,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 47,618,Avenida Soria esquina Diego Velázquez,Parada,41.6088512581672,-4.68437314398953,,http://www.auvasa.es/mapa-de-servicios/?parada=47,,,Europe/Madrid
 48,619,Calle Castillejo frente 4-6,Parada,41.611042773221,-4.68404804514299,,http://www.auvasa.es/mapa-de-servicios/?parada=48,,,Europe/Madrid
 49,621,Paseo Isabel La Católica Plaza Poniente,Parada,41.6533270395783,-4.73208799966472,,http://www.auvasa.es/mapa-de-servicios/?parada=49,,,Europe/Madrid
+50,622,Paseo Isabel La Católica Instituto Núñez de Arce,Parada,41.6545830414661,-4.73180799877533,,http://www.auvasa.es/mapa-de-servicios/?parada=50,,,Europe/Madrid
 51,623,Paseo Isabel La Católica 27 esquina Conde Benavente,Parada,41.6580170385054,-4.73131999741435,,http://www.auvasa.es/mapa-de-servicios/?parada=51,,,Europe/Madrid
 52,624,Paseo del Cauce frente Ing. Industriales,Parada,41.6562232285455,-4.71109018582816,,http://www.auvasa.es/mapa-de-servicios/?parada=52,,,Europe/Madrid
 53,625,Paseo del Cauce frente Centro Salud Pilarica,Parada,41.6537990418717,-4.71141600466154,,http://www.auvasa.es/mapa-de-servicios/?parada=53,,,Europe/Madrid
@@ -338,6 +342,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 115,707,Calle Panaderos 42 esq. Pza. Caño Argales,Parada,41.6454713607064,-4.72250372180281,,http://www.auvasa.es/mapa-de-servicios/?parada=115,,,Europe/Madrid
 118,711,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,Parada,41.6378181073737,-4.73001918004244,,http://www.auvasa.es/mapa-de-servicios/?parada=118,,,Europe/Madrid
 119,715,Avenida Julián Merino Lápice Piscinas Municipales,Parada,41.6102179562615,-4.68229356601798,,http://www.auvasa.es/mapa-de-servicios/?parada=119,,,Europe/Madrid
+120,716,Calle Bajada de La Libertad 10 frente Teatro Calderón,Parada,41.6535601831311,-4.72442701838852,,http://www.auvasa.es/mapa-de-servicios/?parada=120,,,Europe/Madrid
 121,717,Calle López Gómez 13 esquina Fray Luis de León,Parada,41.6507902960155,-4.72339893524874,,http://www.auvasa.es/mapa-de-servicios/?parada=121,,,Europe/Madrid
 122,719,Calle Antonio Machado esquina Pío Baroja,Parada,41.613874199514,-4.75312396817091,,http://www.auvasa.es/mapa-de-servicios/?parada=122,,,Europe/Madrid
 123,720,Calle Antonio Machado esquina José María Pemán,Parada,41.6142226461006,-4.75368427463568,,http://www.auvasa.es/mapa-de-servicios/?parada=123,,,Europe/Madrid
