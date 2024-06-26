@@ -4,7 +4,8 @@ name: Update GTFS static files
 on:
   workflow_dispatch:
   schedule:
-  - cron: '35 6 * * *'
+  # Time is in UTC timezone, 6:35AM CEST 
+  - cron: '35 4 * * *'
 
 jobs:
   build:
