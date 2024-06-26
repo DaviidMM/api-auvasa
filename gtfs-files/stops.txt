@@ -80,6 +80,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 432,1195,Calle Topacio 2,Parada,41.6124066902789,-4.71092943743483,,http://www.auvasa.es/mapa-de-servicios/?parada=432,,,Europe/Madrid
 433,1196,Calle Topacio 39,Parada,41.6123165296192,-4.71054326389596,,http://www.auvasa.es/mapa-de-servicios/?parada=433,,,Europe/Madrid
 434,1201,Calle Cardenal Torquemada frente Polideportivo Rondilla,Parada,41.6657189126321,-4.71752799975424,,http://www.auvasa.es/mapa-de-servicios/?parada=434,,,Europe/Madrid
+435,1202,Calle Valle de Arán 48,Parada,41.6684261296726,-4.7147648712377,,http://www.auvasa.es/mapa-de-servicios/?parada=435,,,Europe/Madrid
 436,1203,Calle Valle de Arán 76 esquina Costa Brava,Parada,41.6706379468226,-4.71253555520776,,http://www.auvasa.es/mapa-de-servicios/?parada=436,,,Europe/Madrid
 437,1204,Calle Costa Brava Centro Comercial,Parada,41.6683861514544,-4.70959149703501,,http://www.auvasa.es/mapa-de-servicios/?parada=437,,,Europe/Madrid
 438,1205,Calle Costa Brava 1 esquina Costa Dorada,Parada,41.6707776427378,-4.71202499746007,,http://www.auvasa.es/mapa-de-servicios/?parada=438,,,Europe/Madrid
