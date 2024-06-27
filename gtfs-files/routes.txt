@@ -50,3 +50,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 407,101,M7,La Cistérniga - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=407,532FA2,FFFFFF
 951,101,U1,Covaresa - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/mapa-de-servicios/?linea=951,FF3067,000000
 952,101,U8,Parquesol - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/mapa-de-servicios/?linea=952,FF3067,000000
+1011,101,SL,Lanzadera Conexión Valladolid,,3,http://www.auvasa.es/mapa-de-servicios/?linea=1011,000000,FFFFFF
