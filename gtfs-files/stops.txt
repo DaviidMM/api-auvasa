@@ -103,7 +103,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 453,1234,Camino Viejo Simancas frente 167 esquina Barcelona,Parada,41.6179781266127,-4.76160321501058,,http://www.auvasa.es/mapa-de-servicios/?parada=453,,,Europe/Madrid
 454,1235,Calle Alamillos 11,Parada,41.6543323948332,-4.71606323014305,,http://www.auvasa.es/mapa-de-servicios/?parada=454,,,Europe/Madrid
 455,1237,Calle Adolfo Miaja de la Muela frente Padre Llanos,Parada,41.6416591865929,-4.75611136750617,,http://www.auvasa.es/mapa-de-servicios/?parada=455,,,Europe/Madrid
-456,1238,Calle Adolfo Miaja de la Muela esquina Padre Llanos,Parada,41.6405752737324,-4.7557882662324,,http://www.auvasa.es/mapa-de-servicios/?parada=456,,,Europe/Madrid
 457,1239,Calle Adolfo Miaja de la Muela Residencia Doctor Villacián,Parada,41.6386491731789,-4.75390639676364,,http://www.auvasa.es/mapa-de-servicios/?parada=457,,,Europe/Madrid
 458,1247,Calle Mieses esquina Barbecho,Parada,41.6508937381901,-4.74699376572176,,http://www.auvasa.es/mapa-de-servicios/?parada=458,,,Europe/Madrid
 459,1248,Calle Mieses esquina Monasterio Santa María Retuerta,Parada,41.6507024847843,-4.74747200490314,,http://www.auvasa.es/mapa-de-servicios/?parada=459,,,Europe/Madrid
