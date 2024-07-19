@@ -467,6 +467,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 248,875,Calle Santa Lucía 62 esquina Plaza Luis Braille,Parada,41.6518770381963,-4.71401699534218,,http://www.auvasa.es/mapa-de-servicios/?parada=248,,,Europe/Madrid
 249,876,Avenida Santander Poblado Endasa,Parada,41.6643060385063,-4.71324499906135,,http://www.auvasa.es/mapa-de-servicios/?parada=249,,,Europe/Madrid
 250,877,Avenida Santander frente Poblado Endasa,Parada,41.6641820441446,-4.71302200336391,,http://www.auvasa.es/mapa-de-servicios/?parada=250,,,Europe/Madrid
+251,878,Avenida Santander Centro Comercial,Parada,41.6685000416209,-4.70807499935811,,http://www.auvasa.es/mapa-de-servicios/?parada=251,,,Europe/Madrid
+252,879,Avenida Santander 49 Barrio España,Parada,41.6660875682307,-4.71110840440754,,http://www.auvasa.es/mapa-de-servicios/?parada=252,,,Europe/Madrid
 253,880,Avenida Santander 8 frente Barrio España,Parada,41.6666647249963,-4.71009226435519,,http://www.auvasa.es/mapa-de-servicios/?parada=253,,,Europe/Madrid
 254,881,Calle Santuario 5 esquina López Gómez,Parada,41.6501160371502,-4.72351400324376,,http://www.auvasa.es/mapa-de-servicios/?parada=254,,,Europe/Madrid
 255,882,Calle Transición 3,Parada,41.6315058110741,-4.72549665290546,,http://www.auvasa.es/mapa-de-servicios/?parada=255,,,Europe/Madrid
