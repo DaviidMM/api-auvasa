@@ -373,7 +373,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 147,757,Avenida Gloria Fuertes 1 esquina Joaquín Velasco Martín,Parada,41.6533800423541,-4.73661799849766,,http://www.auvasa.es/mapa-de-servicios/?parada=147,,,Europe/Madrid
 148,759,Avenida Gloria Fuertes 4 esquina Avenida Salamanca,Parada,41.6535420387106,-4.73660300429376,,http://www.auvasa.es/mapa-de-servicios/?parada=148,,,Europe/Madrid
 149,761,Avenida Mundial 82 Estadio José Zorrilla,Parada,41.644685706236,-4.76014991894024,,http://www.auvasa.es/mapa-de-servicios/?parada=149,,,Europe/Madrid
-151,767,Calle Daniel del Olmo esquina Paseo Zorrilla,Parada,41.6298741942053,-4.74034344509989,,http://www.auvasa.es/mapa-de-servicios/?parada=151,,,Europe/Madrid
 155,771,Calle Títulos esquina Guindal,Parada,41.6913679146325,-4.71279619246588,,http://www.auvasa.es/mapa-de-servicios/?parada=155,,,Europe/Madrid
 156,772,Calle Títulos frente Guindal,Parada,41.6914425509529,-4.71279791908859,,http://www.auvasa.es/mapa-de-servicios/?parada=156,,,Europe/Madrid
 157,773,Calle Títulos frente Los Traductores,Parada,41.6785226772608,-4.72132514632503,,http://www.auvasa.es/mapa-de-servicios/?parada=157,,,Europe/Madrid
