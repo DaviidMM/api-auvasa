@@ -223,6 +223,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2917,1408,El Pinar de Antequera hacia Pte Duero,Parada,41.5879349661796,-4.75586555196679,,http://www.auvasa.es/mapa-de-servicios/?parada=2917,,,Europe/Madrid
 2919,1409,Calle Andrómeda esquina Orden de Malta,Parada,41.6551270078788,-4.70514614640447,,http://www.auvasa.es/mapa-de-servicios/?parada=2919,,,Europe/Madrid
 2920,1410,Calle Andrómeda frente Orden de Malta,Parada,41.6552348751786,-4.70521430163913,,http://www.auvasa.es/mapa-de-servicios/?parada=2920,,,Europe/Madrid
+2923,1411,Calle Madre de Dios 6,Parada,41.6580863355115,-4.71734880738889,,http://www.auvasa.es/mapa-de-servicios/?parada=2923,,,Europe/Madrid
 2938,1413,Calle Víctimas del Terrorismo fte. Hospital Río Hortega,Parada,41.631830298188,-4.71352659888684,,http://www.auvasa.es/mapa-de-servicios/?parada=2938,,,Europe/Madrid
 3089,1414,Calle Arribes del Duero esq. Cañón del Río Lobos,Parada,41.6266097951516,-4.71180036672507,,http://www.auvasa.es/mapa-de-servicios/?parada=3089,,,Europe/Madrid
 3090,1415,Calle Picos de Europa esq. Sierra de Gredos,Parada,41.6248283959958,-4.71376642593365,,http://www.auvasa.es/mapa-de-servicios/?parada=3090,,,Europe/Madrid
@@ -279,6 +280,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 47,618,Avenida Soria esquina Diego Velázquez,Parada,41.6088512581672,-4.68437314398953,,http://www.auvasa.es/mapa-de-servicios/?parada=47,,,Europe/Madrid
 48,619,Calle Castillejo frente 4-6,Parada,41.611042773221,-4.68404804514299,,http://www.auvasa.es/mapa-de-servicios/?parada=48,,,Europe/Madrid
 49,621,Paseo Isabel La Católica Plaza Poniente,Parada,41.6533270395783,-4.73208799966472,,http://www.auvasa.es/mapa-de-servicios/?parada=49,,,Europe/Madrid
+50,622,Paseo Isabel La Católica Instituto Núñez de Arce,Parada,41.6545830414661,-4.73180799877533,,http://www.auvasa.es/mapa-de-servicios/?parada=50,,,Europe/Madrid
 51,623,Paseo Isabel La Católica 27 esquina Conde Benavente,Parada,41.6580170385054,-4.73131999741435,,http://www.auvasa.es/mapa-de-servicios/?parada=51,,,Europe/Madrid
 52,624,Paseo del Cauce frente Ing. Industriales,Parada,41.6562232285455,-4.71109018582816,,http://www.auvasa.es/mapa-de-servicios/?parada=52,,,Europe/Madrid
 53,625,Paseo del Cauce frente Centro Salud Pilarica,Parada,41.6537990418717,-4.71141600466154,,http://www.auvasa.es/mapa-de-servicios/?parada=53,,,Europe/Madrid
